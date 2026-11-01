@@ -150,10 +150,16 @@ Les notebooks sont organisés de manière séquentielle :
 
 ## Installation et exécution
 
-### 1. Prérequis
+### 1. Cloner le projet
+```bash
+git clone https://github.com/Nayer878/importations-alimentaires-comores.git
+cd importations-alimentaires-comores
+```
+
+### 2. Prérequis
 Python 3.10 ou supérieur.
 
-### 2. Environnement virtuel
+### 3. Environnement virtuel
 ```bash
 python -m venv .venv
 # Sous Windows PowerShell :
@@ -162,18 +168,18 @@ python -m venv .venv
 source .venv/bin/activate
 ```
 
-### 3. Dépendances
+### 4. Dépendances
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Fichier source
+### 5. Fichier source
 Vérifier la présence du fichier brut dans :
 ```text
 data/raw/FAOSTAT_data.csv
 ```
 
-### 5. Ordre d'exécution des notebooks
+### 6. Ordre d'exécution des notebooks
 1. `notebooks/01_preparation_donnees.ipynb`
 2. *(Facultatif)* Ajuster `data/processed/product_classification.csv`.
 3. `notebooks/02_analyse_exploratoire.ipynb`
