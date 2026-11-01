@@ -1,0 +1,345 @@
+﻿Item Code (CPC),Item
+0111,Wheat
+0112,Maize (corn)
+0113,Rice
+0114,Sorghum
+0116,Rye
+0117,Oats
+0118,Millet
+01191,Triticale
+01199.90,Cereals n.e.c.
+01212,Cabbages
+01213,Cauliflowers and broccoli
+01214,Lettuce and chicory
+01215,Spinach
+01216,Artichokes
+01221,Watermelons
+01229,Cantaloupes and other melons
+01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)"
+01232,Cucumbers and gherkins
+01233,Eggplants (aubergines)
+01234,Tomatoes
+01241.90,"Other beans, green"
+01242,"Peas, green"
+01243,"Broad beans and horse beans, green"
+01251,Carrots and turnips
+01252,Green garlic
+01253.01,"Onions and shallots, green"
+01253.02,"Onions and shallots, dry (excluding dehydrated)"
+01254,Leeks and other alliaceous vegetables
+01270,Mushrooms and truffles
+01290.90,"Other vegetables, fresh n.e.c."
+01311,Avocados
+01312,Bananas
+01313,Plantains and cooking bananas
+01314,Dates
+01315,Figs
+01318,Pineapples
+01321,Pomelos and grapefruits
+01322,Lemons and limes
+01323,Oranges
+01324,"Tangerines, mandarins, clementines"
+01329,"Other citrus fruit, n.e.c."
+01330,Grapes
+01341,Apples
+01342.01,Pears
+01343,Apricots
+01344.01,Sour cherries
+01344.02,Cherries
+01345,Peaches and nectarines
+01346,Plums and sloes
+01352,Kiwi fruit
+01354,Strawberries
+01359.01,Persimmons
+01359.90,"Other fruits, n.e.c."
+01371,"Almonds, in shell"
+01372,"Cashew nuts, in shell"
+01373,"Chestnuts, in shell"
+01375,"Pistachios, in shell"
+01376,"Walnuts, in shell"
+01377,"Brazil nuts, in shell"
+01379.02,Kola nuts
+01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c."
+0141,Soya beans
+0142,"Groundnuts, excluding shelled"
+0143,Cotton seed
+01441,Linseed
+01443,Rape or colza seed
+01444,Sesame seed
+01449.90,"Other oil seeds, n.e.c."
+01450,Olives
+01460,"Coconuts, in shell"
+01510,Potatoes
+01520.02,"Cassava, dry"
+01530,Sweet potatoes
+01540,Yams
+01550,Taro
+01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh"
+01610,"Coffee, green"
+01620,Tea leaves
+01630,Maté leaves
+01640,Cocoa beans
+01651,"Pepper (Piper spp.), raw"
+01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw"
+01653,"Nutmeg, mace, cardamoms, raw"
+01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw"
+01655,"Cinnamon and cinnamon-tree flowers, raw"
+01656,"Cloves (whole stems), raw"
+01657,"Ginger, raw"
+01658,"Vanilla, raw"
+01699,"Other stimulant, spice and aromatic crops, n.e.c."
+01701,"Beans, dry"
+01703,"Chick peas, dry"
+01704,"Lentils, dry"
+01705,"Peas, dry"
+01707,"Pigeon peas, dry"
+01709.90,Other pulses n.e.c.
+01801,Sugar beet
+01802,Sugar cane
+01913,"Cereal straw, husks, unprepared, ground, pressed, or in the form of pellets"
+01919.96,"Other forage products, n.e.c."
+01921.02,"Cotton lint, ginned"
+01922.01,"Jute, raw or retted"
+01929.02,"True hemp, raw or retted"
+01929.05,"Sisal, raw"
+01929.07,"Abaca, manila hemp, raw"
+01929.90,"Other fibre crops, raw, n.e.c."
+01950.01,Natural rubber in primary forms
+01950.02,Natural rubber in other forms
+01970,Unmanufactured tobacco
+01990.01,"Vegetable products, fresh or dry n.e.c."
+02111,Cattle
+02112,Buffalo
+02122,Sheep
+02123,Goats
+02131,Horses
+02133,Mules and hinnies
+02140,Swine / pigs
+02151,Chickens
+02152,Turkeys
+02192.01,Other rodents
+02199.10,"Other live animals non food, n.e.c."
+02199.20,"Other live animals, n.e.c."
+02211,Raw milk of cattle
+0231,"Hen eggs in shell, fresh"
+0232,"Eggs from other birds in shell, fresh, n.e.c."
+02910,Natural honey
+02941,"Shorn wool, greasy, including fleece-washed shorn wool"
+02942.90,"Hair, coarse nes"
+02943.01,"Hair, goat, fine"
+02951.91,"Hides, cattle nes"
+02953.04,"Skins, dry-salted of sheep"
+02955.02,"Skins, rabbit"
+02955.90,"Skins, furs"
+02959.99,"Other raw skins of other animals, preserved"
+02960.02,Spermaceti
+03211,"Balata, gutta-percha, guayule, chicle and similar natural gums in primary forms or in plates, sheets or strip"
+17400,Ice and snow
+21111.01,"Meat of cattle with the bone, fresh or chilled"
+21111.02,"Meat of cattle boneless, fresh or chilled"
+21113.01,"Meat of pig with the bone, fresh or chilled"
+21113.02,"Meat of pig boneless, fresh or chilled"
+21115,"Meat of sheep, fresh or chilled"
+21116,"Meat of goat, fresh or chilled"
+21118.01,"Horse meat, fresh or chilled"
+21119.90,"Other meat of mammals, fresh or chilled"
+21121,"Meat of chickens, fresh or chilled"
+21122,"Meat of ducks, fresh or chilled"
+21123,"Meat of geese, fresh or chilled"
+21124,"Meat of turkeys, fresh or chilled"
+21151,"Edible offal of cattle, fresh, chilled or frozen"
+21153,"Edible offal of pigs, fresh, chilled or frozen"
+21155,"Edible offal of sheep, fresh, chilled or frozen"
+21160.01,"Edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen"
+21160.02,"Edible offals and liver of geese, fresh, chilled or frozen"
+21160.03,"Edible offals and liver of ducks, fresh, chilled or frozen"
+21170.02,"Game meat, fresh, chilled or frozen"
+21181,"Pig meat, cuts, salted, dried or smoked (bacon and ham)"
+21182,"Bovine meat, salted, dried or smoked"
+21183,"Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal"
+21184.02,"Sausages and similar products of meat, offal or blood of pig"
+21185,"Extracts and juices of meat, fish, crustaceans, molluscs or other aquatic invertebrates"
+21189.01,Liver preparations
+21190.01,Meat meal
+21313,"Potatoes, frozen"
+21319.01,"Sweet corn, frozen"
+21321,Tomato juice
+21329,Other vegetable juices
+21330.90,Other vegetables provisionally preserved
+21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid"
+21392,"Flour, meal, powder, flakes, granules and pellets of potatoes"
+21393.01,Dried mushrooms
+21393.90,"Vegetables, dehydrated"
+21397.01,Canned mushrooms
+21399.01,Paste of tomatoes
+21399.02,"Tomatoes, peeled (o/t vinegar)"
+21399.03,"Sweet corn, prepared or preserved"
+21411,Raisins
+21412,"Plums, dried"
+21419.01,"Apricots, dried"
+21419.99,"Other fruit n.e.c., dried"
+21421,"Groundnuts, shelled"
+21422,"Almonds, shelled"
+21423,"Hazelnuts, shelled"
+21424,"Cashew nuts, shelled"
+21429.01,"Brazil nuts, shelled"
+21429.02,"Walnuts, shelled"
+21429.07,"Coconuts, desiccated"
+21431.01,Orange juice
+21432,Grapefruit juice
+21432.01,"Grapefruit juice, concentrated"
+21433,Pineapple juice
+21433.01,"Juice of pineapples, concentrated"
+21434,Grape juice
+21435.01,Apple juice
+21435.02,"Apple juice, concentrated"
+21439.02,Juice of lemon
+21439.04,Juice of citrus fruit n.e.c.
+21439.05,"Citrus juice, concentrated n.e.c."
+21439.90,Juice of fruits n.e.c.
+21491,"Pineapples, otherwise prepared or preserved"
+21495.01,Prepared groundnuts
+21511.03,Fat of poultry
+21512,"Cattle fat, unrendered"
+21521,"Pig fat, rendered"
+21522,"Poultry fat, rendered"
+21523,Tallow
+21529.03,Animal oils and fats n.e.c.
+2161,Soya bean oil
+2162,Groundnut oil
+21631.01,"Sunflower-seed oil, crude"
+21641.01,"Rapeseed or canola oil, crude"
+2165,Palm oil
+2166,Coconut oil
+2167,Olive oil
+21673,Oil of olive residues
+2168,Cottonseed oil
+21691.02,Oil of maize
+21691.04,Oil of castor beans
+21691.06,Jojoba oil
+21691.07,Oil of sesame seed
+21691.12,Oil of linseed
+21691.14,Oil of palm kernel
+21691.90,"Other oil of vegetable origin, crude n.e.c."
+21700.02,Margarine and shortening
+21800,Cotton linters
+21910.03,Cake of  soya beans
+21910.04,Cake of groundnuts
+21910.05,Cake of copra
+21910.06,Cake of palm kernel
+21910.07,Cake of sunflower seed
+21910.08,Cake of rapeseed
+21910.16,Cake of  linseed
+21910.90,"Cake, oilseeds nes"
+21920,"Flours and meals of oil seeds or oleaginous fruits, except those of mustard"
+21932.02,Residues of fatty substances
+22110.02,Skim milk of cows
+22120,"Cream, fresh"
+22130.02,"Whey, dry"
+22211,Whole milk powder
+22212,Skim milk and whey powder
+22221.01,"Whole milk, evaporated"
+22222.01,"Whole milk, condensed"
+22230.02,"Yoghurt, with additives"
+22230.03,"Buttermilk, curdled and acidified milk"
+22241.01,Butter of cow milk
+22249.01,Butter and ghee of sheep milk
+22251.01,Cheese from whole cow milk
+22251.04,Processed cheese
+22270,Ice cream and other edible ice
+22290,Dairy products n.e.c.
+23110,Wheat and meslin flour
+23120.01,Flour of rice
+23120.03,Flour of maize
+23120.04,Flour of rye
+23120.90,Flour of cereals n.e.c.
+23140.01,Germ of wheat
+23140.03,Breakfast cereals
+23140.07,"Oats, rolled"
+23140.08,Cereal preparations
+23161.02,"Rice, milled"
+23161.03,"Rice, broken"
+23162,Husked rice
+23170.03,Flour of pulses
+23170.04,Flour of fruits
+23180,Mixes and doughs for the preparation of bakers' wares
+23210.03,Other fructose and syrup
+23210.04,Sugar and syrups n.e.c.
+23210.05,Glucose and dextrose
+23210.06,Lactose
+23220.06,Starch of cassava
+23230.01,Tapioca of potatoes
+23311,"Dog or cat food, put up for retail sale"
+23319.01,"Feed, compound, cattle"
+2351f,Raw cane or beet sugar (centrifugal only)
+23520,Refined sugar
+23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup"
+23540,Molasses
+23610.01,Cocoa paste not defatted
+23620,"Cocoa butter, fat and oil"
+23670.01,Sugar confectionery
+23670.02,"Fruit, nuts, peel, sugar preserved"
+23710,"Uncooked pasta, not stuffed or otherwise prepared"
+23911,"Coffee, decaffeinated or roasted"
+23912.01,Coffee substitutes
+23912.02,Coffee extracts
+23914,"Extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté"
+23991.01,Infant food
+23991.02,Homogenized vegetable preparations
+23991.03,"Homogenized cooked fruit, prepared"
+23991.04,Homogenized meat preparations
+23993.02,"Eggs, liquid"
+23993.03,"Eggs, dried"
+23995.01,Soya sauce
+23995.03,Flour of mustard seed
+23999.01,Malt extract
+2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages"
+24212.01,Must of grape
+24212.02,Wine
+24220,Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances
+24230.03,Cider and other fermented beverages
+24310.01,"Beer of barley, malted"
+24320,"Malt, whether or not roasted"
+24490,Other non-alcoholic caloric beverages
+25020.01,Cigarettes
+25020.02,Cigars and cheroots
+25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences"""
+26130,"Wool, degreased or carbonized, not carded or combed"
+26150.01,"Hair, carded/combed"
+26160,"Cotton, carded or combed"
+26190.01,"Flax, processed but not spun"
+34120,Industrial monocarboxylic fatty acids; acid oils from refining
+34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils"
+35410.90,Essential oils n.e.c.
+39120.01,Bran of wheat
+39120.04,Bran of maize
+39120.14,Bran of pulses
+39120.91,Vegetable products for feed n.e.c.
+39130.04,Gluten feed and meal
+39150.01,Coffee husks and skins
+39150.02,Cocoa husks and shells
+39170.02,"Feed, food waste preparations"
+39211,Silk waste
+39213,"Wool, shoddy"
+F0020,Bread
+F0022,Pastry
+F0030,"Rice, paddy (rice milled equivalent)"
+F0235,Prepared nuts
+F0262,Olives preserved
+F0472,Vegetables preserved nes (o/t vinegar)
+F0473,Vegetables frozen
+F0475,Vegetables preserved (frozen)
+F0623,Fruit prepared n.e.c.
+F0665,Cocoa powder and cake
+F0666,Chocolate products nes
+F0769,Cotton waste
+F0875,beef and veal preparations nes
+F0994,Wool grease and lanolin
+F1009,"Wool, hair waste"
+F1042,Pig meat preparations
+F1061,Poultry meat preparations
+F1172,Meat prepared n.e.c.
+F1232,Food preparations n.e.c.
+F1243,Fat preparations n.e.c.
+F1275,hydrogenated oils and fats
+F1293,Crude organic material n.e.c.

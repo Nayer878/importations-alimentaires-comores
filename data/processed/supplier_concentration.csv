@@ -1,0 +1,2517 @@
+﻿Year,Item Code (CPC),Item,total_value_1000_usd,CR1,CR3,HHI,suppliers
+1995,0111,Wheat,0.0,,,,1.0
+1995,0112,Maize (corn),13.0,0.6923076923076923,1.0,0.5266272189349112,5.0
+1995,0113,Rice,78.0,0.3333333333333333,0.8974358974358974,0.2781065088757396,5.0
+1995,01199.90,Cereals n.e.c.,0.0,,,,1.0
+1995,01213,Cauliflowers and broccoli,0.0,,,,3.0
+1995,01214,Lettuce and chicory,0.0,,,,2.0
+1995,01234,Tomatoes,3.0,1.0,1.0,1.0,2.0
+1995,01241.90,"Other beans, green",0.0,,,,2.0
+1995,01242,"Peas, green",1.0,1.0,1.0,1.0,2.0
+1995,01243,"Broad beans and horse beans, green",1.0,1.0,1.0,1.0,1.0
+1995,01252,Green garlic,4.0,0.75,1.0,0.625,2.0
+1995,01253.01,"Onions and shallots, green",118.0,0.9661016949152542,0.983050847457627,0.9336397586900314,5.0
+1995,01254,Leeks and other alliaceous vegetables,0.0,,,,1.0
+1995,01290.90,"Other vegetables, fresh n.e.c.",67.0,0.8805970149253731,1.0,0.7897081755402093,3.0
+1995,01312,Bananas,0.0,,,,1.0
+1995,01314,Dates,4.0,0.75,1.0,0.625,3.0
+1995,01321,Pomelos and grapefruits,0.0,,,,2.0
+1995,01323,Oranges,0.0,,,,1.0
+1995,01329,"Other citrus fruit, n.e.c.",0.0,,,,2.0
+1995,01330,Grapes,0.0,,,,2.0
+1995,01341,Apples,8.0,0.375,1.0,0.34375,3.0
+1995,01342.01,Pears,0.0,,,,2.0
+1995,01343,Apricots,0.0,,,,1.0
+1995,01344.02,Cherries,0.0,,,,1.0
+1995,01346,Plums and sloes,0.0,,,,1.0
+1995,01359.90,"Other fruits, n.e.c.",1.0,1.0,1.0,1.0,1.0
+1995,01375,"Pistachios, in shell",0.0,,,,1.0
+1995,0142,"Groundnuts, excluding shelled",0.0,,,,1.0
+1995,01444,Sesame seed,0.0,,,,1.0
+1995,01449.90,"Other oil seeds, n.e.c.",0.0,,,,1.0
+1995,01510,Potatoes,1.0,1.0,1.0,1.0,3.0
+1995,01610,"Coffee, green",0.0,,,,3.0
+1995,01620,Tea leaves,5.0,0.4,1.0,0.3600000000000001,4.0
+1995,01651,"Pepper (Piper spp.), raw",0.0,,,,1.0
+1995,01653,"Nutmeg, mace, cardamoms, raw",1.0,1.0,1.0,1.0,1.0
+1995,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",5.0,0.6,1.0,0.52,3.0
+1995,01699,"Other stimulant, spice and aromatic crops, n.e.c.",8.0,0.625,0.875,0.4375,5.0
+1995,01701,"Beans, dry",14.0,0.8571428571428571,0.9999999999999999,0.7448979591836733,3.0
+1995,01703,"Chick peas, dry",0.0,,,,1.0
+1995,01704,"Lentils, dry",14.0,0.9285714285714286,1.0,0.8673469387755102,2.0
+1995,01705,"Peas, dry",1.0,1.0,1.0,1.0,1.0
+1995,01709.90,Other pulses n.e.c.,5.0,1.0,1.0,1.0,1.0
+1995,01921.02,"Cotton lint, ginned",0.0,,,,1.0
+1995,01929.05,"Sisal, raw",0.0,,,,1.0
+1995,01970,Unmanufactured tobacco,9.0,0.6666666666666666,1.0,0.5061728395061729,3.0
+1995,01990.01,"Vegetable products, fresh or dry n.e.c.",0.0,,,,1.0
+1995,02140,Swine / pigs,1.0,1.0,1.0,1.0,1.0
+1995,02151,Chickens,14.0,0.7142857142857143,1.0,0.5918367346938775,2.0
+1995,02152,Turkeys,1.0,1.0,1.0,1.0,1.0
+1995,02211,Raw milk of cattle,42.0,0.4523809523809524,1.0,0.3684807256235828,3.0
+1995,0231,"Hen eggs in shell, fresh",2.0,0.5,1.0,0.5,5.0
+1995,02910,Natural honey,0.0,,,,1.0
+1995,17400,Ice and snow,106.0,0.3490566037735849,0.8396226415094339,0.2666429334282663,6.0
+1995,21111.01,"Meat of cattle with the bone, fresh or chilled",1654.0,0.5991535671100363,0.9334945586457075,0.4311456306137041,6.0
+1995,21111.02,"Meat of cattle boneless, fresh or chilled",1406.0,0.6614509246088194,0.9559032716927454,0.49529247747410515,7.0
+1995,21113.01,"Meat of pig with the bone, fresh or chilled",12.0,1.0,1.0,1.0,2.0
+1995,21113.02,"Meat of pig boneless, fresh or chilled",0.0,,,,4.0
+1995,21115,"Meat of sheep, fresh or chilled",15.0,0.7333333333333333,1.0,0.5822222222222222,4.0
+1995,21119.90,"Other meat of mammals, fresh or chilled",258.0,0.8914728682170543,1.0,0.8065020131001743,2.0
+1995,21121,"Meat of chickens, fresh or chilled",1039.0,0.8411934552454283,0.9509143407122232,0.7154701020174689,6.0
+1995,21122,"Meat of ducks, fresh or chilled",0.0,,,,1.0
+1995,21124,"Meat of turkeys, fresh or chilled",49.0,1.0,1.0,1.0,1.0
+1995,21151,"Edible offal of cattle, fresh, chilled or frozen",23.0,1.0,1.0,1.0,1.0
+1995,21160.03,"Edible offals and liver of ducks, fresh, chilled or frozen",0.0,,,,1.0
+1995,21181,"Pig meat, cuts, salted, dried or smoked (bacon and ham)",5.0,1.0,1.0,1.0,2.0
+1995,21182,"Bovine meat, salted, dried or smoked",1.0,1.0,1.0,1.0,1.0
+1995,21184.02,"Sausages and similar products of meat, offal or blood of pig",5.0,0.8,1.0,0.6800000000000002,3.0
+1995,21313,"Potatoes, frozen",4.0,1.0,1.0,1.0,1.0
+1995,21330.90,Other vegetables provisionally preserved,0.0,,,,1.0
+1995,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",0.0,,,,1.0
+1995,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",0.0,,,,1.0
+1995,21393.90,"Vegetables, dehydrated",0.0,,,,3.0
+1995,21397.01,Canned mushrooms,1.0,1.0,1.0,1.0,1.0
+1995,21399.01,Paste of tomatoes,517.0,0.7640232108317214,0.9477756286266924,0.6047573974237622,6.0
+1995,21399.02,"Tomatoes, peeled (o/t vinegar)",3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1995,21411,Raisins,0.0,,,,1.0
+1995,21421,"Groundnuts, shelled",4.0,1.0,1.0,1.0,1.0
+1995,21431.01,Orange juice,28.0,0.9285714285714286,1.0,0.864795918367347,3.0
+1995,21433,Pineapple juice,0.0,,,,1.0
+1995,21434,Grape juice,0.0,,,,1.0
+1995,21435.01,Apple juice,0.0,,,,1.0
+1995,21439.90,Juice of fruits n.e.c.,20.0,0.4,0.85,0.28500000000000003,6.0
+1995,21523,Tallow,1.0,1.0,1.0,1.0,1.0
+1995,21529.03,Animal oils and fats n.e.c.,1.0,1.0,1.0,1.0,1.0
+1995,2161,Soya bean oil,389.0,0.6606683804627249,0.961439588688946,0.4884120512024107,6.0
+1995,2162,Groundnut oil,21.0,0.9047619047619048,1.0,0.8276643990929706,3.0
+1995,21631.01,"Sunflower-seed oil, crude",3.0,1.0,1.0,1.0,2.0
+1995,21641.01,"Rapeseed or canola oil, crude",32.0,0.6875,1.0,0.552734375,3.0
+1995,2165,Palm oil,796.0,0.30778894472361806,0.793969849246231,0.2240947198303073,11.0
+1995,2166,Coconut oil,0.0,,,,1.0
+1995,2167,Olive oil,3.0,0.6666666666666666,1.0,0.5555555555555556,3.0
+1995,21691.12,Oil of linseed,2.0,1.0,1.0,1.0,1.0
+1995,21700.02,Margarine and shortening,21.0,0.8571428571428571,1.0,0.7551020408163265,2.0
+1995,21910.04,Cake of groundnuts,0.0,,,,1.0
+1995,21932.02,Residues of fatty substances,0.0,,,,1.0
+1995,22110.02,Skim milk of cows,188.0,0.6276595744680851,1.0,0.5325939339067451,2.0
+1995,22120,"Cream, fresh",79.0,0.4050632911392405,1.0,0.3507450729049832,4.0
+1995,22211,Whole milk powder,380.0,0.3684210526315789,0.6868421052631579,0.2277146814404432,7.0
+1995,22212,Skim milk and whey powder,18.0,0.8888888888888888,1.0,0.8024691358024691,2.0
+1995,22221.01,"Whole milk, evaporated",42.0,0.9523809523809523,1.0,0.9081632653061223,3.0
+1995,22222.01,"Whole milk, condensed",466.0,0.4012875536480687,0.7510729613733905,0.2462745675919615,8.0
+1995,22230.02,"Yoghurt, with additives",0.0,,,,3.0
+1995,22230.03,"Buttermilk, curdled and acidified milk",86.0,1.0,1.0,1.0,1.0
+1995,22241.01,Butter of cow milk,41.0,0.5609756097560976,0.9512195121951221,0.43604997025580017,6.0
+1995,22251.01,Cheese from whole cow milk,10.0,0.9,1.0,0.8200000000000001,3.0
+1995,22270,Ice cream and other edible ice,0.0,,,,1.0
+1995,23110,Wheat and meslin flour,1491.0,0.857813547954393,0.9805499664654593,0.744755139376388,7.0
+1995,23120.03,Flour of maize,14.0,1.0,1.0,1.0,2.0
+1995,23120.04,Flour of rye,1.0,1.0,1.0,1.0,1.0
+1995,23140.03,Breakfast cereals,6.0,1.0,1.0,1.0,2.0
+1995,23161.02,"Rice, milled",11843.0,0.7727771679473107,0.9926538883728786,0.6396845328879917,8.0
+1995,23161.03,"Rice, broken",1449.0,0.5320910973084886,0.9944789510006901,0.4074016920357725,6.0
+1995,23162,Husked rice,648.0,0.6481481481481481,0.9552469135802468,0.47542295381801547,10.0
+1995,23180,Mixes and doughs for the preparation of bakers' wares,5.0,0.8,1.0,0.6800000000000002,4.0
+1995,23210.03,Other fructose and syrup,2.0,1.0,1.0,1.0,1.0
+1995,23210.04,Sugar and syrups n.e.c.,1.0,1.0,1.0,1.0,1.0
+1995,23210.05,Glucose and dextrose,1.0,1.0,1.0,1.0,1.0
+1995,23210.06,Lactose,0.0,,,,1.0
+1995,23230.01,Tapioca of potatoes,0.0,,,,1.0
+1995,23311,"Dog or cat food, put up for retail sale",0.0,,,,1.0
+1995,23319.01,"Feed, compound, cattle",118.0,0.4915254237288136,0.8220338983050848,0.32016661878770475,7.0
+1995,2351f,Raw cane or beet sugar (centrifugal only),2182.0,0.4711274060494959,0.8968835930339139,0.3315435598820783,10.0
+1995,23520,Refined sugar,74.0,0.40540540540540543,1.0,0.3590211833455077,3.0
+1995,23620,"Cocoa butter, fat and oil",0.0,,,,2.0
+1995,23670.01,Sugar confectionery,52.0,0.7307692307692307,0.8846153846153846,0.551775147928994,7.0
+1995,23710,"Uncooked pasta, not stuffed or otherwise prepared",20.0,0.95,1.0,0.9049999999999999,3.0
+1995,23911,"Coffee, decaffeinated or roasted",9.0,0.8888888888888888,1.0,0.8024691358024691,2.0
+1995,23912.02,Coffee extracts,9.0,0.8888888888888888,1.0,0.8024691358024691,2.0
+1995,23991.01,Infant food,58.0,0.8620689655172413,0.9999999999999999,0.7550535077288941,4.0
+1995,23991.03,"Homogenized cooked fruit, prepared",1.0,1.0,1.0,1.0,2.0
+1995,23995.03,Flour of mustard seed,0.0,,,,2.0
+1995,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",23.0,1.0,1.0,1.0,2.0
+1995,24212.02,Wine,338.0,0.8165680473372781,1.0,0.7004306571898742,2.0
+1995,24310.01,"Beer of barley, malted",101.0,0.8712871287128713,1.0,0.771394961278306,3.0
+1995,24490,Other non-alcoholic caloric beverages,562.0,0.5462633451957295,0.8718861209964412,0.36160889553070497,10.0
+1995,25020.01,Cigarettes,1742.0,0.8725602755453502,0.9965556831228474,0.7739352341885029,4.0
+1995,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1995,26160,"Cotton, carded or combed",0.0,,,,1.0
+1995,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",0.0,,,,2.0
+1995,35410.90,Essential oils n.e.c.,0.0,,,,1.0
+1995,39120.91,Vegetable products for feed n.e.c.,62.0,0.46774193548387094,0.9516129032258064,0.3569198751300728,5.0
+1995,F0020,Bread,11.0,0.6363636363636364,0.9090909090909091,0.4545454545454545,4.0
+1995,F0022,Pastry,59.0,0.4406779661016949,0.8983050847457626,0.320310255673657,8.0
+1995,F0030,"Rice, paddy (rice milled equivalent)",14018.0,0.7177914110429447,0.9307319161078613,0.5499753175914845,13.0
+1995,F0262,Olives preserved,102.0,0.9607843137254902,1.0,0.9246443675509419,2.0
+1995,F0472,Vegetables preserved nes (o/t vinegar),7.0,0.8571428571428571,1.0,0.7551020408163265,2.0
+1995,F0473,Vegetables frozen,18.0,0.7222222222222222,1.0,0.5987654320987654,3.0
+1995,F0623,Fruit prepared n.e.c.,11.0,0.7272727272727273,1.0,0.6033057851239669,2.0
+1995,F0665,Cocoa powder and cake,0.0,,,,1.0
+1995,F0666,Chocolate products nes,33.0,0.8787878787878788,0.9393939393939393,0.7759412304866852,6.0
+1995,F0875,beef and veal preparations nes,1.0,1.0,1.0,1.0,1.0
+1995,F1009,"Wool, hair waste",0.0,,,,1.0
+1995,F1042,Pig meat preparations,0.0,,,,1.0
+1995,F1172,Meat prepared n.e.c.,0.0,,,,1.0
+1995,F1232,Food preparations n.e.c.,440.0,0.6931818181818182,0.9931818181818182,0.555650826446281,6.0
+1995,F1243,Fat preparations n.e.c.,85.0,1.0,1.0,1.0,2.0
+1995,F1275,hydrogenated oils and fats,6.0,1.0,1.0,1.0,1.0
+1995,F1293,Crude organic material n.e.c.,0.0,,,,2.0
+1996,0111,Wheat,18.0,0.8888888888888888,1.0,0.8024691358024691,2.0
+1996,0112,Maize (corn),2.0,0.5,1.0,0.5,3.0
+1996,0113,Rice,2.0,1.0,1.0,1.0,1.0
+1996,01199.90,Cereals n.e.c.,0.0,,,,2.0
+1996,01213,Cauliflowers and broccoli,0.0,,,,2.0
+1996,01214,Lettuce and chicory,1.0,1.0,1.0,1.0,2.0
+1996,01216,Artichokes,1.0,1.0,1.0,1.0,1.0
+1996,01234,Tomatoes,1.0,1.0,1.0,1.0,1.0
+1996,01251,Carrots and turnips,0.0,,,,2.0
+1996,01252,Green garlic,3.0,1.0,1.0,1.0,1.0
+1996,01253.01,"Onions and shallots, green",98.0,1.0,1.0,1.0,5.0
+1996,01290.90,"Other vegetables, fresh n.e.c.",0.0,,,,3.0
+1996,01314,Dates,9.0,0.3333333333333333,0.8888888888888888,0.2839506172839506,4.0
+1996,01321,Pomelos and grapefruits,0.0,,,,1.0
+1996,01323,Oranges,0.0,,,,2.0
+1996,01329,"Other citrus fruit, n.e.c.",0.0,,,,2.0
+1996,01330,Grapes,0.0,,,,2.0
+1996,01341,Apples,9.0,0.8888888888888888,1.0,0.8024691358024691,3.0
+1996,01342.01,Pears,0.0,,,,1.0
+1996,01375,"Pistachios, in shell",0.0,,,,3.0
+1996,0142,"Groundnuts, excluding shelled",2.0,1.0,1.0,1.0,1.0
+1996,01449.90,"Other oil seeds, n.e.c.",2.0,1.0,1.0,1.0,1.0
+1996,01510,Potatoes,0.0,,,,1.0
+1996,01610,"Coffee, green",3.0,0.3333333333333333,1.0,0.3333333333333333,3.0
+1996,01620,Tea leaves,21.0,0.6190476190476191,0.9523809523809523,0.4693877551020408,5.0
+1996,01651,"Pepper (Piper spp.), raw",0.0,,,,2.0
+1996,01653,"Nutmeg, mace, cardamoms, raw",0.0,,,,1.0
+1996,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",32.0,0.65625,1.0,0.490234375,3.0
+1996,01657,"Ginger, raw",0.0,,,,1.0
+1996,01699,"Other stimulant, spice and aromatic crops, n.e.c.",3.0,1.0,1.0,1.0,6.0
+1996,01701,"Beans, dry",8.0,1.0,1.0,1.0,1.0
+1996,01703,"Chick peas, dry",1.0,1.0,1.0,1.0,1.0
+1996,01704,"Lentils, dry",12.0,1.0,1.0,1.0,2.0
+1996,01705,"Peas, dry",1.0,1.0,1.0,1.0,1.0
+1996,01709.90,Other pulses n.e.c.,9.0,0.8888888888888888,1.0,0.8024691358024691,3.0
+1996,01921.02,"Cotton lint, ginned",2.0,1.0,1.0,1.0,1.0
+1996,01950.01,Natural rubber in primary forms,1.0,1.0,1.0,1.0,1.0
+1996,01950.02,Natural rubber in other forms,5.0,1.0,1.0,1.0,1.0
+1996,01970,Unmanufactured tobacco,2.0,1.0,1.0,1.0,5.0
+1996,01990.01,"Vegetable products, fresh or dry n.e.c.",0.0,,,,1.0
+1996,02111,Cattle,63.0,1.0,1.0,1.0,1.0
+1996,02122,Sheep,6.0,1.0,1.0,1.0,1.0
+1996,02151,Chickens,18.0,0.8333333333333334,1.0,0.7222222222222223,2.0
+1996,02152,Turkeys,0.0,,,,1.0
+1996,02211,Raw milk of cattle,1.0,1.0,1.0,1.0,1.0
+1996,0231,"Hen eggs in shell, fresh",3.0,1.0,1.0,1.0,3.0
+1996,17400,Ice and snow,126.0,0.40476190476190477,0.873015873015873,0.29730410682791636,6.0
+1996,21111.01,"Meat of cattle with the bone, fresh or chilled",1318.0,0.7268588770864947,0.9021244309559939,0.5478307823736244,6.0
+1996,21111.02,"Meat of cattle boneless, fresh or chilled",972.0,0.5442386831275721,0.8971193415637861,0.3647902589374926,7.0
+1996,21113.02,"Meat of pig boneless, fresh or chilled",4.0,0.75,1.0,0.625,4.0
+1996,21115,"Meat of sheep, fresh or chilled",30.0,0.6,0.9666666666666666,0.4555555555555555,5.0
+1996,21119.90,"Other meat of mammals, fresh or chilled",2.0,0.5,1.0,0.5,3.0
+1996,21121,"Meat of chickens, fresh or chilled",1415.0,0.7180212014134275,0.9321554770318021,0.5472746569441496,9.0
+1996,21122,"Meat of ducks, fresh or chilled",0.0,,,,1.0
+1996,21124,"Meat of turkeys, fresh or chilled",23.0,0.7391304347826086,1.0,0.6143667296786388,3.0
+1996,21151,"Edible offal of cattle, fresh, chilled or frozen",37.0,0.8648648648648649,1.0,0.7574872169466765,3.0
+1996,21160.03,"Edible offals and liver of ducks, fresh, chilled or frozen",0.0,,,,1.0
+1996,21181,"Pig meat, cuts, salted, dried or smoked (bacon and ham)",1.0,1.0,1.0,1.0,2.0
+1996,21182,"Bovine meat, salted, dried or smoked",0.0,,,,2.0
+1996,21184.02,"Sausages and similar products of meat, offal or blood of pig",5.0,0.8,1.0,0.6800000000000002,3.0
+1996,21189.01,Liver preparations,1.0,1.0,1.0,1.0,1.0
+1996,21313,"Potatoes, frozen",1.0,1.0,1.0,1.0,1.0
+1996,21330.90,Other vegetables provisionally preserved,0.0,,,,2.0
+1996,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",5.0,0.8,1.0,0.6800000000000002,3.0
+1996,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",0.0,,,,1.0
+1996,21393.90,"Vegetables, dehydrated",2.0,1.0,1.0,1.0,2.0
+1996,21397.01,Canned mushrooms,0.0,,,,1.0
+1996,21399.01,Paste of tomatoes,351.0,0.7777777777777778,0.9943019943019944,0.6349055608314867,4.0
+1996,21399.02,"Tomatoes, peeled (o/t vinegar)",184.0,0.7934782608695652,0.9945652173913044,0.6576677693761814,4.0
+1996,21399.03,"Sweet corn, prepared or preserved",2.0,1.0,1.0,1.0,2.0
+1996,21411,Raisins,0.0,,,,4.0
+1996,21421,"Groundnuts, shelled",2.0,1.0,1.0,1.0,1.0
+1996,21431.01,Orange juice,11.0,0.5454545454545454,1.0,0.5041322314049586,4.0
+1996,21433,Pineapple juice,1.0,1.0,1.0,1.0,1.0
+1996,21434,Grape juice,1.0,1.0,1.0,1.0,1.0
+1996,21439.04,Juice of citrus fruit n.e.c.,0.0,,,,1.0
+1996,21439.90,Juice of fruits n.e.c.,15.0,0.7333333333333333,1.0,0.6088888888888888,3.0
+1996,21491,"Pineapples, otherwise prepared or preserved",0.0,,,,1.0
+1996,2161,Soya bean oil,64.0,0.921875,1.0,0.85400390625,4.0
+1996,2162,Groundnut oil,3.0,0.3333333333333333,1.0,0.3333333333333333,3.0
+1996,21631.01,"Sunflower-seed oil, crude",46.0,0.5869565217391305,0.9565217391304348,0.4432892249527411,5.0
+1996,21641.01,"Rapeseed or canola oil, crude",18.0,1.0,1.0,1.0,1.0
+1996,2165,Palm oil,541.0,0.5360443622920518,0.900184842883549,0.3607579583232256,6.0
+1996,2167,Olive oil,2.0,1.0,1.0,1.0,2.0
+1996,21673,Oil of olive residues,1.0,1.0,1.0,1.0,2.0
+1996,21691.02,Oil of maize,3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1996,21700.02,Margarine and shortening,43.0,0.7441860465116279,1.0,0.6084369929691724,4.0
+1996,22110.02,Skim milk of cows,40.0,0.7,1.0,0.58,2.0
+1996,22120,"Cream, fresh",58.0,0.3448275862068966,0.896551724137931,0.2788347205707491,6.0
+1996,22130.02,"Whey, dry",3.0,1.0,1.0,1.0,1.0
+1996,22211,Whole milk powder,277.0,0.2996389891696751,0.7256317689530686,0.2075486452319201,9.0
+1996,22212,Skim milk and whey powder,165.0,0.5333333333333333,0.9272727272727272,0.3849770431588613,6.0
+1996,22221.01,"Whole milk, evaporated",8.0,0.875,1.0,0.78125,2.0
+1996,22222.01,"Whole milk, condensed",866.0,0.4815242494226328,0.8545034642032333,0.3127810164863005,9.0
+1996,22230.02,"Yoghurt, with additives",3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1996,22230.03,"Buttermilk, curdled and acidified milk",2.0,1.0,1.0,1.0,2.0
+1996,22241.01,Butter of cow milk,84.0,0.5952380952380952,0.988095238095238,0.447562358276644,5.0
+1996,22251.01,Cheese from whole cow milk,31.0,0.6129032258064516,0.967741935483871,0.44432882414151925,4.0
+1996,22251.04,Processed cheese,14.0,0.5,1.0,0.5,2.0
+1996,22270,Ice cream and other edible ice,3.0,1.0,1.0,1.0,1.0
+1996,22290,Dairy products n.e.c.,45.0,1.0,1.0,1.0,2.0
+1996,23110,Wheat and meslin flour,1892.0,0.7922832980972516,0.9022198731501057,0.6372693079573949,12.0
+1996,23120.03,Flour of maize,2.0,1.0,1.0,1.0,3.0
+1996,23120.90,Flour of cereals n.e.c.,2.0,1.0,1.0,1.0,1.0
+1996,23140.03,Breakfast cereals,5.0,1.0,1.0,1.0,1.0
+1996,23140.08,Cereal preparations,1.0,1.0,1.0,1.0,1.0
+1996,23161.02,"Rice, milled",660.0,0.5772727272727273,0.8590909090909091,0.38541781450872364,11.0
+1996,23161.03,"Rice, broken",363.0,0.5289256198347108,0.9614325068870524,0.378822029460647,6.0
+1996,23162,Husked rice,7621.0,0.5458601233433933,0.9998687836241963,0.5024258500495896,7.0
+1996,23180,Mixes and doughs for the preparation of bakers' wares,3.0,1.0,1.0,1.0,1.0
+1996,23210.03,Other fructose and syrup,0.0,,,,1.0
+1996,23210.04,Sugar and syrups n.e.c.,1.0,1.0,1.0,1.0,1.0
+1996,23210.05,Glucose and dextrose,4.0,1.0,1.0,1.0,1.0
+1996,23210.06,Lactose,0.0,,,,1.0
+1996,23311,"Dog or cat food, put up for retail sale",0.0,,,,1.0
+1996,23319.01,"Feed, compound, cattle",97.0,0.5876288659793815,0.9793814432989691,0.4231055372515677,5.0
+1996,2351f,Raw cane or beet sugar (centrifugal only),2077.0,0.5474241694752047,0.9090033702455466,0.4033624568230029,9.0
+1996,23520,Refined sugar,45.0,0.9555555555555556,1.0,0.9150617283950617,4.0
+1996,23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",1.0,1.0,1.0,1.0,2.0
+1996,23540,Molasses,8.0,1.0,1.0,1.0,2.0
+1996,23670.01,Sugar confectionery,124.0,0.4112903225806452,0.8790322580645161,0.3028095733610822,6.0
+1996,23710,"Uncooked pasta, not stuffed or otherwise prepared",24.0,0.7083333333333334,1.0,0.5520833333333334,4.0
+1996,23911,"Coffee, decaffeinated or roasted",19.0,0.5789473684210527,1.0,0.5124653739612188,4.0
+1996,23912.01,Coffee substitutes,0.0,,,,2.0
+1996,23912.02,Coffee extracts,38.0,0.9736842105263158,1.0,0.9487534626038783,2.0
+1996,23991.01,Infant food,76.0,0.7763157894736842,1.0,0.6346952908587257,4.0
+1996,23991.02,Homogenized vegetable preparations,0.0,,,,1.0
+1996,23991.03,"Homogenized cooked fruit, prepared",2.0,1.0,1.0,1.0,1.0
+1996,23995.03,Flour of mustard seed,1.0,1.0,1.0,1.0,1.0
+1996,23999.01,Malt extract,5.0,1.0,1.0,1.0,3.0
+1996,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",30.0,0.8666666666666667,1.0,0.768888888888889,4.0
+1996,24212.01,Must of grape,0.0,,,,1.0
+1996,24212.02,Wine,129.0,0.875968992248062,1.0,0.7754942611621898,4.0
+1996,24310.01,"Beer of barley, malted",121.0,0.9917355371900827,1.0,0.9836076770712383,2.0
+1996,24490,Other non-alcoholic caloric beverages,677.0,0.5435745937961596,0.9025110782865584,0.37858176113665076,11.0
+1996,25020.01,Cigarettes,1455.0,0.7243986254295532,0.9780068728522336,0.5665256669146561,6.0
+1996,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",3.0,0.6666666666666666,1.0,0.5555555555555556,3.0
+1996,26160,"Cotton, carded or combed",1.0,1.0,1.0,1.0,1.0
+1996,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",0.0,,,,1.0
+1996,35410.90,Essential oils n.e.c.,1.0,1.0,1.0,1.0,2.0
+1996,39120.91,Vegetable products for feed n.e.c.,104.0,0.49038461538461536,1.0,0.43361686390532544,3.0
+1996,F0020,Bread,47.0,0.7872340425531915,1.0,0.6432775011317339,5.0
+1996,F0022,Pastry,176.0,0.6704545454545454,0.9488636363636362,0.49573863636363635,6.0
+1996,F0030,"Rice, paddy (rice milled equivalent)",8646.0,0.5322692574600971,0.9613694193846866,0.44374925120378594,14.0
+1996,F0235,Prepared nuts,0.0,,,,1.0
+1996,F0262,Olives preserved,6.0,1.0,1.0,1.0,1.0
+1996,F0472,Vegetables preserved nes (o/t vinegar),18.0,0.9444444444444444,1.0,0.8950617283950617,2.0
+1996,F0473,Vegetables frozen,0.0,,,,1.0
+1996,F0623,Fruit prepared n.e.c.,9.0,0.8888888888888888,1.0,0.8024691358024691,4.0
+1996,F0665,Cocoa powder and cake,0.0,,,,1.0
+1996,F0666,Chocolate products nes,53.0,0.6792452830188679,0.9811320754716981,0.5101459594161623,5.0
+1996,F0994,Wool grease and lanolin,0.0,,,,1.0
+1996,F1042,Pig meat preparations,2.0,1.0,1.0,1.0,1.0
+1996,F1061,Poultry meat preparations,1.0,1.0,1.0,1.0,1.0
+1996,F1172,Meat prepared n.e.c.,2.0,1.0,1.0,1.0,1.0
+1996,F1232,Food preparations n.e.c.,479.0,0.47390396659707723,0.8893528183716075,0.3158153948073796,10.0
+1996,F1243,Fat preparations n.e.c.,171.0,0.8830409356725146,1.0,0.7899524640060189,4.0
+1996,F1275,hydrogenated oils and fats,72.0,0.6111111111111112,1.0,0.5142746913580248,3.0
+1996,F1293,Crude organic material n.e.c.,4.0,0.5,1.0,0.5,4.0
+1997,0112,Maize (corn),4.0,0.75,1.0,0.625,2.0
+1997,0116,Rye,0.0,,,,1.0
+1997,01199.90,Cereals n.e.c.,0.0,,,,1.0
+1997,01213,Cauliflowers and broccoli,0.0,,,,2.0
+1997,01214,Lettuce and chicory,2.0,1.0,1.0,1.0,1.0
+1997,01241.90,"Other beans, green",0.0,,,,1.0
+1997,01242,"Peas, green",1.0,1.0,1.0,1.0,2.0
+1997,01251,Carrots and turnips,1.0,1.0,1.0,1.0,1.0
+1997,01252,Green garlic,2.0,1.0,1.0,1.0,2.0
+1997,01253.01,"Onions and shallots, green",59.0,0.9830508474576272,1.0,0.9666762424590636,4.0
+1997,01270,Mushrooms and truffles,0.0,,,,1.0
+1997,01290.90,"Other vegetables, fresh n.e.c.",20.0,1.0,1.0,1.0,1.0
+1997,01314,Dates,32.0,0.90625,1.0,0.826171875,3.0
+1997,01329,"Other citrus fruit, n.e.c.",3.0,1.0,1.0,1.0,1.0
+1997,01330,Grapes,0.0,,,,1.0
+1997,01341,Apples,18.0,0.7777777777777778,1.0,0.654320987654321,3.0
+1997,01342.01,Pears,0.0,,,,1.0
+1997,01354,Strawberries,0.0,,,,1.0
+1997,01376,"Walnuts, in shell",0.0,,,,1.0
+1997,0142,"Groundnuts, excluding shelled",2.0,1.0,1.0,1.0,1.0
+1997,01449.90,"Other oil seeds, n.e.c.",0.0,,,,2.0
+1997,01530,Sweet potatoes,0.0,,,,1.0
+1997,01610,"Coffee, green",9.0,1.0,1.0,1.0,2.0
+1997,01620,Tea leaves,6.0,0.8333333333333334,1.0,0.7222222222222223,5.0
+1997,01651,"Pepper (Piper spp.), raw",2.0,1.0,1.0,1.0,2.0
+1997,01653,"Nutmeg, mace, cardamoms, raw",1.0,1.0,1.0,1.0,1.0
+1997,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",6.0,0.6666666666666666,1.0,0.5555555555555556,3.0
+1997,01657,"Ginger, raw",1.0,1.0,1.0,1.0,1.0
+1997,01699,"Other stimulant, spice and aromatic crops, n.e.c.",16.0,0.875,1.0,0.7734375,5.0
+1997,01701,"Beans, dry",2.0,1.0,1.0,1.0,1.0
+1997,01703,"Chick peas, dry",0.0,,,,1.0
+1997,01704,"Lentils, dry",9.0,0.8888888888888888,1.0,0.8024691358024691,5.0
+1997,01705,"Peas, dry",0.0,,,,1.0
+1997,01709.90,Other pulses n.e.c.,4.0,1.0,1.0,1.0,2.0
+1997,01950.01,Natural rubber in primary forms,10.0,0.5,1.0,0.5,2.0
+1997,01970,Unmanufactured tobacco,2.0,1.0,1.0,1.0,2.0
+1997,02111,Cattle,61.0,1.0,1.0,1.0,1.0
+1997,02122,Sheep,10.0,1.0,1.0,1.0,1.0
+1997,02123,Goats,3.0,1.0,1.0,1.0,1.0
+1997,02151,Chickens,0.0,,,,1.0
+1997,02152,Turkeys,1.0,1.0,1.0,1.0,2.0
+1997,02199.20,"Other live animals, n.e.c.",1.0,1.0,1.0,1.0,1.0
+1997,02211,Raw milk of cattle,52.0,0.75,1.0,0.625,2.0
+1997,0231,"Hen eggs in shell, fresh",21.0,0.9523809523809523,1.0,0.909297052154195,2.0
+1997,02910,Natural honey,0.0,,,,3.0
+1997,02955.90,"Skins, furs",0.0,,,,1.0
+1997,17400,Ice and snow,82.0,0.43902439024390244,0.8536585365853658,0.2968471148126116,7.0
+1997,21111.01,"Meat of cattle with the bone, fresh or chilled",1261.0,0.3600317208564631,0.739095955590801,0.23551100828175967,6.0
+1997,21111.02,"Meat of cattle boneless, fresh or chilled",2394.0,0.5693400167084378,0.8588137009189641,0.3727038984260987,9.0
+1997,21113.02,"Meat of pig boneless, fresh or chilled",40.0,0.825,1.0,0.7112499999999999,3.0
+1997,21115,"Meat of sheep, fresh or chilled",11.0,0.5454545454545454,0.8181818181818182,0.3553719008264462,5.0
+1997,21119.90,"Other meat of mammals, fresh or chilled",126.0,0.8809523809523809,1.0,0.7831947593852355,4.0
+1997,21121,"Meat of chickens, fresh or chilled",1341.0,0.6420581655480985,0.9388516032811335,0.45993534936975927,5.0
+1997,21122,"Meat of ducks, fresh or chilled",0.0,,,,1.0
+1997,21124,"Meat of turkeys, fresh or chilled",0.0,,,,2.0
+1997,21151,"Edible offal of cattle, fresh, chilled or frozen",99.0,0.48484848484848486,0.9797979797979798,0.4355677992041629,5.0
+1997,21160.03,"Edible offals and liver of ducks, fresh, chilled or frozen",0.0,,,,2.0
+1997,21181,"Pig meat, cuts, salted, dried or smoked (bacon and ham)",2.0,1.0,1.0,1.0,1.0
+1997,21182,"Bovine meat, salted, dried or smoked",26.0,0.9230769230769231,1.0,0.8579881656804735,3.0
+1997,21183,"Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",3.0,1.0,1.0,1.0,1.0
+1997,21184.02,"Sausages and similar products of meat, offal or blood of pig",18.0,0.7777777777777778,1.0,0.6358024691358025,4.0
+1997,21313,"Potatoes, frozen",0.0,,,,2.0
+1997,21321,Tomato juice,0.0,,,,1.0
+1997,21330.90,Other vegetables provisionally preserved,0.0,,,,3.0
+1997,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",69.0,1.0,1.0,1.0,3.0
+1997,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",3.0,1.0,1.0,1.0,1.0
+1997,21393.90,"Vegetables, dehydrated",5.0,0.8,1.0,0.6800000000000002,2.0
+1997,21397.01,Canned mushrooms,0.0,,,,2.0
+1997,21399.01,Paste of tomatoes,1.0,1.0,1.0,1.0,3.0
+1997,21399.02,"Tomatoes, peeled (o/t vinegar)",446.0,0.8834080717488789,0.9955156950672646,0.7896197389853004,4.0
+1997,21399.03,"Sweet corn, prepared or preserved",2.0,1.0,1.0,1.0,1.0
+1997,21411,Raisins,3.0,0.6666666666666666,1.0,0.5555555555555556,4.0
+1997,21419.99,"Other fruit n.e.c., dried",1.0,1.0,1.0,1.0,2.0
+1997,21421,"Groundnuts, shelled",1.0,1.0,1.0,1.0,1.0
+1997,21422,"Almonds, shelled",0.0,,,,1.0
+1997,21431.01,Orange juice,29.0,0.5172413793103449,0.9655172413793105,0.3840665873959572,5.0
+1997,21433,Pineapple juice,1.0,1.0,1.0,1.0,2.0
+1997,21434,Grape juice,0.0,,,,1.0
+1997,21435.01,Apple juice,0.0,,,,2.0
+1997,21439.90,Juice of fruits n.e.c.,29.0,0.3793103448275862,0.9310344827586207,0.3103448275862069,4.0
+1997,21491,"Pineapples, otherwise prepared or preserved",0.0,,,,1.0
+1997,21495.01,Prepared groundnuts,0.0,,,,1.0
+1997,2161,Soya bean oil,166.0,0.5240963855421686,0.9999999999999999,0.4955000725794745,4.0
+1997,2162,Groundnut oil,3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1997,21631.01,"Sunflower-seed oil, crude",244.0,0.6270491803278688,1.0,0.47080757860790107,4.0
+1997,2165,Palm oil,276.0,0.5398550724637681,0.9565217391304347,0.4190558706154169,5.0
+1997,2166,Coconut oil,0.0,,,,1.0
+1997,2167,Olive oil,6.0,0.5,0.9999999999999999,0.3888888888888889,5.0
+1997,21673,Oil of olive residues,2.0,0.5,1.0,0.5,2.0
+1997,21691.02,Oil of maize,0.0,,,,1.0
+1997,21691.12,Oil of linseed,1.0,1.0,1.0,1.0,1.0
+1997,21700.02,Margarine and shortening,4.0,0.75,1.0,0.625,5.0
+1997,22110.02,Skim milk of cows,35.0,0.5714285714285714,1.0,0.4873469387755102,4.0
+1997,22120,"Cream, fresh",37.0,0.972972972972973,1.0,0.9474068663257853,3.0
+1997,22211,Whole milk powder,360.0,0.3388888888888889,0.8305555555555556,0.24990740740740738,7.0
+1997,22212,Skim milk and whey powder,48.0,0.7291666666666666,1.0,0.5946180555555555,4.0
+1997,22221.01,"Whole milk, evaporated",23.0,0.6086956521739131,0.9565217391304348,0.46691871455576567,4.0
+1997,22222.01,"Whole milk, condensed",777.0,0.574002574002574,0.9523809523809524,0.4071445963337856,8.0
+1997,22230.02,"Yoghurt, with additives",4.0,0.5,1.0,0.5,2.0
+1997,22230.03,"Buttermilk, curdled and acidified milk",122.0,0.860655737704918,1.0,0.7579951625907014,3.0
+1997,22241.01,Butter of cow milk,121.0,0.6776859504132231,0.9421487603305785,0.4968922887780889,5.0
+1997,22251.01,Cheese from whole cow milk,92.0,0.4891304347826087,0.9891304347826088,0.4685727788279773,4.0
+1997,22251.04,Processed cheese,9.0,0.7777777777777778,1.0,0.654320987654321,4.0
+1997,22270,Ice cream and other edible ice,1.0,1.0,1.0,1.0,1.0
+1997,22290,Dairy products n.e.c.,5.0,1.0,1.0,1.0,1.0
+1997,23110,Wheat and meslin flour,1401.0,0.8522483940042827,0.979300499643112,0.73600176482486,7.0
+1997,23120.01,Flour of rice,16.0,1.0,1.0,1.0,1.0
+1997,23120.03,Flour of maize,1.0,1.0,1.0,1.0,4.0
+1997,23140.03,Breakfast cereals,1.0,1.0,1.0,1.0,2.0
+1997,23140.07,"Oats, rolled",0.0,,,,1.0
+1997,23161.02,"Rice, milled",3675.0,0.758639455782313,0.9012244897959183,0.5886223703086677,13.0
+1997,23161.03,"Rice, broken",0.0,,,,1.0
+1997,23162,Husked rice,5325.0,0.9966197183098592,1.0,0.993257210870859,3.0
+1997,23170.04,Flour of fruits,5.0,1.0,1.0,1.0,1.0
+1997,23180,Mixes and doughs for the preparation of bakers' wares,1.0,1.0,1.0,1.0,2.0
+1997,23210.03,Other fructose and syrup,0.0,,,,1.0
+1997,23210.04,Sugar and syrups n.e.c.,2.0,1.0,1.0,1.0,2.0
+1997,23210.05,Glucose and dextrose,4.0,1.0,1.0,1.0,1.0
+1997,23210.06,Lactose,1.0,1.0,1.0,1.0,1.0
+1997,23311,"Dog or cat food, put up for retail sale",2.0,1.0,1.0,1.0,2.0
+1997,23319.01,"Feed, compound, cattle",70.0,0.5285714285714286,1.0,0.4273469387755102,3.0
+1997,2351f,Raw cane or beet sugar (centrifugal only),1641.0,0.7562461913467398,0.9701401584399756,0.6067119193161525,6.0
+1997,23520,Refined sugar,92.0,0.7608695652173914,1.0,0.6361058601134216,5.0
+1997,23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",1.0,1.0,1.0,1.0,2.0
+1997,23610.01,Cocoa paste not defatted,2.0,0.5,1.0,0.5,2.0
+1997,23670.01,Sugar confectionery,121.0,0.33884297520661155,0.8347107438016529,0.2693122054504474,7.0
+1997,23710,"Uncooked pasta, not stuffed or otherwise prepared",71.0,0.5352112676056338,0.9859154929577464,0.4659789724261058,4.0
+1997,23911,"Coffee, decaffeinated or roasted",27.0,0.6296296296296297,1.0,0.5089163237311385,4.0
+1997,23912.01,Coffee substitutes,1.0,1.0,1.0,1.0,2.0
+1997,23912.02,Coffee extracts,2.0,1.0,1.0,1.0,2.0
+1997,23914,"Extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté",0.0,,,,1.0
+1997,23991.01,Infant food,187.0,0.3315508021390374,0.8716577540106952,0.2633475363893734,8.0
+1997,23991.02,Homogenized vegetable preparations,3.0,1.0,1.0,1.0,2.0
+1997,23991.03,"Homogenized cooked fruit, prepared",0.0,,,,1.0
+1997,23995.03,Flour of mustard seed,5.0,1.0,1.0,1.0,1.0
+1997,23999.01,Malt extract,14.0,1.0,1.0,1.0,3.0
+1997,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",84.0,0.7023809523809523,1.0,0.5819160997732425,2.0
+1997,24212.01,Must of grape,0.0,,,,1.0
+1997,24212.02,Wine,164.0,0.43902439024390244,1.0,0.36079714455681144,3.0
+1997,24220,Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances,16.0,0.8125,1.0,0.6953125,2.0
+1997,24230.03,Cider and other fermented beverages,6.0,1.0,1.0,1.0,1.0
+1997,24310.01,"Beer of barley, malted",224.0,0.9642857142857143,1.0,0.931122448979592,2.0
+1997,24490,Other non-alcoholic caloric beverages,735.0,0.507482993197279,0.9197278911564627,0.3636318200749688,7.0
+1997,25020.01,Cigarettes,1256.0,0.4410828025477707,0.8885350318471338,0.34177223213923486,5.0
+1997,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",227.0,0.8766519823788547,1.0,0.7800073744881524,3.0
+1997,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",4.0,0.75,1.0,0.625,2.0
+1997,35410.90,Essential oils n.e.c.,1.0,1.0,1.0,1.0,1.0
+1997,39120.91,Vegetable products for feed n.e.c.,13.0,1.0,1.0,1.0,1.0
+1997,39213,"Wool, shoddy",1.0,1.0,1.0,1.0,1.0
+1997,F0020,Bread,50.0,0.54,1.0,0.45520000000000005,3.0
+1997,F0022,Pastry,153.0,0.7124183006535948,0.9019607843137255,0.5290700158058868,7.0
+1997,F0030,"Rice, paddy (rice milled equivalent)",9000.0,0.6158888888888889,0.9583333333333333,0.47684590123456794,13.0
+1997,F0262,Olives preserved,6.0,0.5,0.8333333333333333,0.33333333333333337,5.0
+1997,F0472,Vegetables preserved nes (o/t vinegar),25.0,0.8,1.0,0.6608,4.0
+1997,F0623,Fruit prepared n.e.c.,14.0,0.7857142857142857,1.0,0.6428571428571428,5.0
+1997,F0666,Chocolate products nes,80.0,0.375,0.8625,0.27718750000000003,7.0
+1997,F0769,Cotton waste,0.0,,,,1.0
+1997,F0875,beef and veal preparations nes,0.0,,,,1.0
+1997,F0994,Wool grease and lanolin,32.0,1.0,1.0,1.0,1.0
+1997,F1042,Pig meat preparations,0.0,,,,1.0
+1997,F1172,Meat prepared n.e.c.,4.0,1.0,1.0,1.0,2.0
+1997,F1232,Food preparations n.e.c.,577.0,0.5303292894280762,0.9514731369150778,0.42682073354979594,9.0
+1997,F1243,Fat preparations n.e.c.,61.0,0.9016393442622951,1.0,0.8226283257188929,2.0
+1997,F1275,hydrogenated oils and fats,85.0,0.35294117647058826,0.8470588235294119,0.2573010380622838,7.0
+1997,F1293,Crude organic material n.e.c.,2.0,0.5,1.0,0.5,4.0
+1998,0112,Maize (corn),0.0,,,,3.0
+1998,01212,Cabbages,0.0,,,,1.0
+1998,01213,Cauliflowers and broccoli,0.0,,,,2.0
+1998,01214,Lettuce and chicory,1.0,1.0,1.0,1.0,1.0
+1998,01241.90,"Other beans, green",1.0,1.0,1.0,1.0,1.0
+1998,01242,"Peas, green",0.0,,,,1.0
+1998,01243,"Broad beans and horse beans, green",1.0,1.0,1.0,1.0,2.0
+1998,01252,Green garlic,0.0,,,,1.0
+1998,01253.01,"Onions and shallots, green",50.0,0.96,1.0,0.9223999999999999,3.0
+1998,01290.90,"Other vegetables, fresh n.e.c.",28.0,0.9642857142857143,1.0,0.931122448979592,3.0
+1998,01314,Dates,5.0,0.6,1.0,0.52,2.0
+1998,01323,Oranges,0.0,,,,1.0
+1998,01329,"Other citrus fruit, n.e.c.",2.0,1.0,1.0,1.0,1.0
+1998,01330,Grapes,0.0,,,,3.0
+1998,01341,Apples,19.0,1.0,1.0,1.0,2.0
+1998,01342.01,Pears,1.0,1.0,1.0,1.0,1.0
+1998,01359.90,"Other fruits, n.e.c.",0.0,,,,1.0
+1998,01375,"Pistachios, in shell",0.0,,,,1.0
+1998,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",0.0,,,,1.0
+1998,0142,"Groundnuts, excluding shelled",0.0,,,,1.0
+1998,01449.90,"Other oil seeds, n.e.c.",7.0,0.42857142857142855,0.857142857142857,0.30612244897959184,4.0
+1998,01510,Potatoes,4.0,0.75,1.0,0.625,2.0
+1998,01620,Tea leaves,0.0,,,,3.0
+1998,01653,"Nutmeg, mace, cardamoms, raw",0.0,,,,3.0
+1998,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",5.0,0.8,1.0,0.6800000000000002,2.0
+1998,01657,"Ginger, raw",2.0,1.0,1.0,1.0,1.0
+1998,01699,"Other stimulant, spice and aromatic crops, n.e.c.",4.0,0.25,0.75,0.25,6.0
+1998,01701,"Beans, dry",5.0,1.0,1.0,1.0,1.0
+1998,01703,"Chick peas, dry",0.0,,,,1.0
+1998,01704,"Lentils, dry",6.0,1.0,1.0,1.0,3.0
+1998,01705,"Peas, dry",0.0,,,,1.0
+1998,01709.90,Other pulses n.e.c.,12.0,1.0,1.0,1.0,2.0
+1998,01921.02,"Cotton lint, ginned",1.0,1.0,1.0,1.0,1.0
+1998,01929.90,"Other fibre crops, raw, n.e.c.",3.0,1.0,1.0,1.0,1.0
+1998,01970,Unmanufactured tobacco,3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1998,02111,Cattle,152.0,1.0,1.0,1.0,1.0
+1998,02122,Sheep,2.0,1.0,1.0,1.0,1.0
+1998,02123,Goats,0.0,,,,1.0
+1998,02131,Horses,1.0,1.0,1.0,1.0,1.0
+1998,02151,Chickens,10.0,1.0,1.0,1.0,1.0
+1998,02211,Raw milk of cattle,2.0,0.5,1.0,0.5,3.0
+1998,0231,"Hen eggs in shell, fresh",10.0,1.0,1.0,1.0,2.0
+1998,02910,Natural honey,1.0,1.0,1.0,1.0,2.0
+1998,02955.02,"Skins, rabbit",0.0,,,,1.0
+1998,17400,Ice and snow,90.0,0.45555555555555555,0.8222222222222222,0.2928395061728395,6.0
+1998,21111.01,"Meat of cattle with the bone, fresh or chilled",597.0,0.5460636515912898,0.9916247906197655,0.4190887435502471,4.0
+1998,21111.02,"Meat of cattle boneless, fresh or chilled",1844.0,0.3210412147505423,0.7787418655097613,0.22667171714795245,8.0
+1998,21113.01,"Meat of pig with the bone, fresh or chilled",1.0,1.0,1.0,1.0,1.0
+1998,21113.02,"Meat of pig boneless, fresh or chilled",36.0,1.0,1.0,1.0,2.0
+1998,21115,"Meat of sheep, fresh or chilled",31.0,0.9354838709677419,1.0,0.8792924037460976,2.0
+1998,21119.90,"Other meat of mammals, fresh or chilled",46.0,1.0,1.0,1.0,1.0
+1998,21121,"Meat of chickens, fresh or chilled",1191.0,0.7657430730478589,0.8832913518052057,0.5970957665277152,9.0
+1998,21124,"Meat of turkeys, fresh or chilled",0.0,,,,1.0
+1998,21151,"Edible offal of cattle, fresh, chilled or frozen",185.0,0.6918918918918919,0.9405405405405406,0.5162600438276115,5.0
+1998,21153,"Edible offal of pigs, fresh, chilled or frozen",2.0,1.0,1.0,1.0,1.0
+1998,21155,"Edible offal of sheep, fresh, chilled or frozen",1.0,1.0,1.0,1.0,1.0
+1998,21181,"Pig meat, cuts, salted, dried or smoked (bacon and ham)",2.0,1.0,1.0,1.0,1.0
+1998,21182,"Bovine meat, salted, dried or smoked",0.0,,,,1.0
+1998,21183,"Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",0.0,,,,1.0
+1998,21184.02,"Sausages and similar products of meat, offal or blood of pig",14.0,0.7857142857142857,1.0,0.6632653061224489,2.0
+1998,21313,"Potatoes, frozen",1.0,1.0,1.0,1.0,1.0
+1998,21319.01,"Sweet corn, frozen",0.0,,,,1.0
+1998,21330.90,Other vegetables provisionally preserved,1.0,1.0,1.0,1.0,1.0
+1998,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",108.0,1.0,1.0,1.0,2.0
+1998,21393.90,"Vegetables, dehydrated",3.0,1.0,1.0,1.0,1.0
+1998,21399.01,Paste of tomatoes,32.0,0.84375,1.0,0.736328125,2.0
+1998,21399.02,"Tomatoes, peeled (o/t vinegar)",319.0,0.5768025078369906,0.9968652037617556,0.5039750002456737,4.0
+1998,21399.03,"Sweet corn, prepared or preserved",1.0,1.0,1.0,1.0,1.0
+1998,21411,Raisins,0.0,,,,2.0
+1998,21419.99,"Other fruit n.e.c., dried",0.0,,,,1.0
+1998,21421,"Groundnuts, shelled",3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1998,21431.01,Orange juice,52.0,0.6538461538461539,1.0,0.4903846153846154,4.0
+1998,21433,Pineapple juice,4.0,1.0,1.0,1.0,2.0
+1998,21434,Grape juice,0.0,,,,3.0
+1998,21435.01,Apple juice,1.0,1.0,1.0,1.0,2.0
+1998,21439.04,Juice of citrus fruit n.e.c.,0.0,,,,2.0
+1998,21439.90,Juice of fruits n.e.c.,62.0,0.6451612903225806,0.9032258064516129,0.4547346514047867,5.0
+1998,21529.03,Animal oils and fats n.e.c.,19.0,1.0,1.0,1.0,1.0
+1998,2161,Soya bean oil,74.0,0.9864864864864865,1.0,0.973338203067933,2.0
+1998,21631.01,"Sunflower-seed oil, crude",144.0,0.5972222222222222,0.875,0.41126543209876537,5.0
+1998,2165,Palm oil,74.0,0.9864864864864865,1.0,0.973338203067933,4.0
+1998,2167,Olive oil,9.0,0.7777777777777778,1.0,0.654320987654321,2.0
+1998,21673,Oil of olive residues,1.0,1.0,1.0,1.0,2.0
+1998,2168,Cottonseed oil,0.0,,,,1.0
+1998,21691.02,Oil of maize,0.0,,,,1.0
+1998,21691.14,Oil of palm kernel,0.0,,,,1.0
+1998,21700.02,Margarine and shortening,4.0,1.0,1.0,1.0,2.0
+1998,22110.02,Skim milk of cows,23.0,1.0,1.0,1.0,2.0
+1998,22120,"Cream, fresh",0.0,,,,2.0
+1998,22130.02,"Whey, dry",1.0,1.0,1.0,1.0,1.0
+1998,22211,Whole milk powder,312.0,0.3685897435897436,0.8173076923076923,0.25624589086127547,7.0
+1998,22212,Skim milk and whey powder,63.0,0.8888888888888888,1.0,0.7964222726127488,4.0
+1998,22221.01,"Whole milk, evaporated",5.0,0.8,1.0,0.6800000000000002,4.0
+1998,22222.01,"Whole milk, condensed",685.0,0.5007299270072992,0.9226277372262773,0.38966167616814956,9.0
+1998,22230.02,"Yoghurt, with additives",3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1998,22230.03,"Buttermilk, curdled and acidified milk",122.0,0.9754098360655737,1.0,0.9520290244557914,2.0
+1998,22241.01,Butter of cow milk,29.0,0.6206896551724138,1.0,0.45778834720570755,5.0
+1998,22251.01,Cheese from whole cow milk,66.0,0.5454545454545454,0.9848484848484848,0.42011019283746553,5.0
+1998,22251.04,Processed cheese,13.0,0.5384615384615384,1.0,0.5029585798816568,3.0
+1998,22270,Ice cream and other edible ice,1.0,1.0,1.0,1.0,1.0
+1998,22290,Dairy products n.e.c.,1.0,1.0,1.0,1.0,1.0
+1998,23110,Wheat and meslin flour,1246.0,0.869983948635634,0.9430176565008025,0.7606337068345833,9.0
+1998,23120.03,Flour of maize,6.0,1.0,1.0,1.0,4.0
+1998,23120.04,Flour of rye,98.0,1.0,1.0,1.0,1.0
+1998,23140.03,Breakfast cereals,5.0,0.6,1.0,0.44000000000000006,4.0
+1998,23161.02,"Rice, milled",5128.0,0.7942667706708268,0.9118564742589703,0.6408487189721598,10.0
+1998,23161.03,"Rice, broken",2073.0,0.7805113362276893,1.0,0.6573732195044875,2.0
+1998,23162,Husked rice,0.0,,,,2.0
+1998,23210.05,Glucose and dextrose,21.0,1.0,1.0,1.0,1.0
+1998,23210.06,Lactose,1.0,1.0,1.0,1.0,1.0
+1998,23311,"Dog or cat food, put up for retail sale",0.0,,,,3.0
+1998,23319.01,"Feed, compound, cattle",107.0,0.4205607476635514,0.9906542056074766,0.3447462660494366,4.0
+1998,2351f,Raw cane or beet sugar (centrifugal only),1434.0,0.8465829846582985,0.9581589958158996,0.7250096773126833,8.0
+1998,23520,Refined sugar,94.0,0.7659574468085106,0.9999999999999999,0.6367134449977365,4.0
+1998,23610.01,Cocoa paste not defatted,0.0,,,,1.0
+1998,23670.01,Sugar confectionery,82.0,0.4146341463414634,0.8536585365853658,0.30339083878643663,8.0
+1998,23670.02,"Fruit, nuts, peel, sugar preserved",1.0,1.0,1.0,1.0,3.0
+1998,23710,"Uncooked pasta, not stuffed or otherwise prepared",26.0,0.5384615384615384,1.0,0.5029585798816568,3.0
+1998,23911,"Coffee, decaffeinated or roasted",11.0,0.45454545454545453,1.0,0.42148760330578505,4.0
+1998,23914,"Extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté",0.0,,,,1.0
+1998,23991.01,Infant food,102.0,0.5392156862745098,0.8921568627450981,0.3646674356016917,5.0
+1998,23991.02,Homogenized vegetable preparations,0.0,,,,2.0
+1998,23991.03,"Homogenized cooked fruit, prepared",0.0,,,,2.0
+1998,23993.02,"Eggs, liquid",0.0,,,,1.0
+1998,23995.03,Flour of mustard seed,4.0,1.0,1.0,1.0,2.0
+1998,23999.01,Malt extract,24.0,0.8333333333333334,1.0,0.7118055555555557,4.0
+1998,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",19.0,0.7894736842105263,1.0,0.6675900277008311,3.0
+1998,24212.01,Must of grape,3.0,1.0,1.0,1.0,1.0
+1998,24212.02,Wine,130.0,0.49230769230769234,0.9923076923076923,0.3958579881656805,4.0
+1998,24220,Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances,0.0,,,,1.0
+1998,24230.03,Cider and other fermented beverages,0.0,,,,1.0
+1998,24310.01,"Beer of barley, malted",126.0,0.9841269841269841,1.0,0.9687578735197782,2.0
+1998,24490,Other non-alcoholic caloric beverages,623.0,0.7576243980738363,0.9727126805778491,0.6015448472028629,6.0
+1998,25020.01,Cigarettes,973.0,0.6947584789311408,0.9876670092497432,0.5296542093883256,6.0
+1998,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",0.0,,,,1.0
+1998,26150.01,"Hair, carded/combed",0.0,,,,1.0
+1998,26160,"Cotton, carded or combed",5.0,1.0,1.0,1.0,3.0
+1998,35410.90,Essential oils n.e.c.,0.0,,,,3.0
+1998,39120.91,Vegetable products for feed n.e.c.,12.0,1.0,1.0,1.0,1.0
+1998,F0020,Bread,54.0,0.5555555555555556,0.9814814814814815,0.47530864197530864,5.0
+1998,F0022,Pastry,138.0,0.8333333333333334,0.9710144927536232,0.7086746481831548,6.0
+1998,F0030,"Rice, paddy (rice milled equivalent)",7201.0,0.7903069018191918,0.9362588529370921,0.6371879794735265,10.0
+1998,F0262,Olives preserved,5.0,1.0,1.0,1.0,2.0
+1998,F0472,Vegetables preserved nes (o/t vinegar),22.0,0.9090909090909091,1.0,0.8347107438016528,3.0
+1998,F0473,Vegetables frozen,2.0,1.0,1.0,1.0,2.0
+1998,F0623,Fruit prepared n.e.c.,11.0,0.9090909090909091,1.0,0.8347107438016528,3.0
+1998,F0666,Chocolate products nes,72.0,0.4861111111111111,0.9166666666666667,0.38387345679012347,7.0
+1998,F1172,Meat prepared n.e.c.,2.0,1.0,1.0,1.0,1.0
+1998,F1232,Food preparations n.e.c.,437.0,0.4691075514874142,0.9107551487414187,0.3710288057223947,9.0
+1998,F1243,Fat preparations n.e.c.,154.0,0.6948051948051948,0.9285714285714285,0.5116377129364144,7.0
+1998,F1275,hydrogenated oils and fats,327.0,0.7889908256880734,0.9785932721712539,0.6438758428489932,7.0
+1998,F1293,Crude organic material n.e.c.,8.0,0.875,1.0,0.78125,4.0
+1999,0112,Maize (corn),10.0,0.9,1.0,0.8200000000000001,2.0
+1999,0113,Rice,0.0,,,,1.0
+1999,01199.90,Cereals n.e.c.,9.0,1.0,1.0,1.0,1.0
+1999,01214,Lettuce and chicory,1.0,1.0,1.0,1.0,1.0
+1999,01234,Tomatoes,0.0,,,,1.0
+1999,01241.90,"Other beans, green",0.0,,,,1.0
+1999,01243,"Broad beans and horse beans, green",1.0,1.0,1.0,1.0,2.0
+1999,01252,Green garlic,11.0,1.0,1.0,1.0,2.0
+1999,01253.01,"Onions and shallots, green",77.0,0.987012987012987,1.0,0.9743632990386237,4.0
+1999,01254,Leeks and other alliaceous vegetables,1.0,1.0,1.0,1.0,1.0
+1999,01290.90,"Other vegetables, fresh n.e.c.",12.0,1.0,1.0,1.0,3.0
+1999,01314,Dates,5.0,0.4,1.0,0.3600000000000001,3.0
+1999,01315,Figs,0.0,,,,1.0
+1999,01329,"Other citrus fruit, n.e.c.",1.0,1.0,1.0,1.0,1.0
+1999,01330,Grapes,0.0,,,,1.0
+1999,01341,Apples,13.0,0.9230769230769231,1.0,0.8579881656804735,2.0
+1999,01359.90,"Other fruits, n.e.c.",4.0,1.0,1.0,1.0,1.0
+1999,01375,"Pistachios, in shell",0.0,,,,1.0
+1999,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",7.0,1.0,1.0,1.0,2.0
+1999,0142,"Groundnuts, excluding shelled",3.0,1.0,1.0,1.0,1.0
+1999,01449.90,"Other oil seeds, n.e.c.",5.0,0.6,1.0,0.52,3.0
+1999,01510,Potatoes,17.0,1.0,1.0,1.0,2.0
+1999,01610,"Coffee, green",0.0,,,,2.0
+1999,01620,Tea leaves,5.0,0.4,0.8,0.28,5.0
+1999,01653,"Nutmeg, mace, cardamoms, raw",0.0,,,,1.0
+1999,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",1.0,1.0,1.0,1.0,4.0
+1999,01657,"Ginger, raw",0.0,,,,1.0
+1999,01658,"Vanilla, raw",120.0,0.7333333333333333,1.0,0.6088888888888888,2.0
+1999,01699,"Other stimulant, spice and aromatic crops, n.e.c.",2.0,0.5,1.0,0.5,4.0
+1999,01701,"Beans, dry",3.0,1.0,1.0,1.0,1.0
+1999,01703,"Chick peas, dry",0.0,,,,1.0
+1999,01704,"Lentils, dry",7.0,1.0,1.0,1.0,3.0
+1999,01705,"Peas, dry",1.0,1.0,1.0,1.0,1.0
+1999,01709.90,Other pulses n.e.c.,19.0,1.0,1.0,1.0,5.0
+1999,01921.02,"Cotton lint, ginned",0.0,,,,3.0
+1999,01929.05,"Sisal, raw",1.0,1.0,1.0,1.0,1.0
+1999,01950.02,Natural rubber in other forms,3.0,1.0,1.0,1.0,2.0
+1999,01970,Unmanufactured tobacco,4.0,1.0,1.0,1.0,2.0
+1999,02111,Cattle,205.0,1.0,1.0,1.0,1.0
+1999,02123,Goats,5.0,1.0,1.0,1.0,1.0
+1999,02131,Horses,14.0,1.0,1.0,1.0,1.0
+1999,02151,Chickens,6.0,0.8333333333333334,1.0,0.7222222222222223,3.0
+1999,02211,Raw milk of cattle,3.0,1.0,1.0,1.0,1.0
+1999,0231,"Hen eggs in shell, fresh",12.0,1.0,1.0,1.0,2.0
+1999,02910,Natural honey,0.0,,,,3.0
+1999,02960.02,Spermaceti,0.0,,,,1.0
+1999,17400,Ice and snow,74.0,0.33783783783783783,0.8513513513513513,0.2600438276113951,7.0
+1999,21111.01,"Meat of cattle with the bone, fresh or chilled",143.0,0.35664335664335667,0.8811188811188811,0.2859308523644188,4.0
+1999,21111.02,"Meat of cattle boneless, fresh or chilled",1533.0,0.3724722765818656,0.8604044357469015,0.2881171734347082,7.0
+1999,21113.01,"Meat of pig with the bone, fresh or chilled",4.0,1.0,1.0,1.0,1.0
+1999,21113.02,"Meat of pig boneless, fresh or chilled",8.0,1.0,1.0,1.0,2.0
+1999,21119.90,"Other meat of mammals, fresh or chilled",65.0,1.0,1.0,1.0,1.0
+1999,21121,"Meat of chickens, fresh or chilled",1065.0,0.571830985915493,0.9568075117370892,0.44475038021556573,6.0
+1999,21151,"Edible offal of cattle, fresh, chilled or frozen",38.0,0.5526315789473685,0.8947368421052632,0.37811634349030476,4.0
+1999,21181,"Pig meat, cuts, salted, dried or smoked (bacon and ham)",1.0,1.0,1.0,1.0,2.0
+1999,21182,"Bovine meat, salted, dried or smoked",0.0,,,,1.0
+1999,21184.02,"Sausages and similar products of meat, offal or blood of pig",21.0,0.7142857142857143,1.0,0.5918367346938775,2.0
+1999,21189.01,Liver preparations,0.0,,,,1.0
+1999,21190.01,Meat meal,0.0,,,,1.0
+1999,21313,"Potatoes, frozen",10.0,1.0,1.0,1.0,2.0
+1999,21330.90,Other vegetables provisionally preserved,0.0,,,,1.0
+1999,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",143.0,1.0,1.0,1.0,1.0
+1999,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",0.0,,,,1.0
+1999,21393.90,"Vegetables, dehydrated",2.0,1.0,1.0,1.0,1.0
+1999,21399.01,Paste of tomatoes,1.0,1.0,1.0,1.0,2.0
+1999,21399.02,"Tomatoes, peeled (o/t vinegar)",487.0,0.8295687885010267,0.9999999999999999,0.7158650582496026,4.0
+1999,21399.03,"Sweet corn, prepared or preserved",3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1999,21411,Raisins,0.0,,,,2.0
+1999,21419.99,"Other fruit n.e.c., dried",0.0,,,,1.0
+1999,21421,"Groundnuts, shelled",5.0,1.0,1.0,1.0,1.0
+1999,21431.01,Orange juice,13.0,0.9230769230769231,1.0,0.8579881656804735,6.0
+1999,21433,Pineapple juice,1.0,1.0,1.0,1.0,1.0
+1999,21434,Grape juice,0.0,,,,1.0
+1999,21435.01,Apple juice,1.0,1.0,1.0,1.0,2.0
+1999,21439.04,Juice of citrus fruit n.e.c.,0.0,,,,1.0
+1999,21439.90,Juice of fruits n.e.c.,41.0,0.3902439024390244,0.8536585365853658,0.2944675788221297,6.0
+1999,21495.01,Prepared groundnuts,1.0,1.0,1.0,1.0,2.0
+1999,2161,Soya bean oil,65.0,0.7538461538461538,1.0,0.6288757396449705,6.0
+1999,2162,Groundnut oil,0.0,,,,1.0
+1999,21631.01,"Sunflower-seed oil, crude",131.0,0.8320610687022901,1.0,0.7138861371714935,4.0
+1999,21641.01,"Rapeseed or canola oil, crude",21.0,0.7142857142857143,1.0,0.5918367346938775,2.0
+1999,2165,Palm oil,108.0,0.9259259259259259,0.9907407407407407,0.8599108367626886,4.0
+1999,2166,Coconut oil,0.0,,,,2.0
+1999,2167,Olive oil,5.0,0.6,1.0,0.52,3.0
+1999,21673,Oil of olive residues,1.0,1.0,1.0,1.0,1.0
+1999,21691.02,Oil of maize,0.0,,,,1.0
+1999,21691.12,Oil of linseed,0.0,,,,2.0
+1999,21691.14,Oil of palm kernel,0.0,,,,1.0
+1999,21700.02,Margarine and shortening,5.0,0.6,1.0,0.52,2.0
+1999,21910.05,Cake of copra,1.0,1.0,1.0,1.0,1.0
+1999,22110.02,Skim milk of cows,33.0,0.36363636363636365,0.8484848484848485,0.26721763085399447,5.0
+1999,22120,"Cream, fresh",61.0,0.7377049180327869,1.0,0.6130072561139479,4.0
+1999,22211,Whole milk powder,297.0,0.4713804713804714,0.734006734006734,0.277851466403655,8.0
+1999,22212,Skim milk and whey powder,33.0,0.7575757575757576,0.9696969696969697,0.6088154269972452,5.0
+1999,22222.01,"Whole milk, condensed",517.0,0.2611218568665377,0.6963249516441006,0.19175873305672886,8.0
+1999,22230.02,"Yoghurt, with additives",4.0,1.0,1.0,1.0,2.0
+1999,22230.03,"Buttermilk, curdled and acidified milk",89.0,0.9775280898876404,1.0,0.9560661532634767,2.0
+1999,22241.01,Butter of cow milk,70.0,0.6428571428571429,1.0,0.5310204081632653,4.0
+1999,22251.01,Cheese from whole cow milk,50.0,0.52,1.0,0.5008,3.0
+1999,22251.04,Processed cheese,10.0,0.8,1.0,0.6800000000000002,3.0
+1999,22270,Ice cream and other edible ice,10.0,1.0,1.0,1.0,1.0
+1999,23110,Wheat and meslin flour,1146.0,0.9136125654450262,0.9633507853403142,0.8364628162605193,8.0
+1999,23120.01,Flour of rice,2.0,1.0,1.0,1.0,2.0
+1999,23120.03,Flour of maize,5.0,1.0,1.0,1.0,6.0
+1999,23120.04,Flour of rye,19.0,1.0,1.0,1.0,1.0
+1999,23140.03,Breakfast cereals,1.0,1.0,1.0,1.0,3.0
+1999,23140.08,Cereal preparations,0.0,,,,2.0
+1999,23161.02,"Rice, milled",665.0,0.7398496240601504,0.9293233082706768,0.5727604726100968,10.0
+1999,23161.03,"Rice, broken",1235.0,0.9959514170040485,1.0,0.9919356160566473,3.0
+1999,23162,Husked rice,1481.0,0.9986495611073599,1.0,0.9973027695851253,4.0
+1999,23180,Mixes and doughs for the preparation of bakers' wares,11.0,1.0,1.0,1.0,1.0
+1999,23210.03,Other fructose and syrup,0.0,,,,1.0
+1999,23210.04,Sugar and syrups n.e.c.,0.0,,,,1.0
+1999,23210.05,Glucose and dextrose,3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+1999,23210.06,Lactose,1.0,1.0,1.0,1.0,1.0
+1999,23311,"Dog or cat food, put up for retail sale",0.0,,,,2.0
+1999,23319.01,"Feed, compound, cattle",87.0,0.39080459770114945,0.9080459770114944,0.3140441273616066,5.0
+1999,2351f,Raw cane or beet sugar (centrifugal only),971.0,0.627188465499485,0.9505664263645726,0.4770168034695139,5.0
+1999,23520,Refined sugar,652.0,0.7377300613496932,0.9693251533742331,0.5863271105423614,6.0
+1999,23670.01,Sugar confectionery,37.0,0.5135135135135135,1.0,0.45361577794010227,7.0
+1999,23710,"Uncooked pasta, not stuffed or otherwise prepared",45.0,0.5555555555555556,1.0,0.5061728395061729,5.0
+1999,23911,"Coffee, decaffeinated or roasted",40.0,0.8,1.0,0.6600000000000001,6.0
+1999,23912.01,Coffee substitutes,0.0,,,,1.0
+1999,23912.02,Coffee extracts,2.0,0.5,1.0,0.5,2.0
+1999,23991.01,Infant food,114.0,0.38596491228070173,0.9385964912280702,0.30578639581409667,6.0
+1999,23991.02,Homogenized vegetable preparations,3.0,1.0,1.0,1.0,1.0
+1999,23993.02,"Eggs, liquid",0.0,,,,1.0
+1999,23995.03,Flour of mustard seed,5.0,0.8,1.0,0.6800000000000002,3.0
+1999,23999.01,Malt extract,30.0,0.4,1.0,0.33999999999999997,4.0
+1999,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",47.0,0.8085106382978723,0.9999999999999999,0.6740606609325486,3.0
+1999,24212.01,Must of grape,2.0,1.0,1.0,1.0,1.0
+1999,24212.02,Wine,107.0,0.3925233644859813,0.9065420560747663,0.2953096340291728,4.0
+1999,24230.03,Cider and other fermented beverages,0.0,,,,1.0
+1999,24310.01,"Beer of barley, malted",125.0,0.856,1.0,0.7512959999999999,3.0
+1999,24490,Other non-alcoholic caloric beverages,438.0,0.6894977168949772,0.9703196347031964,0.5192656533433415,7.0
+1999,25020.01,Cigarettes,1073.0,0.7744641192917054,0.9953401677539608,0.6326002385069776,4.0
+1999,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",1.0,1.0,1.0,1.0,1.0
+1999,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",4.0,1.0,1.0,1.0,2.0
+1999,35410.90,Essential oils n.e.c.,0.0,,,,3.0
+1999,39120.04,Bran of maize,9.0,1.0,1.0,1.0,1.0
+1999,39120.91,Vegetable products for feed n.e.c.,5.0,1.0,1.0,1.0,2.0
+1999,F0020,Bread,21.0,0.6190476190476191,0.9523809523809523,0.4693877551020408,4.0
+1999,F0022,Pastry,63.0,0.7936507936507936,0.9523809523809523,0.6512975560594607,7.0
+1999,F0030,"Rice, paddy (rice milled equivalent)",3381.0,0.43744454303460517,0.9482401656314701,0.34629719588412766,13.0
+1999,F0262,Olives preserved,15.0,1.0,1.0,1.0,3.0
+1999,F0472,Vegetables preserved nes (o/t vinegar),28.0,0.6785714285714286,1.0,0.5637755102040817,3.0
+1999,F0473,Vegetables frozen,0.0,,,,1.0
+1999,F0623,Fruit prepared n.e.c.,16.0,0.6875,1.0,0.5703125,3.0
+1999,F0665,Cocoa powder and cake,0.0,,,,1.0
+1999,F0666,Chocolate products nes,46.0,0.41304347826086957,0.9130434782608696,0.32230623818525517,5.0
+1999,F0769,Cotton waste,0.0,,,,2.0
+1999,F1061,Poultry meat preparations,0.0,,,,1.0
+1999,F1172,Meat prepared n.e.c.,1.0,1.0,1.0,1.0,1.0
+1999,F1232,Food preparations n.e.c.,286.0,0.5209790209790209,0.9930069930069929,0.42099858183774264,9.0
+1999,F1243,Fat preparations n.e.c.,19.0,1.0,1.0,1.0,2.0
+1999,F1275,hydrogenated oils and fats,459.0,0.5010893246187363,0.784313725490196,0.3102273104836221,10.0
+1999,F1293,Crude organic material n.e.c.,0.0,,,,3.0
+2000,0111,Wheat,0.0,,,,1.0
+2000,0112,Maize (corn),1.0,1.0,1.0,1.0,4.0
+2000,0113,Rice,0.0,,,,1.0
+2000,01214,Lettuce and chicory,0.0,,,,1.0
+2000,01241.90,"Other beans, green",0.0,,,,1.0
+2000,01243,"Broad beans and horse beans, green",0.0,,,,1.0
+2000,01251,Carrots and turnips,7.0,1.0,1.0,1.0,1.0
+2000,01252,Green garlic,5.0,0.8,1.0,0.6800000000000002,3.0
+2000,01253.01,"Onions and shallots, green",45.0,1.0,1.0,1.0,4.0
+2000,01254,Leeks and other alliaceous vegetables,0.0,,,,1.0
+2000,01290.90,"Other vegetables, fresh n.e.c.",0.0,,,,3.0
+2000,01314,Dates,20.0,0.65,0.9500000000000001,0.47500000000000003,5.0
+2000,01330,Grapes,0.0,,,,1.0
+2000,01341,Apples,13.0,0.8461538461538461,1.0,0.7396449704142012,2.0
+2000,01372,"Cashew nuts, in shell",0.0,,,,1.0
+2000,01375,"Pistachios, in shell",0.0,,,,1.0
+2000,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",4.0,0.75,1.0,0.625,2.0
+2000,0142,"Groundnuts, excluding shelled",8.0,1.0,1.0,1.0,2.0
+2000,01449.90,"Other oil seeds, n.e.c.",0.0,,,,1.0
+2000,01510,Potatoes,3.0,1.0,1.0,1.0,2.0
+2000,01530,Sweet potatoes,0.0,,,,1.0
+2000,01610,"Coffee, green",0.0,,,,1.0
+2000,01620,Tea leaves,4.0,0.5,1.0,0.375,4.0
+2000,01651,"Pepper (Piper spp.), raw",0.0,,,,1.0
+2000,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",0.0,,,,2.0
+2000,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",2.0,1.0,1.0,1.0,3.0
+2000,01655,"Cinnamon and cinnamon-tree flowers, raw",0.0,,,,1.0
+2000,01657,"Ginger, raw",0.0,,,,1.0
+2000,01699,"Other stimulant, spice and aromatic crops, n.e.c.",1.0,1.0,1.0,1.0,4.0
+2000,01701,"Beans, dry",1.0,1.0,1.0,1.0,1.0
+2000,01703,"Chick peas, dry",0.0,,,,1.0
+2000,01704,"Lentils, dry",2.0,1.0,1.0,1.0,2.0
+2000,01705,"Peas, dry",1.0,1.0,1.0,1.0,1.0
+2000,01709.90,Other pulses n.e.c.,10.0,1.0,1.0,1.0,3.0
+2000,01921.02,"Cotton lint, ginned",0.0,,,,3.0
+2000,01929.05,"Sisal, raw",0.0,,,,1.0
+2000,01970,Unmanufactured tobacco,2.0,1.0,1.0,1.0,2.0
+2000,02111,Cattle,216.0,0.9768518518518519,1.0,0.954775377229081,2.0
+2000,02122,Sheep,0.0,,,,1.0
+2000,02133,Mules and hinnies,2.0,1.0,1.0,1.0,1.0
+2000,02151,Chickens,4.0,0.75,1.0,0.625,3.0
+2000,02211,Raw milk of cattle,4.0,0.75,1.0,0.625,3.0
+2000,0231,"Hen eggs in shell, fresh",2.0,1.0,1.0,1.0,2.0
+2000,02910,Natural honey,0.0,,,,2.0
+2000,17400,Ice and snow,78.0,0.5,0.923076923076923,0.3504273504273504,6.0
+2000,21111.01,"Meat of cattle with the bone, fresh or chilled",699.0,0.4220314735336195,0.8469241773962805,0.28740219524724675,7.0
+2000,21111.02,"Meat of cattle boneless, fresh or chilled",1185.0,0.2607594936708861,0.7367088607594936,0.207235307732023,8.0
+2000,21113.01,"Meat of pig with the bone, fresh or chilled",1.0,1.0,1.0,1.0,2.0
+2000,21113.02,"Meat of pig boneless, fresh or chilled",6.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2000,21121,"Meat of chickens, fresh or chilled",1168.0,0.6618150684931506,0.9897260273972602,0.5241969060799399,4.0
+2000,21122,"Meat of ducks, fresh or chilled",16.0,1.0,1.0,1.0,1.0
+2000,21124,"Meat of turkeys, fresh or chilled",57.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2000,21151,"Edible offal of cattle, fresh, chilled or frozen",15.0,0.5333333333333333,1.0,0.4488888888888889,3.0
+2000,21155,"Edible offal of sheep, fresh, chilled or frozen",0.0,,,,1.0
+2000,21181,"Pig meat, cuts, salted, dried or smoked (bacon and ham)",0.0,,,,1.0
+2000,21182,"Bovine meat, salted, dried or smoked",0.0,,,,1.0
+2000,21183,"Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",0.0,,,,1.0
+2000,21184.02,"Sausages and similar products of meat, offal or blood of pig",12.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2000,21189.01,Liver preparations,1.0,1.0,1.0,1.0,1.0
+2000,21313,"Potatoes, frozen",2.0,1.0,1.0,1.0,1.0
+2000,21330.90,Other vegetables provisionally preserved,0.0,,,,1.0
+2000,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",83.0,1.0,1.0,1.0,1.0
+2000,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",0.0,,,,1.0
+2000,21393.90,"Vegetables, dehydrated",0.0,,,,1.0
+2000,21399.01,Paste of tomatoes,0.0,,,,1.0
+2000,21399.02,"Tomatoes, peeled (o/t vinegar)",216.0,0.9074074074074074,1.0,0.8319615912208504,4.0
+2000,21399.03,"Sweet corn, prepared or preserved",3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2000,21411,Raisins,0.0,,,,2.0
+2000,21419.99,"Other fruit n.e.c., dried",0.0,,,,1.0
+2000,21421,"Groundnuts, shelled",8.0,1.0,1.0,1.0,1.0
+2000,21422,"Almonds, shelled",0.0,,,,1.0
+2000,21431.01,Orange juice,8.0,0.875,1.0,0.78125,6.0
+2000,21432,Grapefruit juice,0.0,,,,1.0
+2000,21433,Pineapple juice,1.0,1.0,1.0,1.0,1.0
+2000,21434,Grape juice,1.0,1.0,1.0,1.0,2.0
+2000,21435.01,Apple juice,0.0,,,,1.0
+2000,21439.04,Juice of citrus fruit n.e.c.,0.0,,,,1.0
+2000,21439.90,Juice of fruits n.e.c.,45.0,0.6444444444444445,0.9777777777777779,0.47358024691358036,6.0
+2000,21495.01,Prepared groundnuts,0.0,,,,1.0
+2000,2161,Soya bean oil,53.0,0.7169811320754716,1.0,0.5941616233535065,2.0
+2000,2162,Groundnut oil,0.0,,,,2.0
+2000,21631.01,"Sunflower-seed oil, crude",62.0,0.7580645161290323,1.0,0.6144640998959418,4.0
+2000,2165,Palm oil,19.0,0.631578947368421,1.0,0.5346260387811634,3.0
+2000,2167,Olive oil,13.0,0.8461538461538461,1.0,0.7396449704142012,3.0
+2000,21673,Oil of olive residues,0.0,,,,1.0
+2000,21691.02,Oil of maize,0.0,,,,1.0
+2000,21691.14,Oil of palm kernel,0.0,,,,1.0
+2000,21700.02,Margarine and shortening,1.0,1.0,1.0,1.0,2.0
+2000,21910.03,Cake of  soya beans,1.0,1.0,1.0,1.0,1.0
+2000,21910.06,Cake of palm kernel,12.0,0.75,1.0,0.625,2.0
+2000,21910.07,Cake of sunflower seed,11.0,1.0,1.0,1.0,1.0
+2000,22110.02,Skim milk of cows,33.0,0.7878787878787878,0.9696969696969697,0.6382001836547291,4.0
+2000,22120,"Cream, fresh",34.0,0.8529411764705882,1.0,0.7422145328719723,3.0
+2000,22211,Whole milk powder,335.0,0.3492537313432836,0.7761194029850745,0.22646469146803297,11.0
+2000,22212,Skim milk and whey powder,23.0,0.5217391304347826,1.0,0.500945179584121,5.0
+2000,22221.01,"Whole milk, evaporated",3.0,1.0,1.0,1.0,2.0
+2000,22222.01,"Whole milk, condensed",396.0,0.35353535353535354,0.7676767676767677,0.229389858177737,12.0
+2000,22230.02,"Yoghurt, with additives",1.0,1.0,1.0,1.0,3.0
+2000,22230.03,"Buttermilk, curdled and acidified milk",34.0,0.9705882352941176,1.0,0.9429065743944636,3.0
+2000,22241.01,Butter of cow milk,13.0,0.8461538461538461,1.0,0.7396449704142012,5.0
+2000,22251.01,Cheese from whole cow milk,37.0,0.5405405405405406,1.0,0.4799123447772097,4.0
+2000,22251.04,Processed cheese,6.0,0.5,1.0,0.5,2.0
+2000,22270,Ice cream and other edible ice,3.0,1.0,1.0,1.0,2.0
+2000,23110,Wheat and meslin flour,1021.0,0.7776689520078355,0.9637610186092066,0.6264383308024147,9.0
+2000,23120.03,Flour of maize,14.0,0.5,1.0,0.5,6.0
+2000,23120.04,Flour of rye,0.0,,,,1.0
+2000,23140.03,Breakfast cereals,3.0,1.0,1.0,1.0,3.0
+2000,23140.08,Cereal preparations,1.0,1.0,1.0,1.0,2.0
+2000,23161.02,"Rice, milled",5289.0,0.9277746265834751,0.9737190395159765,0.8623120771961454,11.0
+2000,23161.03,"Rice, broken",12.0,1.0,1.0,1.0,2.0
+2000,23162,Husked rice,0.0,,,,2.0
+2000,23180,Mixes and doughs for the preparation of bakers' wares,0.0,,,,2.0
+2000,23210.03,Other fructose and syrup,0.0,,,,1.0
+2000,23210.05,Glucose and dextrose,0.0,,,,1.0
+2000,23311,"Dog or cat food, put up for retail sale",2.0,1.0,1.0,1.0,1.0
+2000,23319.01,"Feed, compound, cattle",122.0,0.4262295081967213,0.9836065573770492,0.3716742811072292,5.0
+2000,2351f,Raw cane or beet sugar (centrifugal only),443.0,0.6952595936794582,1.0,0.5658984249601272,4.0
+2000,23520,Refined sugar,653.0,0.7702909647779479,0.9785604900459418,0.6269731642624803,6.0
+2000,23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",0.0,,,,1.0
+2000,23540,Molasses,1.0,1.0,1.0,1.0,2.0
+2000,23610.01,Cocoa paste not defatted,0.0,,,,1.0
+2000,23620,"Cocoa butter, fat and oil",0.0,,,,1.0
+2000,23670.01,Sugar confectionery,100.0,0.44,0.83,0.30479999999999996,8.0
+2000,23710,"Uncooked pasta, not stuffed or otherwise prepared",39.0,0.8461538461538461,1.0,0.7396449704142012,3.0
+2000,23911,"Coffee, decaffeinated or roasted",20.0,0.75,1.0,0.605,5.0
+2000,23912.02,Coffee extracts,0.0,,,,1.0
+2000,23991.01,Infant food,187.0,0.25133689839572193,0.625668449197861,0.18121764991849923,8.0
+2000,23991.02,Homogenized vegetable preparations,3.0,1.0,1.0,1.0,1.0
+2000,23991.03,"Homogenized cooked fruit, prepared",9.0,0.8888888888888888,1.0,0.8024691358024691,3.0
+2000,23995.03,Flour of mustard seed,2.0,1.0,1.0,1.0,1.0
+2000,23999.01,Malt extract,0.0,,,,2.0
+2000,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",45.0,0.6222222222222222,1.0,0.4706172839506173,3.0
+2000,24212.02,Wine,202.0,0.7277227722772277,0.995049504950495,0.5653367316929713,5.0
+2000,24220,Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances,2.0,1.0,1.0,1.0,2.0
+2000,24230.03,Cider and other fermented beverages,1.0,1.0,1.0,1.0,2.0
+2000,24310.01,"Beer of barley, malted",110.0,0.9090909090909091,0.9999999999999999,0.8332231404958677,4.0
+2000,24490,Other non-alcoholic caloric beverages,747.0,0.9518072289156626,0.9919678714859437,0.9071197776379949,8.0
+2000,25020.01,Cigarettes,432.0,0.7476851851851852,1.0,0.6215384945130317,3.0
+2000,25020.02,Cigars and cheroots,0.0,,,,1.0
+2000,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",0.0,,,,1.0
+2000,26130,"Wool, degreased or carbonized, not carded or combed",0.0,,,,1.0
+2000,26160,"Cotton, carded or combed",0.0,,,,1.0
+2000,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",12.0,0.8333333333333334,1.0,0.7222222222222223,2.0
+2000,35410.90,Essential oils n.e.c.,2.0,1.0,1.0,1.0,2.0
+2000,39120.91,Vegetable products for feed n.e.c.,0.0,,,,1.0
+2000,F0020,Bread,22.0,0.6363636363636364,1.0,0.5371900826446281,4.0
+2000,F0022,Pastry,89.0,0.550561797752809,0.8876404494382023,0.39376341371039014,8.0
+2000,F0030,"Rice, paddy (rice milled equivalent)",5301.0,0.9256744010564044,0.971514808526693,0.8584568351402876,11.0
+2000,F0262,Olives preserved,11.0,0.9090909090909091,1.0,0.8347107438016528,3.0
+2000,F0472,Vegetables preserved nes (o/t vinegar),21.0,0.6190476190476191,1.0,0.46031746031746035,5.0
+2000,F0473,Vegetables frozen,0.0,,,,1.0
+2000,F0623,Fruit prepared n.e.c.,4.0,1.0,1.0,1.0,3.0
+2000,F0665,Cocoa powder and cake,0.0,,,,1.0
+2000,F0666,Chocolate products nes,29.0,0.5172413793103449,0.896551724137931,0.3555291319857313,6.0
+2000,F0769,Cotton waste,0.0,,,,1.0
+2000,F0875,beef and veal preparations nes,0.0,,,,1.0
+2000,F1172,Meat prepared n.e.c.,2.0,1.0,1.0,1.0,1.0
+2000,F1232,Food preparations n.e.c.,248.0,0.45564516129032256,0.8951612903225806,0.3470993756503642,10.0
+2000,F1243,Fat preparations n.e.c.,28.0,1.0,1.0,1.0,1.0
+2000,F1275,hydrogenated oils and fats,466.0,0.3605150214592275,0.6974248927038627,0.20830186593969316,11.0
+2000,F1293,Crude organic material n.e.c.,0.0,,,,2.0
+2001,0111,Wheat,0.0,,,,1.0
+2001,0112,Maize (corn),0.0,,,,6.0
+2001,0113,Rice,1675.0,1.0,1.0,1.0,1.0
+2001,01213,Cauliflowers and broccoli,0.0,,,,1.0
+2001,01214,Lettuce and chicory,0.0,,,,1.0
+2001,01234,Tomatoes,0.0,,,,1.0
+2001,01241.90,"Other beans, green",0.0,,,,1.0
+2001,01243,"Broad beans and horse beans, green",0.0,,,,1.0
+2001,01251,Carrots and turnips,0.0,,,,1.0
+2001,01252,Green garlic,5.0,1.0,1.0,1.0,2.0
+2001,01253.02,"Onions and shallots, dry (excluding dehydrated)",33.0,1.0,1.0,1.0,5.0
+2001,01254,Leeks and other alliaceous vegetables,2.0,1.0,1.0,1.0,1.0
+2001,01290.90,"Other vegetables, fresh n.e.c.",0.0,,,,1.0
+2001,01311,Avocados,0.0,,,,1.0
+2001,01314,Dates,8.0,0.5,1.0,0.375,5.0
+2001,01329,"Other citrus fruit, n.e.c.",0.0,,,,1.0
+2001,01341,Apples,9.0,1.0,1.0,1.0,3.0
+2001,01345,Peaches and nectarines,0.0,,,,1.0
+2001,01375,"Pistachios, in shell",0.0,,,,1.0
+2001,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",0.0,,,,3.0
+2001,0142,"Groundnuts, excluding shelled",4.0,1.0,1.0,1.0,2.0
+2001,01449.90,"Other oil seeds, n.e.c.",0.0,,,,1.0
+2001,01510,Potatoes,21.0,0.6190476190476191,1.0,0.45578231292517,5.0
+2001,01610,"Coffee, green",11.0,0.8181818181818182,1.0,0.7024793388429753,2.0
+2001,01620,Tea leaves,7.0,0.7142857142857143,1.0,0.5918367346938775,4.0
+2001,01630,Maté leaves,0.0,,,,1.0
+2001,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",0.0,,,,1.0
+2001,01653,"Nutmeg, mace, cardamoms, raw",0.0,,,,1.0
+2001,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",4.0,1.0,1.0,1.0,5.0
+2001,01657,"Ginger, raw",0.0,,,,1.0
+2001,01699,"Other stimulant, spice and aromatic crops, n.e.c.",2.0,1.0,1.0,1.0,5.0
+2001,01701,"Beans, dry",2.0,1.0,1.0,1.0,1.0
+2001,01703,"Chick peas, dry",0.0,,,,1.0
+2001,01704,"Lentils, dry",7.0,1.0,1.0,1.0,4.0
+2001,01705,"Peas, dry",0.0,,,,1.0
+2001,01709.90,Other pulses n.e.c.,11.0,1.0,1.0,1.0,2.0
+2001,01921.02,"Cotton lint, ginned",0.0,,,,2.0
+2001,01950.01,Natural rubber in primary forms,0.0,,,,1.0
+2001,01950.02,Natural rubber in other forms,0.0,,,,1.0
+2001,01970,Unmanufactured tobacco,0.0,,,,2.0
+2001,02111,Cattle,255.0,1.0,1.0,1.0,1.0
+2001,02123,Goats,11.0,1.0,1.0,1.0,1.0
+2001,02151,Chickens,8.0,0.5,1.0,0.375,5.0
+2001,02199.10,"Other live animals non food, n.e.c.",0.0,,,,1.0
+2001,02211,Raw milk of cattle,2.0,1.0,1.0,1.0,3.0
+2001,0231,"Hen eggs in shell, fresh",2.0,1.0,1.0,1.0,2.0
+2001,02910,Natural honey,0.0,,,,3.0
+2001,17400,Ice and snow,61.0,0.5409836065573771,0.8688524590163934,0.37221177102929326,8.0
+2001,21111.01,"Meat of cattle with the bone, fresh or chilled",208.0,0.5432692307692307,0.9038461538461537,0.3805011094674555,5.0
+2001,21111.02,"Meat of cattle boneless, fresh or chilled",737.0,0.26865671641791045,0.6512890094979646,0.18200412762878587,10.0
+2001,21113.01,"Meat of pig with the bone, fresh or chilled",31.0,1.0,1.0,1.0,3.0
+2001,21115,"Meat of sheep, fresh or chilled",22.0,0.9090909090909091,1.0,0.8347107438016528,2.0
+2001,21119.90,"Other meat of mammals, fresh or chilled",56.0,0.875,1.0,0.78125,2.0
+2001,21121,"Meat of chickens, fresh or chilled",995.0,0.9487437185929648,0.9839195979899498,0.9009055326885683,6.0
+2001,21151,"Edible offal of cattle, fresh, chilled or frozen",9.0,0.5555555555555556,1.0,0.5061728395061729,3.0
+2001,21160.01,"Edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen",16.0,1.0,1.0,1.0,1.0
+2001,21183,"Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",2.0,1.0,1.0,1.0,1.0
+2001,21184.02,"Sausages and similar products of meat, offal or blood of pig",18.0,0.8888888888888888,1.0,0.8024691358024691,3.0
+2001,21313,"Potatoes, frozen",0.0,,,,1.0
+2001,21330.90,Other vegetables provisionally preserved,0.0,,,,2.0
+2001,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",9.0,0.7777777777777778,1.0,0.654320987654321,2.0
+2001,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",0.0,,,,1.0
+2001,21393.90,"Vegetables, dehydrated",0.0,,,,1.0
+2001,21397.01,Canned mushrooms,0.0,,,,2.0
+2001,21399.01,Paste of tomatoes,0.0,,,,2.0
+2001,21399.02,"Tomatoes, peeled (o/t vinegar)",355.0,0.9436619718309859,1.0,0.8931005752826819,4.0
+2001,21399.03,"Sweet corn, prepared or preserved",2.0,1.0,1.0,1.0,2.0
+2001,21411,Raisins,0.0,,,,1.0
+2001,21419.99,"Other fruit n.e.c., dried",0.0,,,,1.0
+2001,21421,"Groundnuts, shelled",9.0,1.0,1.0,1.0,3.0
+2001,21422,"Almonds, shelled",0.0,,,,1.0
+2001,21429.07,"Coconuts, desiccated",0.0,,,,2.0
+2001,21431.01,Orange juice,25.0,0.72,1.0,0.5968,5.0
+2001,21434,Grape juice,2.0,1.0,1.0,1.0,1.0
+2001,21435.01,Apple juice,0.0,,,,1.0
+2001,21439.02,Juice of lemon,0.0,,,,1.0
+2001,21439.90,Juice of fruits n.e.c.,62.0,0.5806451612903226,0.967741935483871,0.4464099895941728,7.0
+2001,21495.01,Prepared groundnuts,0.0,,,,1.0
+2001,2161,Soya bean oil,123.0,0.5609756097560976,0.8699186991869919,0.3794698922598983,4.0
+2001,21631.01,"Sunflower-seed oil, crude",20.0,1.0,1.0,1.0,2.0
+2001,2165,Palm oil,24.0,0.4583333333333333,1.0,0.42708333333333326,3.0
+2001,2166,Coconut oil,0.0,,,,1.0
+2001,2167,Olive oil,0.0,,,,3.0
+2001,21673,Oil of olive residues,4.0,0.5,1.0,0.5,2.0
+2001,2168,Cottonseed oil,0.0,,,,1.0
+2001,21691.06,Jojoba oil,0.0,,,,1.0
+2001,21691.90,"Other oil of vegetable origin, crude n.e.c.",77.0,0.974025974025974,1.0,0.9494012481025469,4.0
+2001,21700.02,Margarine and shortening,2.0,1.0,1.0,1.0,5.0
+2001,21910.06,Cake of palm kernel,4.0,1.0,1.0,1.0,1.0
+2001,22110.02,Skim milk of cows,98.0,0.5714285714285714,1.0,0.43169512703040397,4.0
+2001,22120,"Cream, fresh",43.0,0.5813953488372093,1.0,0.47863710113574903,4.0
+2001,22130.02,"Whey, dry",2.0,1.0,1.0,1.0,2.0
+2001,22211,Whole milk powder,355.0,0.38028169014084506,0.7436619718309859,0.23286649474310653,9.0
+2001,22212,Skim milk and whey powder,2.0,1.0,1.0,1.0,2.0
+2001,22221.01,"Whole milk, evaporated",15.0,1.0,1.0,1.0,3.0
+2001,22222.01,"Whole milk, condensed",296.0,0.4966216216216216,0.8952702702702703,0.35591672753834913,8.0
+2001,22230.02,"Yoghurt, with additives",2.0,1.0,1.0,1.0,1.0
+2001,22230.03,"Buttermilk, curdled and acidified milk",4.0,0.5,1.0,0.5,4.0
+2001,22241.01,Butter of cow milk,63.0,0.7142857142857143,1.0,0.5918367346938775,5.0
+2001,22251.01,Cheese from whole cow milk,23.0,0.6521739130434783,0.9130434782608696,0.4706994328922496,5.0
+2001,23110,Wheat and meslin flour,876.0,0.565068493150685,0.9828767123287672,0.4803225537415817,6.0
+2001,23120.03,Flour of maize,11.0,1.0,1.0,1.0,6.0
+2001,23120.04,Flour of rye,7.0,1.0,1.0,1.0,3.0
+2001,23120.90,Flour of cereals n.e.c.,67.0,1.0,1.0,1.0,3.0
+2001,23140.01,Germ of wheat,0.0,,,,1.0
+2001,23140.03,Breakfast cereals,2.0,1.0,1.0,1.0,4.0
+2001,23140.08,Cereal preparations,0.0,,,,1.0
+2001,23161.02,"Rice, milled",2075.0,0.8134939759036145,0.9277108433734941,0.6701138626796344,11.0
+2001,23161.03,"Rice, broken",5.0,1.0,1.0,1.0,1.0
+2001,23170.03,Flour of pulses,0.0,,,,2.0
+2001,23180,Mixes and doughs for the preparation of bakers' wares,4.0,1.0,1.0,1.0,4.0
+2001,23210.04,Sugar and syrups n.e.c.,0.0,,,,1.0
+2001,23210.05,Glucose and dextrose,7.0,1.0,1.0,1.0,1.0
+2001,23230.01,Tapioca of potatoes,0.0,,,,1.0
+2001,23311,"Dog or cat food, put up for retail sale",2.0,1.0,1.0,1.0,2.0
+2001,2351f,Raw cane or beet sugar (centrifugal only),443.0,0.35214446952595935,0.9999999999999999,0.33443737292928877,5.0
+2001,23520,Refined sugar,987.0,0.6930091185410334,0.9290780141843972,0.5173671098135949,11.0
+2001,23540,Molasses,0.0,,,,1.0
+2001,23620,"Cocoa butter, fat and oil",0.0,,,,1.0
+2001,23670.01,Sugar confectionery,33.0,0.6060606060606061,1.0,0.4563820018365473,8.0
+2001,23670.02,"Fruit, nuts, peel, sugar preserved",0.0,,,,2.0
+2001,23710,"Uncooked pasta, not stuffed or otherwise prepared",44.0,0.75,1.0,0.625,5.0
+2001,23911,"Coffee, decaffeinated or roasted",4.0,1.0,1.0,1.0,1.0
+2001,23912.01,Coffee substitutes,0.0,,,,1.0
+2001,23912.02,Coffee extracts,0.0,,,,2.0
+2001,23991.01,Infant food,155.0,0.45806451612903226,0.9290322580645162,0.3783975026014568,6.0
+2001,23991.02,Homogenized vegetable preparations,15.0,1.0,1.0,1.0,2.0
+2001,23991.03,"Homogenized cooked fruit, prepared",2.0,1.0,1.0,1.0,1.0
+2001,23995.03,Flour of mustard seed,4.0,1.0,1.0,1.0,1.0
+2001,23999.01,Malt extract,5.0,1.0,1.0,1.0,2.0
+2001,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",67.0,0.7014925373134329,1.0,0.537090666072622,3.0
+2001,24212.02,Wine,59.0,0.6101694915254238,0.9322033898305085,0.44613616776788284,4.0
+2001,24220,Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances,0.0,,,,1.0
+2001,24230.03,Cider and other fermented beverages,0.0,,,,1.0
+2001,24310.01,"Beer of barley, malted",80.0,0.975,1.0,0.9512499999999999,3.0
+2001,24490,Other non-alcoholic caloric beverages,280.0,0.8428571428571429,0.9785714285714286,0.7201020408163266,7.0
+2001,25020.01,Cigarettes,753.0,0.8884462151394422,1.0,0.8017809241123157,2.0
+2001,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",0.0,,,,1.0
+2001,26160,"Cotton, carded or combed",0.0,,,,2.0
+2001,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",105.0,1.0,1.0,1.0,2.0
+2001,35410.90,Essential oils n.e.c.,0.0,,,,2.0
+2001,39120.91,Vegetable products for feed n.e.c.,2.0,1.0,1.0,1.0,1.0
+2001,39170.02,"Feed, food waste preparations",153.0,0.5359477124183006,0.9411764705882353,0.39467726088256655,4.0
+2001,F0020,Bread,0.0,,,,1.0
+2001,F0022,Pastry,102.0,0.4411764705882353,0.7450980392156863,0.26682045367166474,9.0
+2001,F0030,"Rice, paddy (rice milled equivalent)",3755.0,0.4495339547270306,0.9320905459387483,0.40411197852486075,11.0
+2001,F0235,Prepared nuts,2.0,1.0,1.0,1.0,2.0
+2001,F0262,Olives preserved,0.0,,,,2.0
+2001,F0472,Vegetables preserved nes (o/t vinegar),22.0,0.6818181818181818,1.0,0.524793388429752,5.0
+2001,F0473,Vegetables frozen,0.0,,,,1.0
+2001,F0475,Vegetables preserved (frozen),2.0,1.0,1.0,1.0,2.0
+2001,F0623,Fruit prepared n.e.c.,4.0,1.0,1.0,1.0,4.0
+2001,F0665,Cocoa powder and cake,0.0,,,,1.0
+2001,F0666,Chocolate products nes,29.0,0.3793103448275862,0.9310344827586208,0.3032104637336504,6.0
+2001,F0769,Cotton waste,0.0,,,,1.0
+2001,F0994,Wool grease and lanolin,0.0,,,,2.0
+2001,F1042,Pig meat preparations,2.0,1.0,1.0,1.0,1.0
+2001,F1172,Meat prepared n.e.c.,2.0,1.0,1.0,1.0,1.0
+2001,F1232,Food preparations n.e.c.,248.0,0.5443548387096774,0.8346774193548387,0.35259495317377726,10.0
+2001,F1243,Fat preparations n.e.c.,44.0,0.5,1.0,0.4256198347107438,4.0
+2001,F1275,hydrogenated oils and fats,319.0,0.5862068965517241,0.8557993730407523,0.3883707903813837,10.0
+2001,F1293,Crude organic material n.e.c.,7.0,1.0,1.0,1.0,3.0
+2002,0112,Maize (corn),2.0,1.0,1.0,1.0,4.0
+2002,01243,"Broad beans and horse beans, green",2.0,1.0,1.0,1.0,1.0
+2002,01252,Green garlic,12.0,1.0,1.0,1.0,1.0
+2002,01253.02,"Onions and shallots, dry (excluding dehydrated)",63.0,0.9682539682539683,1.0,0.9385235575711766,5.0
+2002,01290.90,"Other vegetables, fresh n.e.c.",0.0,,,,1.0
+2002,01314,Dates,19.0,0.6842105263157895,1.0,0.5235457063711911,3.0
+2002,01375,"Pistachios, in shell",0.0,,,,1.0
+2002,0142,"Groundnuts, excluding shelled",8.0,1.0,1.0,1.0,1.0
+2002,01510,Potatoes,0.0,,,,3.0
+2002,01520.02,"Cassava, dry",0.0,,,,1.0
+2002,01610,"Coffee, green",6.0,1.0,1.0,1.0,1.0
+2002,01620,Tea leaves,2.0,1.0,1.0,1.0,2.0
+2002,01651,"Pepper (Piper spp.), raw",6.0,0.3333333333333333,1.0,0.3333333333333333,3.0
+2002,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",6.0,1.0,1.0,1.0,1.0
+2002,01699,"Other stimulant, spice and aromatic crops, n.e.c.",12.0,0.3333333333333333,0.6666666666666666,0.22222222222222227,5.0
+2002,01701,"Beans, dry",2.0,1.0,1.0,1.0,1.0
+2002,01704,"Lentils, dry",8.0,1.0,1.0,1.0,1.0
+2002,01705,"Peas, dry",2.0,1.0,1.0,1.0,1.0
+2002,01709.90,Other pulses n.e.c.,25.0,1.0,1.0,1.0,3.0
+2002,01950.02,Natural rubber in other forms,0.0,,,,1.0
+2002,01970,Unmanufactured tobacco,6.0,0.6666666666666666,1.0,0.5555555555555556,3.0
+2002,02111,Cattle,341.0,0.8064516129032258,0.9824046920821113,0.6760605773944152,4.0
+2002,02123,Goats,13.0,1.0,1.0,1.0,2.0
+2002,02151,Chickens,4.0,1.0,1.0,1.0,2.0
+2002,02211,Raw milk of cattle,6.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2002,02910,Natural honey,0.0,,,,1.0
+2002,03211,"Balata, gutta-percha, guayule, chicle and similar natural gums in primary forms or in plates, sheets or strip",0.0,,,,1.0
+2002,17400,Ice and snow,67.0,0.6268656716417911,1.0,0.48139897527288933,5.0
+2002,21111.01,"Meat of cattle with the bone, fresh or chilled",650.0,0.3923076923076923,0.7846153846153846,0.2497798816568047,7.0
+2002,21111.02,"Meat of cattle boneless, fresh or chilled",1359.0,0.5592347314201619,0.8263428991905812,0.36236389891931314,8.0
+2002,21113.01,"Meat of pig with the bone, fresh or chilled",4.0,0.5,1.0,0.5,2.0
+2002,21115,"Meat of sheep, fresh or chilled",10.0,1.0,1.0,1.0,1.0
+2002,21121,"Meat of chickens, fresh or chilled",2128.0,0.4680451127819549,0.93796992481203,0.391846627847815,4.0
+2002,21124,"Meat of turkeys, fresh or chilled",19.0,1.0,1.0,1.0,1.0
+2002,21151,"Edible offal of cattle, fresh, chilled or frozen",19.0,0.6842105263157895,1.0,0.5678670360110804,2.0
+2002,21160.01,"Edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen",4.0,1.0,1.0,1.0,1.0
+2002,21184.02,"Sausages and similar products of meat, offal or blood of pig",6.0,1.0,1.0,1.0,1.0
+2002,21313,"Potatoes, frozen",2.0,1.0,1.0,1.0,1.0
+2002,21330.90,Other vegetables provisionally preserved,0.0,,,,1.0
+2002,21393.90,"Vegetables, dehydrated",4.0,1.0,1.0,1.0,2.0
+2002,21399.02,"Tomatoes, peeled (o/t vinegar)",390.0,0.8461538461538461,1.0,0.7366995397764629,3.0
+2002,21399.03,"Sweet corn, prepared or preserved",12.0,1.0,1.0,1.0,2.0
+2002,21419.99,"Other fruit n.e.c., dried",0.0,,,,1.0
+2002,21421,"Groundnuts, shelled",6.0,1.0,1.0,1.0,3.0
+2002,21431.01,Orange juice,29.0,0.6551724137931034,1.0,0.5101070154577884,3.0
+2002,21434,Grape juice,9.0,1.0,1.0,1.0,1.0
+2002,21435.01,Apple juice,2.0,1.0,1.0,1.0,1.0
+2002,21439.90,Juice of fruits n.e.c.,104.0,0.6442307692307693,0.9807692307692307,0.5057322485207101,5.0
+2002,21495.01,Prepared groundnuts,0.0,,,,1.0
+2002,21529.03,Animal oils and fats n.e.c.,2.0,1.0,1.0,1.0,1.0
+2002,2161,Soya bean oil,130.0,0.4307692307692308,0.7846153846153846,0.2719526627218935,6.0
+2002,21631.01,"Sunflower-seed oil, crude",4.0,1.0,1.0,1.0,2.0
+2002,2165,Palm oil,2.0,1.0,1.0,1.0,1.0
+2002,2167,Olive oil,23.0,0.8260869565217391,1.0,0.6975425330812853,3.0
+2002,21691.90,"Other oil of vegetable origin, crude n.e.c.",27.0,1.0,1.0,1.0,1.0
+2002,21700.02,Margarine and shortening,23.0,0.6521739130434783,1.0,0.500945179584121,4.0
+2002,22110.02,Skim milk of cows,56.0,0.625,1.0,0.53125,2.0
+2002,22120,"Cream, fresh",83.0,1.0,1.0,1.0,1.0
+2002,22211,Whole milk powder,699.0,0.4062947067238913,0.7796852646638055,0.259964674652733,7.0
+2002,22212,Skim milk and whey powder,29.0,1.0,1.0,1.0,2.0
+2002,22221.01,"Whole milk, evaporated",13.0,1.0,1.0,1.0,1.0
+2002,22222.01,"Whole milk, condensed",622.0,0.45016077170418006,0.752411575562701,0.2715646033436379,8.0
+2002,22230.03,"Buttermilk, curdled and acidified milk",57.0,0.7017543859649122,1.0,0.5814096645121576,2.0
+2002,22241.01,Butter of cow milk,38.0,1.0,1.0,1.0,2.0
+2002,22251.01,Cheese from whole cow milk,44.0,0.8181818181818182,1.0,0.6900826446280993,3.0
+2002,22270,Ice cream and other edible ice,8.0,1.0,1.0,1.0,1.0
+2002,23110,Wheat and meslin flour,1296.0,0.625,1.0,0.5300973555860387,3.0
+2002,23120.03,Flour of maize,4.0,0.5,1.0,0.5,4.0
+2002,23120.04,Flour of rye,0.0,,,,1.0
+2002,23120.90,Flour of cereals n.e.c.,81.0,1.0,1.0,1.0,1.0
+2002,23140.01,Germ of wheat,0.0,,,,1.0
+2002,23140.03,Breakfast cereals,4.0,0.5,1.0,0.5,2.0
+2002,23161.02,"Rice, milled",3740.0,0.9219251336898395,0.9906417112299465,0.8537654779947953,7.0
+2002,23161.03,"Rice, broken",0.0,,,,1.0
+2002,23180,Mixes and doughs for the preparation of bakers' wares,2.0,1.0,1.0,1.0,1.0
+2002,23210.05,Glucose and dextrose,4.0,1.0,1.0,1.0,1.0
+2002,23220.06,Starch of cassava,0.0,,,,1.0
+2002,23311,"Dog or cat food, put up for retail sale",2.0,1.0,1.0,1.0,1.0
+2002,2351f,Raw cane or beet sugar (centrifugal only),623.0,0.8635634028892456,0.9967897271268058,0.754998982297123,4.0
+2002,23520,Refined sugar,1055.0,0.7658767772511849,0.9857819905213271,0.6187758585835899,4.0
+2002,23670.01,Sugar confectionery,50.0,0.42,0.96,0.32559999999999995,4.0
+2002,23670.02,"Fruit, nuts, peel, sugar preserved",0.0,,,,1.0
+2002,23710,"Uncooked pasta, not stuffed or otherwise prepared",90.0,0.7222222222222222,0.9777777777777777,0.5622222222222223,4.0
+2002,23911,"Coffee, decaffeinated or roasted",19.0,0.7894736842105263,1.0,0.6675900277008311,2.0
+2002,23912.01,Coffee substitutes,4.0,1.0,1.0,1.0,2.0
+2002,23912.02,Coffee extracts,2.0,1.0,1.0,1.0,2.0
+2002,23991.01,Infant food,297.0,0.36363636363636365,0.7811447811447811,0.25667448899772133,5.0
+2002,23991.02,Homogenized vegetable preparations,6.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2002,23991.03,"Homogenized cooked fruit, prepared",2.0,1.0,1.0,1.0,1.0
+2002,23995.03,Flour of mustard seed,4.0,1.0,1.0,1.0,1.0
+2002,23999.01,Malt extract,6.0,1.0,1.0,1.0,1.0
+2002,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",50.0,0.54,1.0,0.46959999999999996,4.0
+2002,24212.02,Wine,55.0,0.6363636363636364,1.0,0.47107438016528924,3.0
+2002,24220,Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances,0.0,,,,1.0
+2002,24310.01,"Beer of barley, malted",71.0,1.0,1.0,1.0,1.0
+2002,24320,"Malt, whether or not roasted",2.0,1.0,1.0,1.0,1.0
+2002,24490,Other non-alcoholic caloric beverages,739.0,0.9147496617050067,0.972936400541272,0.8391565239205231,7.0
+2002,25020.01,Cigarettes,858.0,0.747086247086247,0.9976689976689976,0.5895452643704391,4.0
+2002,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",2.0,1.0,1.0,1.0,1.0
+2002,35410.90,Essential oils n.e.c.,2.0,1.0,1.0,1.0,1.0
+2002,39170.02,"Feed, food waste preparations",154.0,0.6883116883116883,1.0,0.5709225839095969,3.0
+2002,F0020,Bread,14.0,0.8571428571428571,1.0,0.7551020408163265,2.0
+2002,F0022,Pastry,162.0,0.7716049382716049,0.9382716049382716,0.6127876848041458,5.0
+2002,F0030,"Rice, paddy (rice milled equivalent)",3740.0,0.9219251336898395,0.9906417112299465,0.8537654779947953,8.0
+2002,F0235,Prepared nuts,4.0,1.0,1.0,1.0,1.0
+2002,F0472,Vegetables preserved nes (o/t vinegar),38.0,0.5,1.0,0.45290858725761773,4.0
+2002,F0473,Vegetables frozen,16.0,0.375,1.0,0.34375,3.0
+2002,F0623,Fruit prepared n.e.c.,10.0,1.0,1.0,1.0,2.0
+2002,F0666,Chocolate products nes,92.0,0.75,1.0,0.594281663516068,4.0
+2002,F0994,Wool grease and lanolin,2.0,1.0,1.0,1.0,1.0
+2002,F1061,Poultry meat preparations,2.0,1.0,1.0,1.0,1.0
+2002,F1232,Food preparations n.e.c.,349.0,0.6532951289398281,0.9283667621776505,0.4713672301541038,6.0
+2002,F1243,Fat preparations n.e.c.,61.0,0.6229508196721312,0.9344262295081968,0.44746036011824786,4.0
+2002,F1275,hydrogenated oils and fats,605.0,0.6727272727272727,0.9553719008264463,0.5036787104705962,6.0
+2016,0111,Wheat,0.0,,,,1.0
+2016,0112,Maize (corn),4.0,1.0,1.0,1.0,3.0
+2016,0114,Sorghum,0.0,,,,1.0
+2016,0117,Oats,0.0,,,,1.0
+2016,01199.90,Cereals n.e.c.,1.0,1.0,1.0,1.0,1.0
+2016,01212,Cabbages,15.0,0.8666666666666667,1.0,0.7600000000000001,4.0
+2016,01213,Cauliflowers and broccoli,1.0,1.0,1.0,1.0,1.0
+2016,01214,Lettuce and chicory,1.0,1.0,1.0,1.0,2.0
+2016,01234,Tomatoes,22.0,0.9545454545454546,1.0,0.913223140495868,4.0
+2016,01241.90,"Other beans, green",2.0,0.5,1.0,0.5,3.0
+2016,01242,"Peas, green",0.0,,,,2.0
+2016,01243,"Broad beans and horse beans, green",62.0,1.0,1.0,1.0,2.0
+2016,01251,Carrots and turnips,1.0,1.0,1.0,1.0,2.0
+2016,01252,Green garlic,34.0,1.0,1.0,1.0,4.0
+2016,01253.01,"Onions and shallots, green",229.0,0.7641921397379913,0.9868995633187773,0.6282679582769207,4.0
+2016,01270,Mushrooms and truffles,23.0,0.9565217391304348,1.0,0.9168241965973536,3.0
+2016,01290.90,"Other vegetables, fresh n.e.c.",0.0,,,,1.0
+2016,01312,Bananas,0.0,,,,2.0
+2016,01314,Dates,200.0,0.53,0.9450000000000001,0.42799999999999994,7.0
+2016,01318,Pineapples,0.0,,,,1.0
+2016,01322,Lemons and limes,6.0,0.5,1.0,0.5,2.0
+2016,01323,Oranges,2.0,1.0,1.0,1.0,2.0
+2016,01329,"Other citrus fruit, n.e.c.",0.0,,,,2.0
+2016,01341,Apples,138.0,0.5289855072463768,0.927536231884058,0.3987607645452636,5.0
+2016,01342.01,Pears,1.0,1.0,1.0,1.0,1.0
+2016,01344.02,Cherries,3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2016,01359.90,"Other fruits, n.e.c.",1.0,1.0,1.0,1.0,3.0
+2016,01373,"Chestnuts, in shell",1.0,1.0,1.0,1.0,1.0
+2016,01375,"Pistachios, in shell",1.0,1.0,1.0,1.0,1.0
+2016,01377,"Brazil nuts, in shell",1.0,1.0,1.0,1.0,1.0
+2016,01379.02,Kola nuts,0.0,,,,2.0
+2016,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",1.0,1.0,1.0,1.0,5.0
+2016,0142,"Groundnuts, excluding shelled",2.0,1.0,1.0,1.0,1.0
+2016,0143,Cotton seed,0.0,,,,1.0
+2016,01443,Rape or colza seed,0.0,,,,1.0
+2016,01449.90,"Other oil seeds, n.e.c.",1.0,1.0,1.0,1.0,2.0
+2016,01450,Olives,0.0,,,,1.0
+2016,01460,"Coconuts, in shell",2.0,1.0,1.0,1.0,3.0
+2016,01510,Potatoes,80.0,0.9625,1.0,0.9271875,4.0
+2016,01520.02,"Cassava, dry",0.0,,,,1.0
+2016,01530,Sweet potatoes,1.0,1.0,1.0,1.0,1.0
+2016,01540,Yams,0.0,,,,1.0
+2016,01610,"Coffee, green",77.0,0.5064935064935064,0.9610389610389609,0.36211840107944,6.0
+2016,01620,Tea leaves,8.0,0.5,0.875,0.34375,9.0
+2016,01640,Cocoa beans,0.0,,,,1.0
+2016,01651,"Pepper (Piper spp.), raw",5.0,0.8,1.0,0.6800000000000002,3.0
+2016,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",0.0,,,,2.0
+2016,01653,"Nutmeg, mace, cardamoms, raw",4.0,0.75,1.0,0.625,2.0
+2016,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",18.0,0.8333333333333334,1.0,0.7098765432098766,3.0
+2016,01655,"Cinnamon and cinnamon-tree flowers, raw",2.0,1.0,1.0,1.0,3.0
+2016,01657,"Ginger, raw",0.0,,,,1.0
+2016,01658,"Vanilla, raw",1.0,1.0,1.0,1.0,1.0
+2016,01699,"Other stimulant, spice and aromatic crops, n.e.c.",26.0,0.6538461538461539,0.9615384615384616,0.5029585798816567,5.0
+2016,01701,"Beans, dry",11.0,0.8181818181818182,1.0,0.7024793388429753,4.0
+2016,01704,"Lentils, dry",1.0,1.0,1.0,1.0,4.0
+2016,01709.90,Other pulses n.e.c.,0.0,,,,3.0
+2016,01921.02,"Cotton lint, ginned",0.0,,,,2.0
+2016,01922.01,"Jute, raw or retted",13.0,1.0,1.0,1.0,2.0
+2016,01950.02,Natural rubber in other forms,157.0,0.9745222929936306,1.0,0.950342813095866,2.0
+2016,01970,Unmanufactured tobacco,72.0,0.7222222222222222,1.0,0.5987654320987654,2.0
+2016,02111,Cattle,5.0,1.0,1.0,1.0,1.0
+2016,02122,Sheep,232.0,0.9956896551724138,1.0,0.991416468489893,2.0
+2016,02123,Goats,132.0,0.9090909090909091,1.0,0.8347107438016528,2.0
+2016,02151,Chickens,10.0,0.7,1.0,0.58,2.0
+2016,02211,Raw milk of cattle,1182.0,0.2715736040609137,0.7013536379018612,0.19641062640109253,9.0
+2016,0231,"Hen eggs in shell, fresh",54.0,0.5,1.0,0.5,3.0
+2016,0232,"Eggs from other birds in shell, fresh, n.e.c.",211.0,0.8625592417061612,1.0,0.7628984074930931,3.0
+2016,02910,Natural honey,3.0,0.6666666666666666,1.0,0.5555555555555556,3.0
+2016,02941,"Shorn wool, greasy, including fleece-washed shorn wool",5.0,1.0,1.0,1.0,2.0
+2016,02943.01,"Hair, goat, fine",0.0,,,,2.0
+2016,02955.90,"Skins, furs",0.0,,,,1.0
+2016,02960.02,Spermaceti,2.0,1.0,1.0,1.0,3.0
+2016,17400,Ice and snow,1341.0,0.6480238627889635,0.9328859060402684,0.4823834539763252,18.0
+2016,21111.01,"Meat of cattle with the bone, fresh or chilled",85.0,0.5294117647058824,1.0,0.5017301038062284,2.0
+2016,21111.02,"Meat of cattle boneless, fresh or chilled",51.0,0.8627450980392157,1.0,0.7631680123029605,2.0
+2016,21115,"Meat of sheep, fresh or chilled",197.0,0.9441624365482234,1.0,0.8945605400809091,2.0
+2016,21116,"Meat of goat, fresh or chilled",26.0,1.0,1.0,1.0,1.0
+2016,21118.01,"Horse meat, fresh or chilled",72.0,0.6388888888888888,1.0,0.5385802469135802,2.0
+2016,21121,"Meat of chickens, fresh or chilled",90.0,0.5,1.0,0.5,2.0
+2016,21123,"Meat of geese, fresh or chilled",1.0,1.0,1.0,1.0,1.0
+2016,21124,"Meat of turkeys, fresh or chilled",7.0,1.0,1.0,1.0,1.0
+2016,21151,"Edible offal of cattle, fresh, chilled or frozen",784.0,0.5510204081632653,0.9017857142857143,0.38764772490628896,7.0
+2016,21153,"Edible offal of pigs, fresh, chilled or frozen",0.0,,,,2.0
+2016,21155,"Edible offal of sheep, fresh, chilled or frozen",175.0,0.5028571428571429,0.8285714285714286,0.321795918367347,7.0
+2016,21160.01,"Edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen",12486.0,0.6918148326125261,0.7944097389075765,0.4882000404925726,18.0
+2016,21170.02,"Game meat, fresh, chilled or frozen",2.0,1.0,1.0,1.0,1.0
+2016,21182,"Bovine meat, salted, dried or smoked",1374.0,0.4534206695778748,0.9141193595342066,0.3539776976877719,6.0
+2016,21184.02,"Sausages and similar products of meat, offal or blood of pig",3.0,1.0,1.0,1.0,1.0
+2016,21189.01,Liver preparations,0.0,,,,1.0
+2016,21313,"Potatoes, frozen",232.0,0.5560344827586207,0.8491379310344828,0.3620689655172414,8.0
+2016,21319.01,"Sweet corn, frozen",2.0,1.0,1.0,1.0,4.0
+2016,21329,Other vegetable juices,120.0,0.6166666666666667,0.8250000000000001,0.41000000000000003,11.0
+2016,21330.90,Other vegetables provisionally preserved,1.0,1.0,1.0,1.0,2.0
+2016,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",4.0,0.75,1.0,0.625,2.0
+2016,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",1.0,1.0,1.0,1.0,2.0
+2016,21393.01,Dried mushrooms,0.0,,,,1.0
+2016,21393.90,"Vegetables, dehydrated",31.0,0.41935483870967744,1.0,0.34443288241415193,7.0
+2016,21397.01,Canned mushrooms,5.0,0.6,1.0,0.44000000000000006,3.0
+2016,21399.01,Paste of tomatoes,47.0,0.5319148936170213,0.9361702127659575,0.36894522408329555,5.0
+2016,21399.02,"Tomatoes, peeled (o/t vinegar)",1102.0,0.4573502722323049,0.9210526315789473,0.3474922678120296,11.0
+2016,21399.03,"Sweet corn, prepared or preserved",18.0,0.6666666666666666,1.0,0.5246913580246914,4.0
+2016,21411,Raisins,4.0,0.75,1.0,0.625,2.0
+2016,21419.99,"Other fruit n.e.c., dried",17.0,0.7647058823529411,1.0,0.6124567474048442,3.0
+2016,21421,"Groundnuts, shelled",14.0,1.0,1.0,1.0,2.0
+2016,21422,"Almonds, shelled",1.0,1.0,1.0,1.0,1.0
+2016,21423,"Hazelnuts, shelled",0.0,,,,1.0
+2016,21429.01,"Brazil nuts, shelled",0.0,,,,1.0
+2016,21431.01,Orange juice,6.0,0.5,1.0,0.5,3.0
+2016,21433.01,"Juice of pineapples, concentrated",1.0,1.0,1.0,1.0,2.0
+2016,21434,Grape juice,1.0,1.0,1.0,1.0,2.0
+2016,21435.02,"Apple juice, concentrated",0.0,,,,1.0
+2016,21439.05,"Citrus juice, concentrated n.e.c.",1.0,1.0,1.0,1.0,2.0
+2016,21439.90,Juice of fruits n.e.c.,898.0,0.35634743875278396,0.6247216035634744,0.18667566133104496,17.0
+2016,21491,"Pineapples, otherwise prepared or preserved",0.0,,,,1.0
+2016,21495.01,Prepared groundnuts,12.0,0.6666666666666666,1.0,0.5555555555555556,4.0
+2016,21512,"Cattle fat, unrendered",0.0,,,,1.0
+2016,21522,"Poultry fat, rendered",0.0,,,,1.0
+2016,21529.03,Animal oils and fats n.e.c.,0.0,,,,2.0
+2016,2161,Soya bean oil,21.0,0.8095238095238095,1.0,0.691609977324263,5.0
+2016,2162,Groundnut oil,4.0,0.75,1.0,0.625,2.0
+2016,21631.01,"Sunflower-seed oil, crude",24.0,1.0,1.0,1.0,2.0
+2016,2165,Palm oil,0.0,,,,2.0
+2016,2167,Olive oil,2.0,1.0,1.0,1.0,3.0
+2016,21673,Oil of olive residues,6.0,0.5,1.0,0.5,2.0
+2016,21700.02,Margarine and shortening,147.0,0.7619047619047619,1.0,0.6088666759220693,4.0
+2016,21800,Cotton linters,1.0,1.0,1.0,1.0,2.0
+2016,21910.08,Cake of rapeseed,1.0,1.0,1.0,1.0,1.0
+2016,21920,"Flours and meals of oil seeds or oleaginous fruits, except those of mustard",0.0,,,,1.0
+2016,21932.02,Residues of fatty substances,1.0,1.0,1.0,1.0,1.0
+2016,22130.02,"Whey, dry",83.0,0.5662650602409639,1.0,0.4986209899840326,3.0
+2016,22211,Whole milk powder,648.0,0.44135802469135804,0.6867283950617283,0.24059785093735714,13.0
+2016,22212,Skim milk and whey powder,1725.0,0.6324637681159421,0.8260869565217391,0.4263692501575301,12.0
+2016,22221.01,"Whole milk, evaporated",819.0,0.9572649572649573,1.0,0.9173058660238148,4.0
+2016,22222.01,"Whole milk, condensed",202.0,0.4207920792079208,0.8712871287128712,0.29717674737770805,5.0
+2016,22230.02,"Yoghurt, with additives",199.0,0.41708542713567837,0.8140703517587939,0.2716850584581197,5.0
+2016,22230.03,"Buttermilk, curdled and acidified milk",28.0,0.9642857142857143,1.0,0.931122448979592,3.0
+2016,22241.01,Butter of cow milk,72.0,0.5277777777777778,1.0,0.4888117283950617,3.0
+2016,22249.01,Butter and ghee of sheep milk,2.0,0.5,1.0,0.5,3.0
+2016,22251.01,Cheese from whole cow milk,66.0,0.48484848484848486,1.0,0.4233241505968779,4.0
+2016,22270,Ice cream and other edible ice,29.0,0.7241379310344828,1.0,0.6004756242568372,2.0
+2016,23110,Wheat and meslin flour,6364.0,0.4963859208045255,0.7723130106851037,0.2989654743981408,15.0
+2016,23120.03,Flour of maize,78.0,0.5,0.9743589743589745,0.36324786324786323,6.0
+2016,23140.03,Breakfast cereals,39.0,0.5128205128205128,1.0,0.4766600920447074,3.0
+2016,23140.08,Cereal preparations,1.0,1.0,1.0,1.0,3.0
+2016,23161.02,"Rice, milled",2048.0,0.3623046875,0.9111328125,0.29676103591918945,13.0
+2016,23161.03,"Rice, broken",26990.0,0.8795479807336051,0.9810300111152279,0.7806233587810781,6.0
+2016,23162,Husked rice,0.0,,,,1.0
+2016,23170.04,Flour of fruits,0.0,,,,1.0
+2016,23180,Mixes and doughs for the preparation of bakers' wares,2.0,0.5,1.0,0.5,2.0
+2016,23210.05,Glucose and dextrose,0.0,,,,2.0
+2016,23210.06,Lactose,0.0,,,,1.0
+2016,23220.06,Starch of cassava,0.0,,,,1.0
+2016,23230.01,Tapioca of potatoes,1.0,1.0,1.0,1.0,1.0
+2016,23311,"Dog or cat food, put up for retail sale",1.0,1.0,1.0,1.0,1.0
+2016,23319.01,"Feed, compound, cattle",871.0,0.7520091848450058,0.9644087256027555,0.597045242743274,6.0
+2016,2351f,Raw cane or beet sugar (centrifugal only),4646.0,0.38463194145501506,0.7414980628497633,0.2412566950606606,9.0
+2016,23520,Refined sugar,196.0,0.5306122448979592,0.9438775510204082,0.3704185755935027,6.0
+2016,23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",2.0,1.0,1.0,1.0,2.0
+2016,23540,Molasses,0.0,,,,2.0
+2016,23620,"Cocoa butter, fat and oil",2.0,1.0,1.0,1.0,2.0
+2016,23670.01,Sugar confectionery,513.0,0.3508771929824561,0.8557504873294346,0.2567513650923931,13.0
+2016,23670.02,"Fruit, nuts, peel, sugar preserved",4.0,1.0,1.0,1.0,2.0
+2016,23710,"Uncooked pasta, not stuffed or otherwise prepared",49.0,0.3877551020408163,1.0,0.3452728029987505,4.0
+2016,23911,"Coffee, decaffeinated or roasted",47.0,0.8297872340425532,0.9574468085106382,0.6985061113626075,5.0
+2016,23912.02,Coffee extracts,1.0,1.0,1.0,1.0,2.0
+2016,23914,"Extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté",0.0,,,,1.0
+2016,23991.01,Infant food,25.0,0.76,1.0,0.6192000000000001,5.0
+2016,23991.02,Homogenized vegetable preparations,6.0,1.0,1.0,1.0,2.0
+2016,23991.03,"Homogenized cooked fruit, prepared",22.0,0.5,1.0,0.40082644628099173,5.0
+2016,23991.04,Homogenized meat preparations,12.0,0.75,1.0,0.625,2.0
+2016,23993.02,"Eggs, liquid",50.0,1.0,1.0,1.0,2.0
+2016,23993.03,"Eggs, dried",0.0,,,,1.0
+2016,23995.01,Soya sauce,1.0,1.0,1.0,1.0,3.0
+2016,23995.03,Flour of mustard seed,17.0,0.7647058823529411,1.0,0.6401384083044982,2.0
+2016,23999.01,Malt extract,23.0,0.6086956521739131,1.0,0.49338374291115317,5.0
+2016,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",93.0,0.3548387096774194,0.8709677419354839,0.2757544224765869,4.0
+2016,24212.02,Wine,94.0,0.776595744680851,1.0,0.6281122679945677,3.0
+2016,24220,Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances,0.0,,,,1.0
+2016,24310.01,"Beer of barley, malted",277.0,0.26714801444043323,0.6606498194945849,0.1734806917853745,8.0
+2016,24490,Other non-alcoholic caloric beverages,4170.0,0.6688249400479617,0.8884892086330936,0.4809739546492304,17.0
+2016,25020.01,Cigarettes,837.0,0.8590203106332138,0.9796893667861409,0.7459864767067912,5.0
+2016,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",0.0,,,,1.0
+2016,26130,"Wool, degreased or carbonized, not carded or combed",0.0,,,,1.0
+2016,26150.01,"Hair, carded/combed",0.0,,,,1.0
+2016,26160,"Cotton, carded or combed",1.0,1.0,1.0,1.0,2.0
+2016,34120,Industrial monocarboxylic fatty acids; acid oils from refining,12.0,1.0,1.0,1.0,2.0
+2016,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",21.0,0.9523809523809523,1.0,0.909297052154195,3.0
+2016,35410.90,Essential oils n.e.c.,7.0,0.5714285714285714,1.0,0.42857142857142855,5.0
+2016,39120.91,Vegetable products for feed n.e.c.,12.0,0.8333333333333334,1.0,0.7222222222222223,2.0
+2016,39150.01,Coffee husks and skins,48.0,0.8125,0.9583333333333334,0.671875,6.0
+2016,39150.02,Cocoa husks and shells,6.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2016,39211,Silk waste,0.0,,,,1.0
+2016,F0020,Bread,96.0,0.46875,0.8854166666666666,0.32812499999999994,7.0
+2016,F0022,Pastry,622.0,0.5594855305466238,0.8424437299035369,0.3597564127748885,14.0
+2016,F0030,"Rice, paddy (rice milled equivalent)",29037.0,0.8421324516995558,0.9465509522333575,0.7166356075055251,14.0
+2016,F0235,Prepared nuts,42.0,0.9523809523809523,1.0,0.9081632653061223,3.0
+2016,F0262,Olives preserved,41.0,0.6585365853658537,0.9756097560975611,0.5086258179654968,6.0
+2016,F0472,Vegetables preserved nes (o/t vinegar),165.0,0.47878787878787876,0.8848484848484848,0.333406795224977,9.0
+2016,F0473,Vegetables frozen,7.0,0.42857142857142855,1.0,0.3877551020408163,3.0
+2016,F0623,Fruit prepared n.e.c.,97.0,0.29896907216494845,0.7938144329896906,0.23456265277925392,7.0
+2016,F0665,Cocoa powder and cake,6.0,0.8333333333333334,1.0,0.7222222222222223,3.0
+2016,F0666,Chocolate products nes,246.0,0.3617886178861789,0.7845528455284553,0.24353889880362223,11.0
+2016,F0769,Cotton waste,0.0,,,,3.0
+2016,F0875,beef and veal preparations nes,0.0,,,,1.0
+2016,F1009,"Wool, hair waste",0.0,,,,1.0
+2016,F1232,Food preparations n.e.c.,994.0,0.4164989939637827,0.8279678068410463,0.28588229578679325,25.0
+2016,F1243,Fat preparations n.e.c.,16.0,0.9375,1.0,0.8828125,3.0
+2016,F1275,hydrogenated oils and fats,2865.0,0.500174520069808,0.8188481675392669,0.3141900959098952,17.0
+2016,F1293,Crude organic material n.e.c.,1.0,1.0,1.0,1.0,5.0
+2017,0111,Wheat,2.0,1.0,1.0,1.0,2.0
+2017,0112,Maize (corn),4.0,0.75,1.0,0.625,3.0
+2017,01199.90,Cereals n.e.c.,0.0,,,,2.0
+2017,01212,Cabbages,5.0,1.0,1.0,1.0,3.0
+2017,01213,Cauliflowers and broccoli,0.0,,,,1.0
+2017,01214,Lettuce and chicory,1.0,1.0,1.0,1.0,2.0
+2017,01232,Cucumbers and gherkins,10.0,1.0,1.0,1.0,1.0
+2017,01233,Eggplants (aubergines),1.0,1.0,1.0,1.0,1.0
+2017,01234,Tomatoes,134.0,0.7611940298507462,1.0,0.6329917576297617,4.0
+2017,01241.90,"Other beans, green",2.0,1.0,1.0,1.0,1.0
+2017,01242,"Peas, green",0.0,,,,2.0
+2017,01243,"Broad beans and horse beans, green",55.0,0.9636363636363636,1.0,0.9292561983471075,4.0
+2017,01252,Green garlic,35.0,1.0,1.0,1.0,3.0
+2017,01253.01,"Onions and shallots, green",287.0,0.554006968641115,0.9686411149825784,0.40198375602471803,8.0
+2017,01270,Mushrooms and truffles,4.0,1.0,1.0,1.0,2.0
+2017,01290.90,"Other vegetables, fresh n.e.c.",13.0,0.5384615384615384,1.0,0.5029585798816568,3.0
+2017,01314,Dates,139.0,0.7266187050359713,0.9928057553956835,0.5951555302520574,6.0
+2017,01322,Lemons and limes,1.0,1.0,1.0,1.0,1.0
+2017,01323,Oranges,10.0,1.0,1.0,1.0,1.0
+2017,01329,"Other citrus fruit, n.e.c.",1.0,1.0,1.0,1.0,2.0
+2017,01330,Grapes,10.0,0.7,1.0,0.58,2.0
+2017,01341,Apples,68.0,0.4411764705882353,0.9852941176470589,0.3429930795847751,5.0
+2017,01344.02,Cherries,0.0,,,,1.0
+2017,01359.90,"Other fruits, n.e.c.",1.0,1.0,1.0,1.0,1.0
+2017,01373,"Chestnuts, in shell",2.0,1.0,1.0,1.0,1.0
+2017,01377,"Brazil nuts, in shell",0.0,,,,2.0
+2017,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",1.0,1.0,1.0,1.0,4.0
+2017,0141,Soya beans,4.0,1.0,1.0,1.0,3.0
+2017,0143,Cotton seed,0.0,,,,1.0
+2017,01443,Rape or colza seed,0.0,,,,3.0
+2017,01449.90,"Other oil seeds, n.e.c.",3.0,1.0,1.0,1.0,1.0
+2017,01460,"Coconuts, in shell",0.0,,,,3.0
+2017,01510,Potatoes,29.0,0.7931034482758621,1.0,0.6527942925089181,4.0
+2017,01520.02,"Cassava, dry",0.0,,,,1.0
+2017,01530,Sweet potatoes,1.0,1.0,1.0,1.0,1.0
+2017,01550,Taro,6.0,1.0,1.0,1.0,1.0
+2017,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",15.0,1.0,1.0,1.0,1.0
+2017,01610,"Coffee, green",27.0,0.6666666666666666,1.0,0.5555555555555556,4.0
+2017,01620,Tea leaves,14.0,0.6428571428571429,0.9285714285714286,0.4693877551020409,7.0
+2017,01640,Cocoa beans,1.0,1.0,1.0,1.0,2.0
+2017,01651,"Pepper (Piper spp.), raw",1.0,1.0,1.0,1.0,4.0
+2017,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2.0,0.5,1.0,0.5,2.0
+2017,01653,"Nutmeg, mace, cardamoms, raw",15.0,1.0,1.0,1.0,1.0
+2017,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",15.0,1.0,1.0,1.0,2.0
+2017,01655,"Cinnamon and cinnamon-tree flowers, raw",1.0,1.0,1.0,1.0,4.0
+2017,01657,"Ginger, raw",1.0,1.0,1.0,1.0,3.0
+2017,01658,"Vanilla, raw",1.0,1.0,1.0,1.0,1.0
+2017,01699,"Other stimulant, spice and aromatic crops, n.e.c.",14.0,0.7857142857142857,1.0,0.6428571428571428,5.0
+2017,01701,"Beans, dry",13.0,1.0,1.0,1.0,2.0
+2017,01703,"Chick peas, dry",0.0,,,,1.0
+2017,01704,"Lentils, dry",9.0,0.4444444444444444,1.0,0.4074074074074074,3.0
+2017,01709.90,Other pulses n.e.c.,5.0,0.8,1.0,0.6800000000000002,2.0
+2017,01919.96,"Other forage products, n.e.c.",0.0,,,,1.0
+2017,01921.02,"Cotton lint, ginned",0.0,,,,4.0
+2017,01922.01,"Jute, raw or retted",0.0,,,,1.0
+2017,01929.07,"Abaca, manila hemp, raw",0.0,,,,1.0
+2017,01950.01,Natural rubber in primary forms,0.0,,,,2.0
+2017,01950.02,Natural rubber in other forms,0.0,,,,1.0
+2017,01970,Unmanufactured tobacco,97.0,0.7422680412371134,1.0,0.6033584865554257,3.0
+2017,02111,Cattle,22.0,1.0,1.0,1.0,1.0
+2017,02122,Sheep,465.0,0.5053763440860215,1.0,0.5000578101514626,2.0
+2017,02123,Goats,151.0,0.8874172185430463,1.0,0.7949212753826586,3.0
+2017,02151,Chickens,45.0,0.8666666666666667,1.0,0.7639506172839506,3.0
+2017,02152,Turkeys,1.0,1.0,1.0,1.0,1.0
+2017,02211,Raw milk of cattle,882.0,0.47959183673469385,0.738095238095238,0.2828579655596176,12.0
+2017,0231,"Hen eggs in shell, fresh",31.0,1.0,1.0,1.0,1.0
+2017,0232,"Eggs from other birds in shell, fresh, n.e.c.",126.0,0.9285714285714286,1.0,0.8673469387755102,2.0
+2017,02910,Natural honey,6.0,0.8333333333333334,1.0,0.7222222222222223,4.0
+2017,02941,"Shorn wool, greasy, including fleece-washed shorn wool",3.0,0.6666666666666666,1.0,0.5555555555555556,3.0
+2017,02943.01,"Hair, goat, fine",0.0,,,,1.0
+2017,02951.91,"Hides, cattle nes",0.0,,,,1.0
+2017,02953.04,"Skins, dry-salted of sheep",0.0,,,,1.0
+2017,02955.90,"Skins, furs",0.0,,,,1.0
+2017,02959.99,"Other raw skins of other animals, preserved",0.0,,,,1.0
+2017,02960.02,Spermaceti,6.0,1.0,1.0,1.0,2.0
+2017,17400,Ice and snow,1080.0,0.6703703703703704,0.9212962962962964,0.4997085048010974,19.0
+2017,21111.01,"Meat of cattle with the bone, fresh or chilled",150.0,0.7,0.9933333333333333,0.5686222222222221,5.0
+2017,21111.02,"Meat of cattle boneless, fresh or chilled",194.0,0.8195876288659794,1.0,0.7042725050483579,2.0
+2017,21115,"Meat of sheep, fresh or chilled",167.0,0.2634730538922156,0.7485029940119761,0.2395568145146832,6.0
+2017,21116,"Meat of goat, fresh or chilled",21.0,1.0,1.0,1.0,1.0
+2017,21118.01,"Horse meat, fresh or chilled",230.0,1.0,1.0,1.0,1.0
+2017,21119.90,"Other meat of mammals, fresh or chilled",1.0,1.0,1.0,1.0,1.0
+2017,21121,"Meat of chickens, fresh or chilled",66.0,0.5454545454545454,1.0,0.43021120293847565,3.0
+2017,21122,"Meat of ducks, fresh or chilled",3.0,1.0,1.0,1.0,1.0
+2017,21124,"Meat of turkeys, fresh or chilled",126.0,0.29365079365079366,0.7619047619047619,0.23607961703199798,5.0
+2017,21151,"Edible offal of cattle, fresh, chilled or frozen",1022.0,0.44227005870841485,0.7651663405088062,0.26942298781024887,8.0
+2017,21153,"Edible offal of pigs, fresh, chilled or frozen",27.0,0.7777777777777778,1.0,0.654320987654321,2.0
+2017,21155,"Edible offal of sheep, fresh, chilled or frozen",230.0,0.29130434782608694,0.7652173913043478,0.2234026465028355,6.0
+2017,21160.01,"Edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen",13313.0,0.2547134379929392,0.5901750169007737,0.15406381195681562,19.0
+2017,21182,"Bovine meat, salted, dried or smoked",545.0,0.5009174311926605,0.8733944954128441,0.33635889234912886,4.0
+2017,21183,"Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",73.0,0.5753424657534246,1.0,0.4798273597297804,4.0
+2017,21184.02,"Sausages and similar products of meat, offal or blood of pig",9.0,1.0,1.0,1.0,1.0
+2017,21313,"Potatoes, frozen",159.0,0.32075471698113206,0.6918238993710691,0.2008227522645465,11.0
+2017,21319.01,"Sweet corn, frozen",8.0,0.5,1.0,0.40625,3.0
+2017,21321,Tomato juice,0.0,,,,1.0
+2017,21329,Other vegetable juices,193.0,0.7202072538860104,0.9067357512953368,0.5407125023490563,6.0
+2017,21330.90,Other vegetables provisionally preserved,0.0,,,,1.0
+2017,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",1.0,1.0,1.0,1.0,2.0
+2017,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",1.0,1.0,1.0,1.0,2.0
+2017,21393.01,Dried mushrooms,0.0,,,,3.0
+2017,21393.90,"Vegetables, dehydrated",45.0,0.9555555555555556,1.0,0.9150617283950617,3.0
+2017,21397.01,Canned mushrooms,5.0,0.6,1.0,0.44000000000000006,3.0
+2017,21399.01,Paste of tomatoes,18.0,0.8888888888888888,1.0,0.7962962962962963,5.0
+2017,21399.02,"Tomatoes, peeled (o/t vinegar)",1206.0,0.3648424543946932,0.9419568822553896,0.3023343756617686,12.0
+2017,21399.03,"Sweet corn, prepared or preserved",46.0,0.782608695652174,0.9782608695652175,0.6323251417769375,4.0
+2017,21411,Raisins,4.0,0.75,1.0,0.625,2.0
+2017,21412,"Plums, dried",1.0,1.0,1.0,1.0,1.0
+2017,21419.99,"Other fruit n.e.c., dried",11.0,0.8181818181818182,1.0,0.7024793388429753,4.0
+2017,21421,"Groundnuts, shelled",7.0,1.0,1.0,1.0,3.0
+2017,21422,"Almonds, shelled",1.0,1.0,1.0,1.0,1.0
+2017,21429.01,"Brazil nuts, shelled",0.0,,,,1.0
+2017,21431.01,Orange juice,11.0,0.5454545454545454,1.0,0.40495867768595034,5.0
+2017,21432.01,"Grapefruit juice, concentrated",0.0,,,,1.0
+2017,21433.01,"Juice of pineapples, concentrated",1.0,1.0,1.0,1.0,1.0
+2017,21434,Grape juice,0.0,,,,1.0
+2017,21435.02,"Apple juice, concentrated",0.0,,,,2.0
+2017,21439.90,Juice of fruits n.e.c.,1147.0,0.40540540540540543,0.6887532693984307,0.2215513879883765,20.0
+2017,21491,"Pineapples, otherwise prepared or preserved",1.0,1.0,1.0,1.0,1.0
+2017,21495.01,Prepared groundnuts,10.0,0.6,1.0,0.52,3.0
+2017,21521,"Pig fat, rendered",0.0,,,,1.0
+2017,21529.03,Animal oils and fats n.e.c.,9.0,0.8888888888888888,1.0,0.8024691358024691,2.0
+2017,2161,Soya bean oil,43.0,0.9534883720930233,1.0,0.9113034072471606,3.0
+2017,2162,Groundnut oil,1.0,1.0,1.0,1.0,4.0
+2017,21631.01,"Sunflower-seed oil, crude",7.0,0.8571428571428571,1.0,0.7551020408163265,2.0
+2017,2165,Palm oil,1.0,1.0,1.0,1.0,1.0
+2017,2166,Coconut oil,0.0,,,,1.0
+2017,2167,Olive oil,3.0,0.6666666666666666,1.0,0.5555555555555556,3.0
+2017,21673,Oil of olive residues,10.0,0.9,1.0,0.8200000000000001,3.0
+2017,2168,Cottonseed oil,0.0,,,,1.0
+2017,21691.02,Oil of maize,0.0,,,,1.0
+2017,21691.12,Oil of linseed,0.0,,,,1.0
+2017,21691.14,Oil of palm kernel,0.0,,,,1.0
+2017,21700.02,Margarine and shortening,205.0,0.8048780487804879,0.9902439024390244,0.6652944675788222,4.0
+2017,21800,Cotton linters,1.0,1.0,1.0,1.0,1.0
+2017,21910.05,Cake of copra,0.0,,,,1.0
+2017,21910.90,"Cake, oilseeds nes",1.0,1.0,1.0,1.0,1.0
+2017,21920,"Flours and meals of oil seeds or oleaginous fruits, except those of mustard",1.0,1.0,1.0,1.0,1.0
+2017,22130.02,"Whey, dry",128.0,0.5078125,0.9921875,0.3958740234375,4.0
+2017,22211,Whole milk powder,671.0,0.21758569299552907,0.5707898658718331,0.1452932984779263,13.0
+2017,22212,Skim milk and whey powder,1898.0,0.6475237091675448,0.886722866174921,0.45252503605925376,13.0
+2017,22221.01,"Whole milk, evaporated",950.0,0.9705263157894737,1.0,0.942790027700831,4.0
+2017,22222.01,"Whole milk, condensed",166.0,0.9096385542168675,1.0,0.8356074902017709,3.0
+2017,22230.02,"Yoghurt, with additives",161.0,0.37888198757763975,0.84472049689441,0.26167971914663785,6.0
+2017,22230.03,"Buttermilk, curdled and acidified milk",14.0,1.0,1.0,1.0,3.0
+2017,22241.01,Butter of cow milk,18.0,0.5,1.0,0.4506172839506173,4.0
+2017,22249.01,Butter and ghee of sheep milk,0.0,,,,1.0
+2017,22251.01,Cheese from whole cow milk,44.0,0.4090909090909091,0.9090909090909092,0.3047520661157025,4.0
+2017,22270,Ice cream and other edible ice,40.0,0.75,1.0,0.625,2.0
+2017,23110,Wheat and meslin flour,5409.0,0.5128489554446293,0.8190053614346459,0.31996517379725065,16.0
+2017,23120.03,Flour of maize,42.0,0.3333333333333333,0.9285714285714285,0.2913832199546485,6.0
+2017,23140.01,Germ of wheat,3.0,1.0,1.0,1.0,1.0
+2017,23140.03,Breakfast cereals,13.0,0.46153846153846156,1.0,0.3846153846153847,3.0
+2017,23140.08,Cereal preparations,6.0,1.0,1.0,1.0,4.0
+2017,23161.02,"Rice, milled",1761.0,0.5741056218057922,0.9233390119250425,0.4050041904201739,12.0
+2017,23161.03,"Rice, broken",28227.0,0.9278704786197612,1.0,0.8661462929486072,4.0
+2017,23170.04,Flour of fruits,0.0,,,,1.0
+2017,23180,Mixes and doughs for the preparation of bakers' wares,6.0,0.6666666666666666,0.9999999999999999,0.5,3.0
+2017,23210.05,Glucose and dextrose,0.0,,,,2.0
+2017,23230.01,Tapioca of potatoes,3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2017,23311,"Dog or cat food, put up for retail sale",1.0,1.0,1.0,1.0,2.0
+2017,23319.01,"Feed, compound, cattle",877.0,0.7206385404789054,0.9213226909920182,0.5487831040046599,9.0
+2017,2351f,Raw cane or beet sugar (centrifugal only),5797.0,0.4714507503881318,0.8495773676039331,0.30614727020444954,13.0
+2017,23520,Refined sugar,136.0,0.40441176470588236,0.8970588235294119,0.30741782006920415,5.0
+2017,23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",2.0,1.0,1.0,1.0,1.0
+2017,23540,Molasses,0.0,,,,1.0
+2017,23620,"Cocoa butter, fat and oil",1.0,1.0,1.0,1.0,2.0
+2017,23670.01,Sugar confectionery,561.0,0.3939393939393939,0.8877005347593583,0.28658081284693426,11.0
+2017,23670.02,"Fruit, nuts, peel, sugar preserved",0.0,,,,1.0
+2017,23710,"Uncooked pasta, not stuffed or otherwise prepared",47.0,0.44680851063829785,0.9361702127659574,0.32548664554096873,4.0
+2017,23911,"Coffee, decaffeinated or roasted",71.0,0.8732394366197183,1.0,0.771473913905971,6.0
+2017,23912.02,Coffee extracts,4.0,0.5,1.0,0.5,2.0
+2017,23914,"Extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté",15.0,1.0,1.0,1.0,2.0
+2017,23991.01,Infant food,20.0,0.7,0.9999999999999999,0.5399999999999999,3.0
+2017,23991.02,Homogenized vegetable preparations,5.0,1.0,1.0,1.0,2.0
+2017,23991.03,"Homogenized cooked fruit, prepared",7.0,0.7142857142857143,1.0,0.5918367346938775,4.0
+2017,23991.04,Homogenized meat preparations,2.0,1.0,1.0,1.0,1.0
+2017,23993.02,"Eggs, liquid",106.0,1.0,1.0,1.0,1.0
+2017,23993.03,"Eggs, dried",7.0,1.0,1.0,1.0,1.0
+2017,23995.01,Soya sauce,2.0,0.5,1.0,0.5,2.0
+2017,23995.03,Flour of mustard seed,16.0,0.5625,1.0,0.5078125,2.0
+2017,23999.01,Malt extract,17.0,0.5882352941176471,1.0,0.4325259515570935,4.0
+2017,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",118.0,0.4915254237288136,0.9152542372881356,0.366704969836254,4.0
+2017,24212.02,Wine,172.0,0.5348837209302325,0.9825581395348837,0.386763115197404,4.0
+2017,24310.01,"Beer of barley, malted",207.0,0.463768115942029,0.7246376811594203,0.2711615206889309,8.0
+2017,24490,Other non-alcoholic caloric beverages,3780.0,0.6502645502645502,0.9068783068783068,0.46990691749950997,16.0
+2017,25020.01,Cigarettes,546.0,0.7802197802197802,0.924908424908425,0.6225160675710125,5.0
+2017,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",0.0,,,,1.0
+2017,26130,"Wool, degreased or carbonized, not carded or combed",0.0,,,,1.0
+2017,26150.01,"Hair, carded/combed",0.0,,,,2.0
+2017,26160,"Cotton, carded or combed",0.0,,,,3.0
+2017,26190.01,"Flax, processed but not spun",1.0,1.0,1.0,1.0,1.0
+2017,34120,Industrial monocarboxylic fatty acids; acid oils from refining,11.0,0.8181818181818182,1.0,0.6859504132231405,3.0
+2017,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",0.0,,,,2.0
+2017,35410.90,Essential oils n.e.c.,12.0,0.8333333333333334,1.0,0.7083333333333334,4.0
+2017,39120.14,Bran of pulses,4.0,1.0,1.0,1.0,1.0
+2017,39120.91,Vegetable products for feed n.e.c.,83.0,0.9879518072289156,1.0,0.9761939323559297,2.0
+2017,39150.01,Coffee husks and skins,3.0,0.6666666666666666,1.0,0.5555555555555556,5.0
+2017,39150.02,Cocoa husks and shells,8.0,0.875,1.0,0.78125,2.0
+2017,39211,Silk waste,0.0,,,,1.0
+2017,39213,"Wool, shoddy",0.0,,,,1.0
+2017,F0020,Bread,87.0,0.3103448275862069,0.7931034482758621,0.2331880036992998,6.0
+2017,F0022,Pastry,767.0,0.6427640156453716,0.8826597131681877,0.44570100749801544,15.0
+2017,F0030,"Rice, paddy (rice milled equivalent)",29988.0,0.8876550620248099,0.9892623716153128,0.7937340157707296,13.0
+2017,F0235,Prepared nuts,1.0,1.0,1.0,1.0,2.0
+2017,F0262,Olives preserved,31.0,0.967741935483871,1.0,0.9375650364203956,3.0
+2017,F0472,Vegetables preserved nes (o/t vinegar),154.0,0.42207792207792205,0.922077922077922,0.31860347444763026,9.0
+2017,F0473,Vegetables frozen,40.0,0.6,1.0,0.45125,4.0
+2017,F0623,Fruit prepared n.e.c.,101.0,0.4158415841584158,0.7227722772277227,0.24419174590726397,9.0
+2017,F0665,Cocoa powder and cake,4.0,0.5,1.0,0.5,2.0
+2017,F0666,Chocolate products nes,320.0,0.35625,0.75,0.23472656249999999,10.0
+2017,F0769,Cotton waste,1.0,1.0,1.0,1.0,2.0
+2017,F0875,beef and veal preparations nes,1.0,1.0,1.0,1.0,2.0
+2017,F1061,Poultry meat preparations,0.0,,,,1.0
+2017,F1232,Food preparations n.e.c.,1113.0,0.5211141060197664,0.8598382749326146,0.3495478172282322,25.0
+2017,F1243,Fat preparations n.e.c.,1.0,1.0,1.0,1.0,2.0
+2017,F1275,hydrogenated oils and fats,4636.0,0.5871440897325281,0.8220448662640207,0.3810221018535958,16.0
+2017,F1293,Crude organic material n.e.c.,6.0,0.3333333333333333,0.8333333333333333,0.2777777777777778,5.0
+2018,0112,Maize (corn),12.0,0.8333333333333334,1.0,0.7083333333333334,4.0
+2018,01199.90,Cereals n.e.c.,1.0,1.0,1.0,1.0,1.0
+2018,01212,Cabbages,29.0,0.8275862068965517,1.0,0.7146254458977408,4.0
+2018,01215,Spinach,5.0,1.0,1.0,1.0,1.0
+2018,01233,Eggplants (aubergines),0.0,,,,1.0
+2018,01234,Tomatoes,43.0,0.8372093023255814,1.0,0.7274202271498107,2.0
+2018,01241.90,"Other beans, green",3.0,1.0,1.0,1.0,2.0
+2018,01243,"Broad beans and horse beans, green",62.0,0.967741935483871,1.0,0.9370447450572322,4.0
+2018,01251,Carrots and turnips,1.0,1.0,1.0,1.0,2.0
+2018,01252,Green garlic,80.0,0.725,1.0,0.58875,3.0
+2018,01253.01,"Onions and shallots, green",307.0,0.8045602605863192,0.996742671009772,0.6691105475920168,7.0
+2018,01254,Leeks and other alliaceous vegetables,1.0,1.0,1.0,1.0,2.0
+2018,01270,Mushrooms and truffles,25.0,0.92,1.0,0.8528,3.0
+2018,01290.90,"Other vegetables, fresh n.e.c.",1.0,1.0,1.0,1.0,2.0
+2018,01312,Bananas,1.0,1.0,1.0,1.0,1.0
+2018,01314,Dates,172.0,0.622093023255814,0.9941860465116278,0.5019605191995673,7.0
+2018,01322,Lemons and limes,0.0,,,,1.0
+2018,01323,Oranges,1.0,1.0,1.0,1.0,1.0
+2018,01329,"Other citrus fruit, n.e.c.",0.0,,,,2.0
+2018,01330,Grapes,14.0,0.5,1.0,0.4387755102040816,3.0
+2018,01341,Apples,104.0,0.6634615384615384,1.0,0.5212647928994083,4.0
+2018,01342.01,Pears,9.0,1.0,1.0,1.0,1.0
+2018,01354,Strawberries,0.0,,,,1.0
+2018,01359.01,Persimmons,0.0,,,,1.0
+2018,01359.90,"Other fruits, n.e.c.",3.0,1.0,1.0,1.0,2.0
+2018,01371,"Almonds, in shell",0.0,,,,1.0
+2018,01373,"Chestnuts, in shell",1.0,1.0,1.0,1.0,1.0
+2018,01377,"Brazil nuts, in shell",1.0,1.0,1.0,1.0,1.0
+2018,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",0.0,,,,1.0
+2018,0141,Soya beans,21.0,1.0,1.0,1.0,2.0
+2018,0142,"Groundnuts, excluding shelled",0.0,,,,2.0
+2018,0143,Cotton seed,0.0,,,,1.0
+2018,01449.90,"Other oil seeds, n.e.c.",4.0,0.75,1.0,0.625,4.0
+2018,01460,"Coconuts, in shell",1.0,1.0,1.0,1.0,4.0
+2018,01510,Potatoes,114.0,0.5877192982456141,0.9649122807017545,0.4190520160049246,5.0
+2018,01520.02,"Cassava, dry",1.0,1.0,1.0,1.0,1.0
+2018,01530,Sweet potatoes,7.0,0.5714285714285714,1.0,0.510204081632653,2.0
+2018,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",34.0,1.0,1.0,1.0,1.0
+2018,01610,"Coffee, green",49.0,0.5918367346938775,1.0,0.5010412328196585,4.0
+2018,01620,Tea leaves,9.0,0.4444444444444444,0.8888888888888888,0.3333333333333333,5.0
+2018,01640,Cocoa beans,1.0,1.0,1.0,1.0,2.0
+2018,01651,"Pepper (Piper spp.), raw",13.0,0.9230769230769231,1.0,0.8579881656804735,3.0
+2018,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",1.0,1.0,1.0,1.0,2.0
+2018,01653,"Nutmeg, mace, cardamoms, raw",3.0,1.0,1.0,1.0,1.0
+2018,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",23.0,0.8260869565217391,1.0,0.6975425330812853,5.0
+2018,01655,"Cinnamon and cinnamon-tree flowers, raw",1.0,1.0,1.0,1.0,3.0
+2018,01657,"Ginger, raw",0.0,,,,1.0
+2018,01658,"Vanilla, raw",0.0,,,,1.0
+2018,01699,"Other stimulant, spice and aromatic crops, n.e.c.",30.0,0.9666666666666667,1.0,0.9355555555555555,4.0
+2018,01701,"Beans, dry",30.0,0.9666666666666667,1.0,0.9355555555555555,2.0
+2018,01703,"Chick peas, dry",0.0,,,,2.0
+2018,01704,"Lentils, dry",4.0,0.25,0.75,0.25,5.0
+2018,01705,"Peas, dry",0.0,,,,1.0
+2018,01707,"Pigeon peas, dry",0.0,,,,1.0
+2018,01709.90,Other pulses n.e.c.,8.0,0.875,1.0,0.78125,4.0
+2018,01801,Sugar beet,0.0,,,,1.0
+2018,01802,Sugar cane,0.0,,,,1.0
+2018,01913,"Cereal straw, husks, unprepared, ground, pressed, or in the form of pellets",0.0,,,,1.0
+2018,01919.96,"Other forage products, n.e.c.",0.0,,,,1.0
+2018,01921.02,"Cotton lint, ginned",2.0,1.0,1.0,1.0,4.0
+2018,01929.07,"Abaca, manila hemp, raw",0.0,,,,1.0
+2018,01950.01,Natural rubber in primary forms,2.0,1.0,1.0,1.0,1.0
+2018,01950.02,Natural rubber in other forms,8.0,0.875,1.0,0.78125,3.0
+2018,01970,Unmanufactured tobacco,97.0,0.9072164948453608,1.0,0.8316505473482836,3.0
+2018,02111,Cattle,198.0,1.0,1.0,1.0,1.0
+2018,02122,Sheep,154.0,1.0,1.0,1.0,1.0
+2018,02123,Goats,108.0,1.0,1.0,1.0,1.0
+2018,02133,Mules and hinnies,0.0,,,,1.0
+2018,02151,Chickens,44.0,0.7954545454545454,1.0,0.6745867768595041,4.0
+2018,02192.01,Other rodents,4.0,1.0,1.0,1.0,1.0
+2018,02211,Raw milk of cattle,1470.0,0.27755102040816326,0.7197278911564626,0.20432412420750612,11.0
+2018,0231,"Hen eggs in shell, fresh",204.0,0.8480392156862745,1.0,0.7422625913110341,3.0
+2018,0232,"Eggs from other birds in shell, fresh, n.e.c.",17.0,1.0,1.0,1.0,1.0
+2018,02910,Natural honey,9.0,0.6666666666666666,0.8888888888888888,0.48148148148148145,5.0
+2018,02941,"Shorn wool, greasy, including fleece-washed shorn wool",2.0,1.0,1.0,1.0,2.0
+2018,02942.90,"Hair, coarse nes",0.0,,,,1.0
+2018,02943.01,"Hair, goat, fine",0.0,,,,1.0
+2018,02951.91,"Hides, cattle nes",0.0,,,,1.0
+2018,02953.04,"Skins, dry-salted of sheep",0.0,,,,1.0
+2018,02960.02,Spermaceti,3.0,1.0,1.0,1.0,2.0
+2018,17400,Ice and snow,1052.0,0.49429657794676807,0.8897338403041826,0.3357320475935751,14.0
+2018,21111.01,"Meat of cattle with the bone, fresh or chilled",357.0,0.5154061624649859,0.9103641456582633,0.37545214164097007,5.0
+2018,21111.02,"Meat of cattle boneless, fresh or chilled",1276.0,0.7507836990595611,0.8808777429467085,0.5768467291005396,7.0
+2018,21116,"Meat of goat, fresh or chilled",57.0,1.0,1.0,1.0,1.0
+2018,21118.01,"Horse meat, fresh or chilled",199.0,0.5376884422110553,0.9698492462311558,0.3932981490366405,4.0
+2018,21121,"Meat of chickens, fresh or chilled",204.0,0.6078431372549019,0.8872549019607843,0.42180891964628986,4.0
+2018,21122,"Meat of ducks, fresh or chilled",24.0,1.0,1.0,1.0,1.0
+2018,21124,"Meat of turkeys, fresh or chilled",288.0,0.7326388888888888,1.0,0.5964265046296297,3.0
+2018,21151,"Edible offal of cattle, fresh, chilled or frozen",818.0,0.6344743276283619,0.8178484107579462,0.4256371016433426,9.0
+2018,21153,"Edible offal of pigs, fresh, chilled or frozen",200.0,0.47,0.855,0.32055,4.0
+2018,21155,"Edible offal of sheep, fresh, chilled or frozen",412.0,0.441747572815534,0.8106796116504854,0.2877745310585353,7.0
+2018,21160.01,"Edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen",13209.0,0.30327806798395035,0.5848285260049966,0.15483096087229634,18.0
+2018,21182,"Bovine meat, salted, dried or smoked",344.0,0.7936046511627907,1.0,0.6526331800973497,3.0
+2018,21183,"Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",90.0,0.6333333333333333,1.0,0.5355555555555556,2.0
+2018,21184.02,"Sausages and similar products of meat, offal or blood of pig",24.0,0.7916666666666666,1.0,0.6701388888888888,2.0
+2018,21189.01,Liver preparations,0.0,,,,1.0
+2018,21190.01,Meat meal,0.0,,,,1.0
+2018,21313,"Potatoes, frozen",287.0,0.27177700348432055,0.7421602787456446,0.19370151391907148,14.0
+2018,21319.01,"Sweet corn, frozen",4.0,0.5,1.0,0.375,4.0
+2018,21329,Other vegetable juices,350.0,0.33714285714285713,0.7685714285714286,0.2345795918367347,10.0
+2018,21330.90,Other vegetables provisionally preserved,35.0,0.8,0.9714285714285715,0.6555102040816327,4.0
+2018,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",3.0,0.6666666666666666,1.0,0.5555555555555556,3.0
+2018,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",1.0,1.0,1.0,1.0,2.0
+2018,21393.01,Dried mushrooms,2.0,1.0,1.0,1.0,2.0
+2018,21393.90,"Vegetables, dehydrated",57.0,0.8596491228070176,1.0,0.7513080947983996,6.0
+2018,21397.01,Canned mushrooms,5.0,0.8,1.0,0.6800000000000002,2.0
+2018,21399.01,Paste of tomatoes,1158.0,0.4775474956822107,0.9602763385146804,0.3913155013855705,8.0
+2018,21399.02,"Tomatoes, peeled (o/t vinegar)",292.0,0.4383561643835616,0.9931506849315068,0.3731938449990617,7.0
+2018,21399.03,"Sweet corn, prepared or preserved",31.0,0.4838709677419355,1.0,0.4422476586888658,4.0
+2018,21411,Raisins,9.0,0.7777777777777778,1.0,0.654320987654321,2.0
+2018,21412,"Plums, dried",2.0,1.0,1.0,1.0,1.0
+2018,21419.99,"Other fruit n.e.c., dried",3.0,1.0,1.0,1.0,1.0
+2018,21421,"Groundnuts, shelled",8.0,0.875,1.0,0.78125,2.0
+2018,21422,"Almonds, shelled",1.0,1.0,1.0,1.0,1.0
+2018,21424,"Cashew nuts, shelled",0.0,,,,2.0
+2018,21429.01,"Brazil nuts, shelled",4.0,1.0,1.0,1.0,2.0
+2018,21429.02,"Walnuts, shelled",0.0,,,,1.0
+2018,21431.01,Orange juice,58.0,0.43103448275862066,0.8793103448275863,0.3323424494649227,9.0
+2018,21432.01,"Grapefruit juice, concentrated",1.0,1.0,1.0,1.0,2.0
+2018,21433.01,"Juice of pineapples, concentrated",0.0,,,,1.0
+2018,21435.02,"Apple juice, concentrated",0.0,,,,1.0
+2018,21439.05,"Citrus juice, concentrated n.e.c.",0.0,,,,1.0
+2018,21439.90,Juice of fruits n.e.c.,1191.0,0.3593618807724601,0.5575146935348447,0.17290538258883972,19.0
+2018,21491,"Pineapples, otherwise prepared or preserved",0.0,,,,1.0
+2018,21495.01,Prepared groundnuts,9.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2018,21511.03,Fat of poultry,133.0,0.6691729323308271,1.0,0.5080558539205157,3.0
+2018,21512,"Cattle fat, unrendered",0.0,,,,2.0
+2018,21521,"Pig fat, rendered",0.0,,,,1.0
+2018,21522,"Poultry fat, rendered",0.0,,,,2.0
+2018,21529.03,Animal oils and fats n.e.c.,22.0,1.0,1.0,1.0,2.0
+2018,2161,Soya bean oil,2.0,1.0,1.0,1.0,1.0
+2018,2162,Groundnut oil,2.0,1.0,1.0,1.0,1.0
+2018,21631.01,"Sunflower-seed oil, crude",48.0,0.6458333333333334,1.0,0.5164930555555556,3.0
+2018,21641.01,"Rapeseed or canola oil, crude",0.0,,,,1.0
+2018,2165,Palm oil,0.0,,,,1.0
+2018,2166,Coconut oil,0.0,,,,1.0
+2018,2167,Olive oil,12.0,0.9166666666666666,1.0,0.8472222222222221,2.0
+2018,21673,Oil of olive residues,2.0,0.5,1.0,0.5,3.0
+2018,2168,Cottonseed oil,41.0,0.5365853658536586,1.0,0.5026769779892921,3.0
+2018,21691.02,Oil of maize,0.0,,,,1.0
+2018,21691.12,Oil of linseed,0.0,,,,1.0
+2018,21691.14,Oil of palm kernel,0.0,,,,1.0
+2018,21700.02,Margarine and shortening,196.0,0.6938775510204082,0.9948979591836735,0.5297271970012495,4.0
+2018,21910.05,Cake of copra,0.0,,,,2.0
+2018,21910.08,Cake of rapeseed,1.0,1.0,1.0,1.0,1.0
+2018,21920,"Flours and meals of oil seeds or oleaginous fruits, except those of mustard",1.0,1.0,1.0,1.0,1.0
+2018,22130.02,"Whey, dry",229.0,0.6681222707423581,1.0,0.5481779523655156,3.0
+2018,22211,Whole milk powder,421.0,0.2921615201900237,0.6555819477434679,0.18684728702726797,10.0
+2018,22212,Skim milk and whey powder,2080.0,0.49375,0.6850961538461539,0.27683478180473375,19.0
+2018,22221.01,"Whole milk, evaporated",1191.0,0.9773299748110831,1.0,0.955439656928785,3.0
+2018,22222.01,"Whole milk, condensed",509.0,0.48526522593320237,0.925343811394892,0.38951138833029053,8.0
+2018,22230.02,"Yoghurt, with additives",189.0,0.4656084656084656,0.8888888888888888,0.3270625122476974,6.0
+2018,22230.03,"Buttermilk, curdled and acidified milk",5.0,0.6,1.0,0.52,2.0
+2018,22241.01,Butter of cow milk,17.0,0.5294117647058824,1.0,0.39792387543252594,3.0
+2018,22249.01,Butter and ghee of sheep milk,0.0,,,,1.0
+2018,22251.01,Cheese from whole cow milk,129.0,0.29457364341085274,0.7441860465116279,0.22889249444143983,5.0
+2018,22270,Ice cream and other edible ice,33.0,1.0,1.0,1.0,1.0
+2018,22290,Dairy products n.e.c.,68.0,1.0,1.0,1.0,2.0
+2018,23110,Wheat and meslin flour,6326.0,0.3907682579829276,0.8642111919064179,0.27559053268561595,19.0
+2018,23120.03,Flour of maize,80.0,0.375,0.8875,0.293125,7.0
+2018,23140.03,Breakfast cereals,11.0,0.6363636363636364,1.0,0.47107438016528924,3.0
+2018,23140.08,Cereal preparations,12.0,0.6666666666666666,0.9999999999999999,0.5,4.0
+2018,23161.02,"Rice, milled",4242.0,0.6386138613861386,0.93988684582744,0.45555046512935793,11.0
+2018,23161.03,"Rice, broken",24084.0,0.8831174223550905,1.0,0.7935482158291078,4.0
+2018,23170.04,Flour of fruits,0.0,,,,1.0
+2018,23180,Mixes and doughs for the preparation of bakers' wares,14.0,0.5714285714285714,1.0,0.45918367346938777,3.0
+2018,23210.04,Sugar and syrups n.e.c.,1.0,1.0,1.0,1.0,2.0
+2018,23210.05,Glucose and dextrose,1.0,1.0,1.0,1.0,1.0
+2018,23210.06,Lactose,1.0,1.0,1.0,1.0,2.0
+2018,23230.01,Tapioca of potatoes,2.0,1.0,1.0,1.0,2.0
+2018,23311,"Dog or cat food, put up for retail sale",3.0,0.6666666666666666,1.0,0.5555555555555556,4.0
+2018,23319.01,"Feed, compound, cattle",1073.0,0.8052190121155638,0.9515377446411928,0.6616831505156213,8.0
+2018,2351f,Raw cane or beet sugar (centrifugal only),5668.0,0.5185250529287226,0.815984474241355,0.3351471371176395,12.0
+2018,23520,Refined sugar,83.0,0.3493975903614458,0.9759036144578312,0.3200754826535056,5.0
+2018,23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",1.0,1.0,1.0,1.0,2.0
+2018,23540,Molasses,3.0,1.0,1.0,1.0,1.0
+2018,23610.01,Cocoa paste not defatted,1.0,1.0,1.0,1.0,1.0
+2018,23620,"Cocoa butter, fat and oil",6.0,0.8333333333333334,1.0,0.7222222222222223,3.0
+2018,23670.01,Sugar confectionery,481.0,0.3866943866943867,0.83991683991684,0.29743560928592117,13.0
+2018,23670.02,"Fruit, nuts, peel, sugar preserved",10.0,1.0,1.0,1.0,1.0
+2018,23710,"Uncooked pasta, not stuffed or otherwise prepared",80.0,0.3375,0.7250000000000001,0.22562500000000005,6.0
+2018,23911,"Coffee, decaffeinated or roasted",61.0,0.7049180327868853,0.9344262295081968,0.5259338887395862,5.0
+2018,23912.02,Coffee extracts,13.0,0.5384615384615384,0.923076923076923,0.37278106508875736,4.0
+2018,23914,"Extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté",14.0,1.0,1.0,1.0,3.0
+2018,23991.01,Infant food,41.0,0.6341463414634146,1.0,0.4836406900654372,3.0
+2018,23991.02,Homogenized vegetable preparations,9.0,1.0,1.0,1.0,1.0
+2018,23991.03,"Homogenized cooked fruit, prepared",12.0,0.8333333333333334,1.0,0.7083333333333334,3.0
+2018,23991.04,Homogenized meat preparations,1.0,1.0,1.0,1.0,1.0
+2018,23995.01,Soya sauce,4.0,0.5,1.0,0.5,2.0
+2018,23995.03,Flour of mustard seed,25.0,0.68,1.0,0.5648000000000001,3.0
+2018,23999.01,Malt extract,28.0,0.6071428571428571,0.9999999999999999,0.4974489795918367,4.0
+2018,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",69.0,0.5072463768115942,1.0,0.39382482671707625,4.0
+2018,24212.01,Must of grape,0.0,,,,1.0
+2018,24212.02,Wine,136.0,0.4117647058823529,1.0,0.34645328719723184,4.0
+2018,24230.03,Cider and other fermented beverages,0.0,,,,2.0
+2018,24310.01,"Beer of barley, malted",286.0,0.5034965034965035,0.8321678321678322,0.317546090273363,8.0
+2018,24490,Other non-alcoholic caloric beverages,4137.0,0.6279912980420594,0.8989605994682136,0.454519777625979,15.0
+2018,25020.01,Cigarettes,336.0,0.7619047619047619,0.9107142857142856,0.5969919217687073,6.0
+2018,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",0.0,,,,1.0
+2018,26130,"Wool, degreased or carbonized, not carded or combed",0.0,,,,1.0
+2018,26150.01,"Hair, carded/combed",0.0,,,,1.0
+2018,26160,"Cotton, carded or combed",0.0,,,,2.0
+2018,34120,Industrial monocarboxylic fatty acids; acid oils from refining,9.0,0.8888888888888888,1.0,0.8024691358024691,2.0
+2018,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",0.0,,,,1.0
+2018,35410.90,Essential oils n.e.c.,14.0,0.7857142857142857,1.0,0.6632653061224489,3.0
+2018,39120.01,Bran of wheat,0.0,,,,1.0
+2018,39120.04,Bran of maize,1.0,1.0,1.0,1.0,1.0
+2018,39120.14,Bran of pulses,4.0,1.0,1.0,1.0,1.0
+2018,39120.91,Vegetable products for feed n.e.c.,15.0,0.8666666666666667,1.0,0.768888888888889,3.0
+2018,39150.01,Coffee husks and skins,5.0,1.0,1.0,1.0,3.0
+2018,39150.02,Cocoa husks and shells,2.0,1.0,1.0,1.0,1.0
+2018,39213,"Wool, shoddy",0.0,,,,1.0
+2018,F0020,Bread,98.0,0.673469387755102,1.0,0.5537276134943774,3.0
+2018,F0022,Pastry,806.0,0.6910669975186104,0.8560794044665012,0.4959608149794655,14.0
+2018,F0030,"Rice, paddy (rice milled equivalent)",28326.0,0.8465014474334533,0.9722516416013556,0.7275040832054271,13.0
+2018,F0235,Prepared nuts,7.0,1.0,1.0,1.0,2.0
+2018,F0262,Olives preserved,57.0,0.5614035087719298,0.9298245614035087,0.38811942136041855,4.0
+2018,F0472,Vegetables preserved nes (o/t vinegar),387.0,0.35658914728682173,0.8165374677002584,0.2535304368727841,11.0
+2018,F0473,Vegetables frozen,29.0,0.3793103448275862,0.896551724137931,0.2889417360285374,6.0
+2018,F0623,Fruit prepared n.e.c.,216.0,0.3101851851851852,0.7175925925925926,0.21034807956104254,10.0
+2018,F0665,Cocoa powder and cake,7.0,0.5714285714285714,1.0,0.510204081632653,2.0
+2018,F0666,Chocolate products nes,415.0,0.35903614457831323,0.7855421686746988,0.23019306140223544,12.0
+2018,F0769,Cotton waste,1.0,1.0,1.0,1.0,3.0
+2018,F0875,beef and veal preparations nes,1.0,1.0,1.0,1.0,1.0
+2018,F0994,Wool grease and lanolin,0.0,,,,1.0
+2018,F1061,Poultry meat preparations,15.0,1.0,1.0,1.0,1.0
+2018,F1232,Food preparations n.e.c.,1203.0,0.4796342477140482,0.771404821280133,0.28390163411089897,21.0
+2018,F1243,Fat preparations n.e.c.,3.0,1.0,1.0,1.0,1.0
+2018,F1275,hydrogenated oils and fats,3864.0,0.4756728778467909,0.7893374741200829,0.28747403971040214,16.0
+2018,F1293,Crude organic material n.e.c.,5.0,0.4,1.0,0.3600000000000001,5.0
+2019,0112,Maize (corn),13.0,0.9230769230769231,1.0,0.8579881656804735,5.0
+2019,0113,Rice,0.0,,,,1.0
+2019,01191,Triticale,1.0,1.0,1.0,1.0,1.0
+2019,01199.90,Cereals n.e.c.,0.0,,,,1.0
+2019,01212,Cabbages,49.0,0.8163265306122449,1.0,0.7001249479383591,5.0
+2019,01214,Lettuce and chicory,0.0,,,,2.0
+2019,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",0.0,,,,2.0
+2019,01232,Cucumbers and gherkins,0.0,,,,1.0
+2019,01233,Eggplants (aubergines),0.0,,,,1.0
+2019,01234,Tomatoes,19.0,0.7368421052631579,0.9999999999999999,0.5789473684210525,4.0
+2019,01241.90,"Other beans, green",2.0,1.0,1.0,1.0,2.0
+2019,01242,"Peas, green",0.0,,,,1.0
+2019,01243,"Broad beans and horse beans, green",49.0,0.9795918367346939,1.0,0.9600166597251145,3.0
+2019,01251,Carrots and turnips,1.0,1.0,1.0,1.0,1.0
+2019,01252,Green garlic,69.0,0.6666666666666666,1.0,0.500945179584121,6.0
+2019,01253.02,"Onions and shallots, dry (excluding dehydrated)",369.0,0.7967479674796748,0.9999999999999999,0.6719471801764088,3.0
+2019,01270,Mushrooms and truffles,5.0,0.6,1.0,0.52,4.0
+2019,01290.90,"Other vegetables, fresh n.e.c.",1.0,1.0,1.0,1.0,2.0
+2019,01312,Bananas,5.0,1.0,1.0,1.0,4.0
+2019,01314,Dates,103.0,0.8349514563106796,1.0,0.7187293807144877,5.0
+2019,01322,Lemons and limes,1.0,1.0,1.0,1.0,2.0
+2019,01324,"Tangerines, mandarins, clementines",0.0,,,,1.0
+2019,01329,"Other citrus fruit, n.e.c.",2.0,1.0,1.0,1.0,2.0
+2019,01330,Grapes,2.0,0.5,1.0,0.5,2.0
+2019,01341,Apples,127.0,0.9212598425196851,1.0,0.8538037076074153,3.0
+2019,01354,Strawberries,0.0,,,,1.0
+2019,01359.01,Persimmons,0.0,,,,1.0
+2019,01359.90,"Other fruits, n.e.c.",5.0,0.8,1.0,0.6800000000000002,2.0
+2019,01371,"Almonds, in shell",1.0,1.0,1.0,1.0,1.0
+2019,01373,"Chestnuts, in shell",1.0,1.0,1.0,1.0,1.0
+2019,01375,"Pistachios, in shell",1.0,1.0,1.0,1.0,1.0
+2019,01377,"Brazil nuts, in shell",0.0,,,,1.0
+2019,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",0.0,,,,1.0
+2019,0141,Soya beans,1.0,1.0,1.0,1.0,2.0
+2019,0142,"Groundnuts, excluding shelled",1.0,1.0,1.0,1.0,1.0
+2019,0143,Cotton seed,4.0,0.75,1.0,0.625,2.0
+2019,01441,Linseed,0.0,,,,1.0
+2019,01449.90,"Other oil seeds, n.e.c.",3.0,0.3333333333333333,1.0,0.3333333333333333,4.0
+2019,01450,Olives,0.0,,,,2.0
+2019,01460,"Coconuts, in shell",0.0,,,,3.0
+2019,01510,Potatoes,197.0,0.37055837563451777,0.7106598984771574,0.22219072895462394,10.0
+2019,01520.02,"Cassava, dry",0.0,,,,1.0
+2019,01530,Sweet potatoes,2.0,1.0,1.0,1.0,1.0
+2019,01550,Taro,33.0,1.0,1.0,1.0,1.0
+2019,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",154.0,0.987012987012987,1.0,0.9743632990386237,2.0
+2019,01610,"Coffee, green",46.0,0.5434782608695652,1.0,0.4111531190926276,4.0
+2019,01620,Tea leaves,7.0,0.7142857142857143,1.0,0.5510204081632654,7.0
+2019,01640,Cocoa beans,1.0,1.0,1.0,1.0,2.0
+2019,01651,"Pepper (Piper spp.), raw",6.0,0.6666666666666666,1.0,0.5555555555555556,4.0
+2019,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",11.0,0.9090909090909091,1.0,0.8347107438016528,4.0
+2019,01653,"Nutmeg, mace, cardamoms, raw",1.0,1.0,1.0,1.0,1.0
+2019,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",28.0,0.9285714285714286,1.0,0.864795918367347,4.0
+2019,01656,"Cloves (whole stems), raw",0.0,,,,1.0
+2019,01657,"Ginger, raw",0.0,,,,3.0
+2019,01658,"Vanilla, raw",1.0,1.0,1.0,1.0,1.0
+2019,01699,"Other stimulant, spice and aromatic crops, n.e.c.",14.0,0.8571428571428571,0.9999999999999999,0.7448979591836733,3.0
+2019,01701,"Beans, dry",67.0,0.9850746268656716,1.0,0.970594787257741,5.0
+2019,01704,"Lentils, dry",2.0,0.5,1.0,0.5,4.0
+2019,01705,"Peas, dry",0.0,,,,1.0
+2019,01709.90,Other pulses n.e.c.,12.0,1.0,1.0,1.0,3.0
+2019,01913,"Cereal straw, husks, unprepared, ground, pressed, or in the form of pellets",0.0,,,,1.0
+2019,01921.02,"Cotton lint, ginned",0.0,,,,3.0
+2019,01929.02,"True hemp, raw or retted",0.0,,,,1.0
+2019,01950.01,Natural rubber in primary forms,1.0,1.0,1.0,1.0,2.0
+2019,01950.02,Natural rubber in other forms,0.0,,,,3.0
+2019,01970,Unmanufactured tobacco,101.0,0.9504950495049505,1.0,0.9058915792569355,2.0
+2019,02111,Cattle,87.0,1.0,1.0,1.0,1.0
+2019,02112,Buffalo,19.0,1.0,1.0,1.0,1.0
+2019,02122,Sheep,156.0,1.0,1.0,1.0,1.0
+2019,02123,Goats,143.0,1.0,1.0,1.0,1.0
+2019,02151,Chickens,15.0,0.4666666666666667,0.9333333333333333,0.38666666666666666,4.0
+2019,02199.20,"Other live animals, n.e.c.",5.0,1.0,1.0,1.0,1.0
+2019,02211,Raw milk of cattle,1408.0,0.3515625,0.7237215909090909,0.20543626517303717,15.0
+2019,0231,"Hen eggs in shell, fresh",236.0,0.8771186440677966,1.0,0.7824978454467106,4.0
+2019,0232,"Eggs from other birds in shell, fresh, n.e.c.",16.0,1.0,1.0,1.0,1.0
+2019,02910,Natural honey,20.0,0.35,0.85,0.27999999999999997,5.0
+2019,02942.90,"Hair, coarse nes",0.0,,,,1.0
+2019,02951.91,"Hides, cattle nes",0.0,,,,1.0
+2019,02960.02,Spermaceti,2.0,1.0,1.0,1.0,2.0
+2019,17400,Ice and snow,862.0,0.5127610208816705,0.9222737819025523,0.3601132638174859,12.0
+2019,21111.01,"Meat of cattle with the bone, fresh or chilled",388.0,0.6030927835051546,0.8324742268041238,0.4052635774258688,5.0
+2019,21111.02,"Meat of cattle boneless, fresh or chilled",1326.0,0.8536953242835595,0.9977375565610859,0.74142739820142,4.0
+2019,21115,"Meat of sheep, fresh or chilled",38.0,1.0,1.0,1.0,1.0
+2019,21118.01,"Horse meat, fresh or chilled",53.0,1.0,1.0,1.0,1.0
+2019,21119.90,"Other meat of mammals, fresh or chilled",0.0,,,,1.0
+2019,21121,"Meat of chickens, fresh or chilled",279.0,0.4444444444444444,0.6917562724014337,0.25923356585860924,7.0
+2019,21122,"Meat of ducks, fresh or chilled",121.0,0.2809917355371901,0.768595041322314,0.2516904583020285,5.0
+2019,21123,"Meat of geese, fresh or chilled",29.0,0.9655172413793104,1.0,0.9334126040428063,3.0
+2019,21124,"Meat of turkeys, fresh or chilled",86.0,0.6627906976744186,1.0,0.5530016224986478,2.0
+2019,21151,"Edible offal of cattle, fresh, chilled or frozen",1143.0,0.4759405074365704,0.952755905511811,0.36525803915805355,6.0
+2019,21153,"Edible offal of pigs, fresh, chilled or frozen",2.0,1.0,1.0,1.0,1.0
+2019,21155,"Edible offal of sheep, fresh, chilled or frozen",441.0,0.4897959183673469,0.7936507936507936,0.30487811148646915,7.0
+2019,21160.01,"Edible offals and liver of chickens and guinea fowl, fresh, chilled or frozen",15742.0,0.29348240376064033,0.5834709693812731,0.15284689800391238,27.0
+2019,21160.02,"Edible offals and liver of geese, fresh, chilled or frozen",1.0,1.0,1.0,1.0,1.0
+2019,21184.02,"Sausages and similar products of meat, offal or blood of pig",33.0,0.45454545454545453,0.9393939393939394,0.32598714416896235,5.0
+2019,21189.01,Liver preparations,0.0,,,,1.0
+2019,21313,"Potatoes, frozen",230.0,0.29130434782608694,0.7130434782608697,0.19950850661625708,11.0
+2019,21319.01,"Sweet corn, frozen",12.0,0.75,1.0,0.5972222222222222,3.0
+2019,21329,Other vegetable juices,166.0,0.6265060240963856,0.9518072289156627,0.4703875743939614,6.0
+2019,21330.90,Other vegetables provisionally preserved,27.0,0.8888888888888888,1.0,0.8024691358024691,2.0
+2019,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",4.0,0.75,1.0,0.625,3.0
+2019,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",2.0,1.0,1.0,1.0,2.0
+2019,21393.01,Dried mushrooms,7.0,0.7142857142857143,1.0,0.5918367346938775,2.0
+2019,21393.90,"Vegetables, dehydrated",73.0,0.6164383561643836,1.0,0.4719459560893226,4.0
+2019,21397.01,Canned mushrooms,2.0,0.5,1.0,0.5,2.0
+2019,21399.01,Paste of tomatoes,1175.0,0.5863829787234043,0.9055319148936171,0.4115476686283386,8.0
+2019,21399.02,"Tomatoes, peeled (o/t vinegar)",114.0,0.7105263157894737,1.0,0.5498614958448753,4.0
+2019,21399.03,"Sweet corn, prepared or preserved",46.0,0.5652173913043478,1.0,0.4480151228733459,3.0
+2019,21411,Raisins,2.0,0.5,1.0,0.5,2.0
+2019,21412,"Plums, dried",2.0,1.0,1.0,1.0,1.0
+2019,21419.99,"Other fruit n.e.c., dried",6.0,1.0,1.0,1.0,2.0
+2019,21421,"Groundnuts, shelled",19.0,0.8947368421052632,1.0,0.8116343490304709,3.0
+2019,21422,"Almonds, shelled",0.0,,,,1.0
+2019,21429.01,"Brazil nuts, shelled",0.0,,,,2.0
+2019,21431.01,Orange juice,28.0,0.5,0.9642857142857143,0.3647959183673469,5.0
+2019,21432.01,"Grapefruit juice, concentrated",0.0,,,,3.0
+2019,21434,Grape juice,0.0,,,,1.0
+2019,21435.02,"Apple juice, concentrated",4.0,1.0,1.0,1.0,2.0
+2019,21439.04,Juice of citrus fruit n.e.c.,0.0,,,,2.0
+2019,21439.90,Juice of fruits n.e.c.,1137.0,0.3720316622691293,0.6939313984168866,0.2034988462749339,17.0
+2019,21491,"Pineapples, otherwise prepared or preserved",0.0,,,,1.0
+2019,21495.01,Prepared groundnuts,11.0,0.6363636363636364,1.0,0.5371900826446281,3.0
+2019,21511.03,Fat of poultry,765.0,0.5189542483660131,0.8026143790849674,0.32678542440941527,6.0
+2019,21512,"Cattle fat, unrendered",0.0,,,,1.0
+2019,21522,"Poultry fat, rendered",0.0,,,,1.0
+2019,21529.03,Animal oils and fats n.e.c.,0.0,,,,1.0
+2019,2161,Soya bean oil,2.0,1.0,1.0,1.0,3.0
+2019,2162,Groundnut oil,1.0,1.0,1.0,1.0,1.0
+2019,21631.01,"Sunflower-seed oil, crude",10.0,0.6,1.0,0.52,2.0
+2019,21641.01,"Rapeseed or canola oil, crude",1.0,1.0,1.0,1.0,3.0
+2019,2165,Palm oil,18.0,1.0,1.0,1.0,2.0
+2019,2166,Coconut oil,0.0,,,,3.0
+2019,2167,Olive oil,8.0,0.75,1.0,0.625,3.0
+2019,21673,Oil of olive residues,6.0,0.8333333333333334,1.0,0.7222222222222223,2.0
+2019,2168,Cottonseed oil,1.0,1.0,1.0,1.0,2.0
+2019,21691.07,Oil of sesame seed,16.0,1.0,1.0,1.0,2.0
+2019,21691.12,Oil of linseed,94.0,0.8297872340425532,0.9999999999999999,0.7066545948392938,4.0
+2019,21700.02,Margarine and shortening,286.0,0.7902097902097902,0.9370629370629371,0.6387598415570445,5.0
+2019,21800,Cotton linters,0.0,,,,1.0
+2019,22130.02,"Whey, dry",337.0,0.7537091988130564,0.9495548961424333,0.5906453345543238,5.0
+2019,22211,Whole milk powder,386.0,0.35751295336787564,0.8886010362694301,0.2772289188971516,6.0
+2019,22212,Skim milk and whey powder,2420.0,0.40578512396694216,0.659504132231405,0.21647838262413768,18.0
+2019,22221.01,"Whole milk, evaporated",1304.0,0.9647239263803681,1.0,0.9313156309985321,3.0
+2019,22222.01,"Whole milk, condensed",321.0,0.6542056074766355,0.822429906542056,0.45289739035917737,9.0
+2019,22230.02,"Yoghurt, with additives",272.0,0.5036764705882353,0.8713235294117647,0.3294496107266437,7.0
+2019,22230.03,"Buttermilk, curdled and acidified milk",14.0,0.5714285714285714,1.0,0.45918367346938777,4.0
+2019,22241.01,Butter of cow milk,19.0,0.6842105263157895,1.0,0.5401662049861495,4.0
+2019,22249.01,Butter and ghee of sheep milk,3.0,1.0,1.0,1.0,2.0
+2019,22251.01,Cheese from whole cow milk,123.0,0.2764227642276423,0.6991869918699187,0.1913543525679159,10.0
+2019,22270,Ice cream and other edible ice,35.0,0.9714285714285714,1.0,0.9444897959183673,2.0
+2019,22290,Dairy products n.e.c.,24.0,0.875,1.0,0.7743055555555556,3.0
+2019,23110,Wheat and meslin flour,7498.0,0.3587623366230995,0.810349426513737,0.2427844010825755,21.0
+2019,23120.03,Flour of maize,61.0,0.5409836065573771,1.0,0.417360924482666,5.0
+2019,23140.03,Breakfast cereals,17.0,0.47058823529411764,1.0,0.3633217993079585,5.0
+2019,23140.08,Cereal preparations,7.0,0.42857142857142855,0.857142857142857,0.30612244897959184,4.0
+2019,23161.02,"Rice, milled",3428.0,0.6236872812135356,0.9498249708284713,0.4716488142811822,13.0
+2019,23161.03,"Rice, broken",19292.0,0.9951275139954385,0.9999481650425047,0.9903010324560562,7.0
+2019,23180,Mixes and doughs for the preparation of bakers' wares,4.0,0.5,1.0,0.5,2.0
+2019,23210.04,Sugar and syrups n.e.c.,0.0,,,,1.0
+2019,23210.05,Glucose and dextrose,2.0,1.0,1.0,1.0,1.0
+2019,23210.06,Lactose,2.0,0.5,1.0,0.5,3.0
+2019,23220.06,Starch of cassava,0.0,,,,1.0
+2019,23230.01,Tapioca of potatoes,2.0,0.5,1.0,0.5,2.0
+2019,23311,"Dog or cat food, put up for retail sale",3.0,1.0,1.0,1.0,1.0
+2019,23319.01,"Feed, compound, cattle",1109.0,0.7718665464382326,0.9495040577096483,0.6143448024646286,5.0
+2019,2351f,Raw cane or beet sugar (centrifugal only),4659.0,0.3155183515775918,0.7072333118694999,0.21735759340810154,15.0
+2019,23520,Refined sugar,40.0,0.775,1.0,0.6262500000000001,3.0
+2019,23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",0.0,,,,2.0
+2019,23540,Molasses,1.0,1.0,1.0,1.0,2.0
+2019,23620,"Cocoa butter, fat and oil",0.0,,,,1.0
+2019,23670.01,Sugar confectionery,707.0,0.33946251768033947,0.7595473833097596,0.23658945001390416,13.0
+2019,23670.02,"Fruit, nuts, peel, sugar preserved",10.0,1.0,1.0,1.0,2.0
+2019,23710,"Uncooked pasta, not stuffed or otherwise prepared",82.0,0.7195121951219512,0.9634146341463414,0.5490779298036883,5.0
+2019,23911,"Coffee, decaffeinated or roasted",111.0,0.6306306306306306,0.963963963963964,0.4550766983199415,6.0
+2019,23912.02,Coffee extracts,4.0,1.0,1.0,1.0,2.0
+2019,23991.01,Infant food,40.0,0.625,1.0,0.49875,3.0
+2019,23991.02,Homogenized vegetable preparations,10.0,0.9,1.0,0.8200000000000001,3.0
+2019,23991.03,"Homogenized cooked fruit, prepared",14.0,0.5714285714285714,1.0,0.510204081632653,4.0
+2019,23991.04,Homogenized meat preparations,1.0,1.0,1.0,1.0,1.0
+2019,23993.02,"Eggs, liquid",41.0,0.7804878048780488,1.0,0.6573468173706127,4.0
+2019,23995.01,Soya sauce,2.0,0.5,1.0,0.5,2.0
+2019,23995.03,Flour of mustard seed,24.0,0.5833333333333334,1.0,0.48263888888888895,4.0
+2019,23999.01,Malt extract,4.0,0.75,1.0,0.625,2.0
+2019,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",181.0,0.4696132596685083,1.0,0.40246024236134426,3.0
+2019,24212.02,Wine,160.0,0.3625,0.8,0.244296875,6.0
+2019,24230.03,Cider and other fermented beverages,1.0,1.0,1.0,1.0,2.0
+2019,24310.01,"Beer of barley, malted",276.0,0.5144927536231884,0.822463768115942,0.3272421760134425,6.0
+2019,24490,Other non-alcoholic caloric beverages,4208.0,0.6014733840304183,0.8369771863117871,0.399531175454322,18.0
+2019,25020.01,Cigarettes,423.0,0.8226950354609929,1.0,0.6925707962376136,3.0
+2019,25020.02,Cigars and cheroots,0.0,,,,1.0
+2019,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",0.0,,,,1.0
+2019,26160,"Cotton, carded or combed",0.0,,,,3.0
+2019,34120,Industrial monocarboxylic fatty acids; acid oils from refining,8.0,0.625,1.0,0.46875,3.0
+2019,34550,"Animal or vegetable fats and oils and their fractions, chemically modified, except those hydrogenated, inter-esterified, re-esterified or elaidinized; inedible mixtures or preparations of animal or vegetable fats or oils",181.0,0.5303867403314917,1.0,0.4224840511583895,4.0
+2019,35410.90,Essential oils n.e.c.,18.0,0.6111111111111112,1.0,0.462962962962963,4.0
+2019,39150.01,Coffee husks and skins,2.0,0.5,1.0,0.5,3.0
+2019,39150.02,Cocoa husks and shells,0.0,,,,1.0
+2019,39211,Silk waste,0.0,,,,1.0
+2019,F0020,Bread,65.0,0.4307692307692308,0.9076923076923078,0.30556213017751477,6.0
+2019,F0022,Pastry,968.0,0.6880165289256198,0.8223140495867768,0.48813691004712795,15.0
+2019,F0030,"Rice, paddy (rice milled equivalent)",22720.0,0.9390404929577465,0.9882482394366198,0.8836949436495734,15.0
+2019,F0235,Prepared nuts,0.0,,,,1.0
+2019,F0262,Olives preserved,39.0,0.8717948717948718,0.9743589743589745,0.7659434582511507,6.0
+2019,F0472,Vegetables preserved nes (o/t vinegar),333.0,0.2732732732732733,0.7177177177177176,0.21184247310373436,8.0
+2019,F0473,Vegetables frozen,19.0,0.6842105263157895,1.0,0.5678670360110804,3.0
+2019,F0623,Fruit prepared n.e.c.,117.0,0.5213675213675214,0.7863247863247864,0.32339834903937476,8.0
+2019,F0665,Cocoa powder and cake,9.0,0.4444444444444444,0.9999999999999999,0.35802469135802467,3.0
+2019,F0666,Chocolate products nes,330.0,0.4666666666666667,0.8303030303030303,0.2959779614325069,11.0
+2019,F0769,Cotton waste,3.0,1.0,1.0,1.0,2.0
+2019,F0875,beef and veal preparations nes,0.0,,,,1.0
+2019,F1009,"Wool, hair waste",1.0,1.0,1.0,1.0,1.0
+2019,F1042,Pig meat preparations,2.0,1.0,1.0,1.0,1.0
+2019,F1061,Poultry meat preparations,0.0,,,,2.0
+2019,F1232,Food preparations n.e.c.,1063.0,0.4666039510818438,0.9106302916274693,0.3194751360435551,16.0
+2019,F1243,Fat preparations n.e.c.,2.0,1.0,1.0,1.0,1.0
+2019,F1275,hydrogenated oils and fats,3516.0,0.40301478953356085,0.7889647326507395,0.25491544585389586,15.0
+2019,F1293,Crude organic material n.e.c.,5.0,0.6,1.0,0.44000000000000006,7.0
+2020,0111,Wheat,0.0,,,,1.0
+2020,0112,Maize (corn),8.0,0.875,1.0,0.78125,3.0
+2020,0113,Rice,0.0,,,,1.0
+2020,0114,Sorghum,0.0,,,,1.0
+2020,01199.90,Cereals n.e.c.,0.0,,,,1.0
+2020,01212,Cabbages,21.0,0.7142857142857143,1.0,0.5918367346938775,4.0
+2020,01214,Lettuce and chicory,41.0,1.0,1.0,1.0,1.0
+2020,01221,Watermelons,0.0,,,,1.0
+2020,01229,Cantaloupes and other melons,0.0,,,,1.0
+2020,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",0.0,,,,1.0
+2020,01234,Tomatoes,1.0,1.0,1.0,1.0,1.0
+2020,01241.90,"Other beans, green",2.0,0.5,1.0,0.5,2.0
+2020,01243,"Broad beans and horse beans, green",47.0,0.7872340425531915,0.9787234042553191,0.644182888184699,5.0
+2020,01251,Carrots and turnips,3.0,1.0,1.0,1.0,2.0
+2020,01252,Green garlic,262.0,0.44656488549618323,1.0,0.3534467688363149,3.0
+2020,01253.01,"Onions and shallots, green",629.0,0.6756756756756757,0.9777424483306836,0.5246751474189985,5.0
+2020,01254,Leeks and other alliaceous vegetables,1.0,1.0,1.0,1.0,1.0
+2020,01270,Mushrooms and truffles,7.0,1.0,1.0,1.0,1.0
+2020,01290.90,"Other vegetables, fresh n.e.c.",1.0,1.0,1.0,1.0,2.0
+2020,01312,Bananas,1.0,1.0,1.0,1.0,1.0
+2020,01314,Dates,54.0,0.8888888888888888,0.9999999999999999,0.7990397805212619,4.0
+2020,01322,Lemons and limes,1.0,1.0,1.0,1.0,1.0
+2020,01324,"Tangerines, mandarins, clementines",0.0,,,,1.0
+2020,01329,"Other citrus fruit, n.e.c.",1.0,1.0,1.0,1.0,2.0
+2020,01330,Grapes,17.0,0.9411764705882353,1.0,0.8892733564013842,2.0
+2020,01341,Apples,216.0,0.7222222222222222,0.9398148148148149,0.5489111796982167,5.0
+2020,01342.01,Pears,0.0,,,,1.0
+2020,01344.01,Sour cherries,0.0,,,,1.0
+2020,01344.02,Cherries,0.0,,,,1.0
+2020,01345,Peaches and nectarines,3.0,1.0,1.0,1.0,1.0
+2020,01359.90,"Other fruits, n.e.c.",34.0,0.5,1.0,0.3961937716262976,3.0
+2020,01371,"Almonds, in shell",0.0,,,,2.0
+2020,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",6.0,1.0,1.0,1.0,2.0
+2020,0142,"Groundnuts, excluding shelled",1.0,1.0,1.0,1.0,1.0
+2020,0143,Cotton seed,16.0,1.0,1.0,1.0,3.0
+2020,01441,Linseed,0.0,,,,1.0
+2020,01460,"Coconuts, in shell",17.0,1.0,1.0,1.0,4.0
+2020,01510,Potatoes,454.0,0.4911894273127753,0.8766519823788547,0.3349570144966912,8.0
+2020,01520.02,"Cassava, dry",1.0,1.0,1.0,1.0,1.0
+2020,01530,Sweet potatoes,0.0,,,,1.0
+2020,01550,Taro,226.0,0.9513274336283186,1.0,0.9073929046910487,2.0
+2020,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",156.0,0.717948717948718,1.0,0.5950032873109796,2.0
+2020,01610,"Coffee, green",57.0,0.45614035087719296,0.9824561403508771,0.3967374576792859,4.0
+2020,01620,Tea leaves,8.0,0.5,1.0,0.40625,6.0
+2020,01640,Cocoa beans,2.0,0.5,1.0,0.5,2.0
+2020,01651,"Pepper (Piper spp.), raw",7.0,0.42857142857142855,0.857142857142857,0.30612244897959184,4.0
+2020,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",12.0,0.5833333333333334,1.0,0.43055555555555564,4.0
+2020,01653,"Nutmeg, mace, cardamoms, raw",0.0,,,,1.0
+2020,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",30.0,1.0,1.0,1.0,3.0
+2020,01657,"Ginger, raw",0.0,,,,3.0
+2020,01658,"Vanilla, raw",0.0,,,,1.0
+2020,01699,"Other stimulant, spice and aromatic crops, n.e.c.",12.0,0.5,0.9166666666666666,0.37499999999999994,5.0
+2020,01701,"Beans, dry",96.0,0.9895833333333334,1.0,0.9793836805555556,3.0
+2020,01703,"Chick peas, dry",0.0,,,,1.0
+2020,01704,"Lentils, dry",7.0,0.5714285714285714,1.0,0.42857142857142855,5.0
+2020,01707,"Pigeon peas, dry",1.0,1.0,1.0,1.0,1.0
+2020,01709.90,Other pulses n.e.c.,11.0,1.0,1.0,1.0,2.0
+2020,01921.02,"Cotton lint, ginned",0.0,,,,2.0
+2020,01950.01,Natural rubber in primary forms,1.0,1.0,1.0,1.0,1.0
+2020,01950.02,Natural rubber in other forms,1.0,1.0,1.0,1.0,2.0
+2020,01970,Unmanufactured tobacco,14.0,1.0,1.0,1.0,2.0
+2020,02111,Cattle,37.0,1.0,1.0,1.0,1.0
+2020,02112,Buffalo,19.0,1.0,1.0,1.0,1.0
+2020,02122,Sheep,14.0,1.0,1.0,1.0,1.0
+2020,02123,Goats,43.0,1.0,1.0,1.0,1.0
+2020,02151,Chickens,23.0,0.9130434782608695,1.0,0.8412098298676747,3.0
+2020,02211,Raw milk of cattle,1384.0,0.2586705202312139,0.6510115606936416,0.17410997694543756,13.0
+2020,0231,"Hen eggs in shell, fresh",502.0,0.8804780876494024,1.0,0.785558959381597,4.0
+2020,0232,"Eggs from other birds in shell, fresh, n.e.c.",15.0,0.9333333333333333,1.0,0.8755555555555556,2.0
+2020,02910,Natural honey,4.0,0.75,1.0,0.625,4.0
+2020,02942.90,"Hair, coarse nes",1.0,1.0,1.0,1.0,1.0
+2020,02943.01,"Hair, goat, fine",0.0,,,,2.0
+2020,17400,Ice and snow,470.0,0.4148936170212766,0.8936170212765958,0.29898596650067905,11.0
+2020,21111.01,"Meat of cattle with the bone, fresh or chilled",398.0,0.34673366834170855,0.8015075376884422,0.2623039822226711,5.0
+2020,21111.02,"Meat of cattle boneless, fresh or chilled",2205.0,0.546485260770975,0.8884353741496599,0.38624379759462363,7.0
+2020,21115,"Meat of sheep, fresh or chilled",90.0,0.9777777777777777,1.0,0.9565432098765432,2.0
+2020,21118.01,"Horse meat, fresh or chilled",217.0,1.0,1.0,1.0,1.0
+2020,21119.90,"Other meat of mammals, fresh or chilled",743.0,1.0,1.0,1.0,1.0
+2020,21121,"Meat of chickens, fresh or chilled",31662.0,0.22885477859895142,0.5468068978586318,0.12248428212559943,24.0
+2020,21122,"Meat of ducks, fresh or chilled",9.0,1.0,1.0,1.0,1.0
+2020,21124,"Meat of turkeys, fresh or chilled",4.0,1.0,1.0,1.0,1.0
+2020,21151,"Edible offal of cattle, fresh, chilled or frozen",1957.0,0.5850792028615227,0.8850281042411854,0.4091495513269583,8.0
+2020,21153,"Edible offal of pigs, fresh, chilled or frozen",168.0,0.38095238095238093,0.9285714285714286,0.3183106575963719,4.0
+2020,21155,"Edible offal of sheep, fresh, chilled or frozen",379.0,0.3324538258575198,0.7678100263852243,0.2425700183095356,5.0
+2020,21183,"Other meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal",1.0,1.0,1.0,1.0,1.0
+2020,21184.02,"Sausages and similar products of meat, offal or blood of pig",139.0,0.762589928057554,1.0,0.6258992805755397,4.0
+2020,21185,"Extracts and juices of meat, fish, crustaceans, molluscs or other aquatic invertebrates",0.0,,,,1.0
+2020,21313,"Potatoes, frozen",245.0,0.33877551020408164,0.7918367346938776,0.2378175760099958,10.0
+2020,21319.01,"Sweet corn, frozen",3.0,1.0,1.0,1.0,1.0
+2020,21321,Tomato juice,1.0,1.0,1.0,1.0,1.0
+2020,21329,Other vegetable juices,356.0,0.32303370786516855,0.7078651685393259,0.20294154778437065,11.0
+2020,21330.90,Other vegetables provisionally preserved,54.0,0.6851851851851852,0.9444444444444445,0.5123456790123458,5.0
+2020,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",1.0,1.0,1.0,1.0,3.0
+2020,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",1.0,1.0,1.0,1.0,2.0
+2020,21393.01,Dried mushrooms,3.0,0.3333333333333333,1.0,0.3333333333333333,3.0
+2020,21393.90,"Vegetables, dehydrated",39.0,0.6666666666666666,1.0,0.5555555555555556,4.0
+2020,21397.01,Canned mushrooms,2.0,0.5,1.0,0.5,2.0
+2020,21399.01,Paste of tomatoes,2370.0,0.42067510548523207,0.8953586497890296,0.3528184585803557,10.0
+2020,21399.02,"Tomatoes, peeled (o/t vinegar)",53.0,0.5283018867924528,0.9811320754716981,0.453186187255251,5.0
+2020,21399.03,"Sweet corn, prepared or preserved",39.0,0.7948717948717948,1.0,0.6646942800788954,3.0
+2020,21411,Raisins,2.0,1.0,1.0,1.0,2.0
+2020,21412,"Plums, dried",1.0,1.0,1.0,1.0,1.0
+2020,21419.99,"Other fruit n.e.c., dried",7.0,0.8571428571428571,1.0,0.7551020408163265,2.0
+2020,21421,"Groundnuts, shelled",18.0,0.8888888888888888,1.0,0.8024691358024691,2.0
+2020,21422,"Almonds, shelled",0.0,,,,1.0
+2020,21424,"Cashew nuts, shelled",0.0,,,,1.0
+2020,21431.01,Orange juice,17.0,0.4117647058823529,1.0,0.3494809688581315,3.0
+2020,21434,Grape juice,2.0,0.5,1.0,0.5,3.0
+2020,21435.01,Apple juice,0.0,,,,1.0
+2020,21439.04,Juice of citrus fruit n.e.c.,2.0,1.0,1.0,1.0,1.0
+2020,21439.90,Juice of fruits n.e.c.,2054.0,0.43378773125608566,0.6572541382667965,0.22735982418232548,19.0
+2020,21491,"Pineapples, otherwise prepared or preserved",0.0,,,,1.0
+2020,21495.01,Prepared groundnuts,9.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2020,21511.03,Fat of poultry,226.0,0.7123893805309734,1.0,0.5902184979246612,2.0
+2020,2161,Soya bean oil,27.0,1.0,1.0,1.0,3.0
+2020,2162,Groundnut oil,0.0,,,,1.0
+2020,21631.01,"Sunflower-seed oil, crude",123.0,0.6829268292682927,1.0,0.540749553837002,3.0
+2020,2165,Palm oil,0.0,,,,1.0
+2020,2166,Coconut oil,1.0,1.0,1.0,1.0,1.0
+2020,2167,Olive oil,24.0,0.75,1.0,0.5972222222222222,3.0
+2020,21673,Oil of olive residues,5.0,0.8,1.0,0.6800000000000002,3.0
+2020,2168,Cottonseed oil,41.0,0.5853658536585366,1.0,0.5145746579417013,2.0
+2020,21691.07,Oil of sesame seed,1.0,1.0,1.0,1.0,1.0
+2020,21691.12,Oil of linseed,0.0,,,,1.0
+2020,21691.14,Oil of palm kernel,0.0,,,,1.0
+2020,21691.90,"Other oil of vegetable origin, crude n.e.c.",25.0,1.0,1.0,1.0,2.0
+2020,21700.02,Margarine and shortening,254.0,1.0,1.0,1.0,2.0
+2020,21800,Cotton linters,0.0,,,,2.0
+2020,21910.05,Cake of copra,0.0,,,,1.0
+2020,22130.02,"Whey, dry",216.0,0.6018518518518519,0.9907407407407407,0.4586762688614541,4.0
+2020,22211,Whole milk powder,929.0,0.41657696447793324,0.8342303552206674,0.2709523649513754,9.0
+2020,22212,Skim milk and whey powder,3027.0,0.2936901222332342,0.6884704327717212,0.17816711593238216,16.0
+2020,22221.01,"Whole milk, evaporated",1384.0,0.9609826589595376,1.0,0.924901433392362,3.0
+2020,22222.01,"Whole milk, condensed",555.0,0.5747747747747748,0.7927927927927928,0.3742261180099018,8.0
+2020,22230.02,"Yoghurt, with additives",336.0,0.24702380952380953,0.6964285714285714,0.19203514739229022,9.0
+2020,22230.03,"Buttermilk, curdled and acidified milk",257.0,0.5058365758754864,0.9377431906614786,0.3979015579342609,6.0
+2020,22241.01,Butter of cow milk,34.0,0.7647058823529411,0.9705882352941176,0.6176470588235293,5.0
+2020,22251.01,Cheese from whole cow milk,185.0,0.6216216216216216,0.9351351351351351,0.4374287801314828,8.0
+2020,22270,Ice cream and other edible ice,138.0,0.855072463768116,1.0,0.7420709934887629,4.0
+2020,22290,Dairy products n.e.c.,110.0,0.6909090909090909,0.990909090909091,0.5343801652892561,4.0
+2020,23110,Wheat and meslin flour,7667.0,0.4482848571801226,0.8320073040302596,0.29286918851504556,14.0
+2020,23120.03,Flour of maize,94.0,0.5212765957446809,0.8085106382978724,0.3286555002263468,8.0
+2020,23140.03,Breakfast cereals,62.0,0.5483870967741935,0.9354838709677419,0.39281997918834544,4.0
+2020,23140.07,"Oats, rolled",0.0,,,,1.0
+2020,23140.08,Cereal preparations,11.0,0.7272727272727273,1.0,0.5702479338842975,4.0
+2020,23161.02,"Rice, milled",4759.0,0.5019962176927926,0.9457869300273166,0.42703083762372623,10.0
+2020,23161.03,"Rice, broken",24631.0,1.0,1.0,1.0,1.0
+2020,23170.04,Flour of fruits,0.0,,,,1.0
+2020,23180,Mixes and doughs for the preparation of bakers' wares,24.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2020,23210.03,Other fructose and syrup,0.0,,,,1.0
+2020,23210.04,Sugar and syrups n.e.c.,1.0,1.0,1.0,1.0,2.0
+2020,23210.05,Glucose and dextrose,0.0,,,,1.0
+2020,23210.06,Lactose,1.0,1.0,1.0,1.0,3.0
+2020,23230.01,Tapioca of potatoes,2.0,1.0,1.0,1.0,1.0
+2020,23311,"Dog or cat food, put up for retail sale",0.0,,,,1.0
+2020,23319.01,"Feed, compound, cattle",1122.0,0.6951871657754011,0.9759358288770053,0.5241102436761448,5.0
+2020,2351f,Raw cane or beet sugar (centrifugal only),5227.0,0.38549837382819974,0.6870097570308016,0.22046434516896918,15.0
+2020,23520,Refined sugar,94.0,0.30851063829787234,0.7553191489361702,0.2320054323223178,7.0
+2020,23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",0.0,,,,2.0
+2020,23540,Molasses,0.0,,,,2.0
+2020,23620,"Cocoa butter, fat and oil",9.0,0.5555555555555556,1.0,0.5061728395061729,2.0
+2020,23670.01,Sugar confectionery,609.0,0.3169129720853859,0.6683087027914614,0.18744287251166816,11.0
+2020,23670.02,"Fruit, nuts, peel, sugar preserved",11.0,1.0,1.0,1.0,1.0
+2020,23710,"Uncooked pasta, not stuffed or otherwise prepared",163.0,0.5705521472392638,0.8404907975460123,0.3759644698709022,6.0
+2020,23911,"Coffee, decaffeinated or roasted",39.0,0.5897435897435898,1.0,0.49638395792241946,4.0
+2020,23912.02,Coffee extracts,4.0,0.75,1.0,0.625,3.0
+2020,23914,"Extracts, essences and concentrates of tea or mate, and preparations with a basis thereof or with a basis of tea or maté",1.0,1.0,1.0,1.0,1.0
+2020,23991.01,Infant food,55.0,0.5272727272727272,1.0,0.5014876033057851,3.0
+2020,23991.02,Homogenized vegetable preparations,30.0,0.7333333333333333,1.0,0.6088888888888888,2.0
+2020,23991.03,"Homogenized cooked fruit, prepared",17.0,0.8235294117647058,1.0,0.7093425605536332,3.0
+2020,23991.04,Homogenized meat preparations,1.0,1.0,1.0,1.0,1.0
+2020,23993.02,"Eggs, liquid",165.0,0.8242424242424242,1.0,0.7082093663911846,4.0
+2020,23995.01,Soya sauce,19.0,0.8947368421052632,1.0,0.8116343490304709,3.0
+2020,23995.03,Flour of mustard seed,26.0,0.7692307692307693,1.0,0.6449704142011835,2.0
+2020,23999.01,Malt extract,5.0,0.6,1.0,0.52,2.0
+2020,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",172.0,0.43023255813953487,0.7965116279069767,0.27792049756625203,7.0
+2020,24212.02,Wine,137.0,0.39416058394160586,0.7299270072992701,0.2365070062336832,6.0
+2020,24220,Vermouth and other wine of fresh grapes flavoured with plats or aromatic substances,1.0,1.0,1.0,1.0,1.0
+2020,24230.03,Cider and other fermented beverages,0.0,,,,2.0
+2020,24310.01,"Beer of barley, malted",312.0,0.6442307692307693,0.8397435897435898,0.44189677843524006,7.0
+2020,24490,Other non-alcoholic caloric beverages,3852.0,0.42497403946002077,0.7609034267912773,0.25304517403536236,18.0
+2020,25020.01,Cigarettes,405.0,0.928395061728395,0.9901234567901234,0.8639475689681451,4.0
+2020,25020.02,Cigars and cheroots,0.0,,,,1.0
+2020,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",158.0,1.0,1.0,1.0,2.0
+2020,26130,"Wool, degreased or carbonized, not carded or combed",1.0,1.0,1.0,1.0,2.0
+2020,26150.01,"Hair, carded/combed",2.0,1.0,1.0,1.0,2.0
+2020,26160,"Cotton, carded or combed",0.0,,,,1.0
+2020,34120,Industrial monocarboxylic fatty acids; acid oils from refining,0.0,,,,3.0
+2020,35410.90,Essential oils n.e.c.,8.0,0.375,0.875,0.28125,5.0
+2020,39120.91,Vegetable products for feed n.e.c.,0.0,,,,1.0
+2020,39150.01,Coffee husks and skins,46.0,0.9347826086956522,1.0,0.8780718336483933,4.0
+2020,39211,Silk waste,0.0,,,,1.0
+2020,39213,"Wool, shoddy",21.0,0.7619047619047619,1.0,0.6371882086167799,2.0
+2020,F0020,Bread,25.0,1.0,1.0,1.0,1.0
+2020,F0022,Pastry,927.0,0.46062567421790723,0.7777777777777778,0.27774810346211987,12.0
+2020,F0030,"Rice, paddy (rice milled equivalent)",29390.0,0.9193603266417149,0.9912215039128955,0.8498127086994358,11.0
+2020,F0235,Prepared nuts,5.0,1.0,1.0,1.0,2.0
+2020,F0262,Olives preserved,59.0,0.7457627118644068,0.9830508474576272,0.5897730537201954,4.0
+2020,F0472,Vegetables preserved nes (o/t vinegar),414.0,0.4855072463768116,0.8454106280193237,0.31108077201334916,9.0
+2020,F0473,Vegetables frozen,33.0,0.5151515151515151,0.9999999999999999,0.39944903581267216,3.0
+2020,F0623,Fruit prepared n.e.c.,86.0,0.46511627906976744,0.8139534883720931,0.29826933477555434,6.0
+2020,F0665,Cocoa powder and cake,15.0,0.6666666666666666,1.0,0.5022222222222222,3.0
+2020,F0666,Chocolate products nes,423.0,0.32860520094562645,0.7044917257683215,0.20881466950578162,9.0
+2020,F0769,Cotton waste,2.0,0.5,1.0,0.5,3.0
+2020,F0875,beef and veal preparations nes,2.0,1.0,1.0,1.0,2.0
+2020,F1009,"Wool, hair waste",2.0,1.0,1.0,1.0,1.0
+2020,F1061,Poultry meat preparations,10.0,1.0,1.0,1.0,1.0
+2020,F1172,Meat prepared n.e.c.,0.0,,,,1.0
+2020,F1232,Food preparations n.e.c.,1378.0,0.34034833091436867,0.7663280116110305,0.2290977226623638,18.0
+2020,F1275,hydrogenated oils and fats,4576.0,0.3531468531468531,0.8704108391608392,0.2648109511773192,17.0
+2020,F1293,Crude organic material n.e.c.,4.0,0.5,1.0,0.375,5.0
+2021,0111,Wheat,0.0,,,,1.0
+2021,0112,Maize (corn),3.0,1.0,1.0,1.0,2.0
+2021,0118,Millet,0.0,,,,2.0
+2021,01212,Cabbages,10.0,0.8,1.0,0.6800000000000002,2.0
+2021,01213,Cauliflowers and broccoli,0.0,,,,1.0
+2021,01214,Lettuce and chicory,0.0,,,,1.0
+2021,01231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",1.0,1.0,1.0,1.0,1.0
+2021,01233,Eggplants (aubergines),0.0,,,,1.0
+2021,01234,Tomatoes,1.0,1.0,1.0,1.0,2.0
+2021,01241.90,"Other beans, green",5.0,1.0,1.0,1.0,2.0
+2021,01243,"Broad beans and horse beans, green",145.0,0.8896551724137931,1.0,0.8036623067776456,3.0
+2021,01252,Green garlic,291.0,0.5567010309278351,1.0,0.4975023913274525,3.0
+2021,01253.01,"Onions and shallots, green",728.0,0.7197802197802198,0.967032967032967,0.5642434488588335,6.0
+2021,01254,Leeks and other alliaceous vegetables,1.0,1.0,1.0,1.0,2.0
+2021,01312,Bananas,0.0,,,,1.0
+2021,01313,Plantains and cooking bananas,0.0,,,,1.0
+2021,01314,Dates,247.0,0.7651821862348178,0.9109311740890688,0.6006490845612942,7.0
+2021,01322,Lemons and limes,2.0,1.0,1.0,1.0,2.0
+2021,01323,Oranges,1.0,1.0,1.0,1.0,1.0
+2021,01329,"Other citrus fruit, n.e.c.",0.0,,,,1.0
+2021,01330,Grapes,1.0,1.0,1.0,1.0,1.0
+2021,01341,Apples,150.0,0.32666666666666666,0.9066666666666667,0.28382222222222225,5.0
+2021,01342.01,Pears,1.0,1.0,1.0,1.0,1.0
+2021,01352,Kiwi fruit,1.0,1.0,1.0,1.0,1.0
+2021,01354,Strawberries,0.0,,,,1.0
+2021,01359.90,"Other fruits, n.e.c.",17.0,0.7058823529411765,1.0,0.5847750865051904,3.0
+2021,01371,"Almonds, in shell",0.0,,,,2.0
+2021,01379.90,"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",0.0,,,,2.0
+2021,0141,Soya beans,0.0,,,,1.0
+2021,0142,"Groundnuts, excluding shelled",0.0,,,,1.0
+2021,01443,Rape or colza seed,5.0,1.0,1.0,1.0,1.0
+2021,01449.90,"Other oil seeds, n.e.c.",0.0,,,,1.0
+2021,01460,"Coconuts, in shell",3.0,0.6666666666666666,1.0,0.5555555555555556,3.0
+2021,01510,Potatoes,383.0,0.4934725848563969,0.9295039164490861,0.34205018781231045,5.0
+2021,01520.02,"Cassava, dry",1.0,1.0,1.0,1.0,1.0
+2021,01530,Sweet potatoes,3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2021,01550,Taro,272.0,0.9852941176470589,1.0,0.9710207612456749,2.0
+2021,01599.10,"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",17.0,1.0,1.0,1.0,1.0
+2021,01610,"Coffee, green",56.0,0.6071428571428571,1.0,0.5095663265306122,4.0
+2021,01620,Tea leaves,38.0,0.6842105263157895,0.9210526315789473,0.5027700831024932,8.0
+2021,01640,Cocoa beans,0.0,,,,1.0
+2021,01651,"Pepper (Piper spp.), raw",4.0,1.0,1.0,1.0,4.0
+2021,01652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",12.0,0.6666666666666666,0.9166666666666666,0.48611111111111105,6.0
+2021,01653,"Nutmeg, mace, cardamoms, raw",4.0,0.75,1.0,0.625,2.0
+2021,01654,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",40.0,0.7,0.9999999999999999,0.5399999999999999,5.0
+2021,01655,"Cinnamon and cinnamon-tree flowers, raw",0.0,,,,3.0
+2021,01657,"Ginger, raw",7.0,0.7142857142857143,1.0,0.5510204081632654,4.0
+2021,01658,"Vanilla, raw",1.0,1.0,1.0,1.0,2.0
+2021,01699,"Other stimulant, spice and aromatic crops, n.e.c.",36.0,0.3888888888888889,0.8333333333333334,0.2962962962962963,9.0
+2021,01701,"Beans, dry",65.0,0.9692307692307692,1.0,0.9398816568047337,3.0
+2021,01704,"Lentils, dry",1.0,1.0,1.0,1.0,2.0
+2021,01709.90,Other pulses n.e.c.,10.0,1.0,1.0,1.0,1.0
+2021,01802,Sugar cane,5.0,1.0,1.0,1.0,2.0
+2021,01921.02,"Cotton lint, ginned",11.0,0.8181818181818182,1.0,0.7024793388429753,4.0
+2021,01922.01,"Jute, raw or retted",0.0,,,,1.0
+2021,01929.07,"Abaca, manila hemp, raw",1.0,1.0,1.0,1.0,1.0
+2021,01950.01,Natural rubber in primary forms,0.0,,,,2.0
+2021,01950.02,Natural rubber in other forms,1.0,1.0,1.0,1.0,3.0
+2021,01970,Unmanufactured tobacco,31.0,1.0,1.0,1.0,1.0
+2021,02111,Cattle,431.0,0.9976798143851509,1.0,0.9953703952928765,2.0
+2021,02123,Goats,187.0,1.0,1.0,1.0,1.0
+2021,02133,Mules and hinnies,0.0,,,,1.0
+2021,02151,Chickens,13.0,1.0,1.0,1.0,1.0
+2021,02211,Raw milk of cattle,832.0,0.32211538461538464,0.7512019230769231,0.2205442169008876,7.0
+2021,0231,"Hen eggs in shell, fresh",536.0,0.9197761194029851,0.9925373134328358,0.8490824793940746,4.0
+2021,0232,"Eggs from other birds in shell, fresh, n.e.c.",29.0,1.0,1.0,1.0,1.0
+2021,02910,Natural honey,4.0,0.75,1.0,0.625,2.0
+2021,02943.01,"Hair, goat, fine",0.0,,,,1.0
+2021,02960.02,Spermaceti,0.0,,,,1.0
+2021,03211,"Balata, gutta-percha, guayule, chicle and similar natural gums in primary forms or in plates, sheets or strip",0.0,,,,1.0
+2021,17400,Ice and snow,605.0,0.3537190082644628,0.9603305785123967,0.31363158254217605,10.0
+2021,21111.02,"Meat of cattle boneless, fresh or chilled",2895.0,0.8815198618307427,0.9540587219343697,0.7808396944287842,7.0
+2021,21115,"Meat of sheep, fresh or chilled",7.0,1.0,1.0,1.0,1.0
+2021,21118.01,"Horse meat, fresh or chilled",113.0,1.0,1.0,1.0,1.0
+2021,21119.90,"Other meat of mammals, fresh or chilled",2449.0,0.8905675786035117,0.9563086974275214,0.796176838039076,6.0
+2021,21121,"Meat of chickens, fresh or chilled",30050.0,0.27863560732113146,0.5869883527454243,0.14127796323930444,24.0
+2021,21124,"Meat of turkeys, fresh or chilled",3.0,1.0,1.0,1.0,1.0
+2021,21151,"Edible offal of cattle, fresh, chilled or frozen",1270.0,0.6078740157480315,0.8456692913385827,0.41061318122636237,6.0
+2021,21153,"Edible offal of pigs, fresh, chilled or frozen",119.0,0.9495798319327731,1.0,0.9042440505614009,2.0
+2021,21155,"Edible offal of sheep, fresh, chilled or frozen",459.0,0.3877995642701525,0.8453159041394336,0.28092234230898844,7.0
+2021,21160.02,"Edible offals and liver of geese, fresh, chilled or frozen",18.0,1.0,1.0,1.0,1.0
+2021,21184.02,"Sausages and similar products of meat, offal or blood of pig",209.0,0.8995215311004785,1.0,0.8192349076257412,2.0
+2021,21189.01,Liver preparations,0.0,,,,1.0
+2021,21313,"Potatoes, frozen",546.0,0.3553113553113553,0.684981684981685,0.20536301305532076,12.0
+2021,21319.01,"Sweet corn, frozen",8.0,0.875,1.0,0.78125,2.0
+2021,21329,Other vegetable juices,313.0,0.3865814696485623,0.6677316293929713,0.21219977748063162,11.0
+2021,21330.90,Other vegetables provisionally preserved,13.0,0.9230769230769231,1.0,0.8579881656804735,3.0
+2021,21340,"Vegetables, pulses and potatoes, preserved by vinegar or acetic acid",11.0,0.36363636363636365,0.8181818181818181,0.256198347107438,7.0
+2021,21392,"Flour, meal, powder, flakes, granules and pellets of potatoes",4.0,0.75,1.0,0.625,2.0
+2021,21393.01,Dried mushrooms,25.0,0.68,1.0,0.5648000000000001,4.0
+2021,21393.90,"Vegetables, dehydrated",43.0,0.627906976744186,1.0,0.5327203893996755,4.0
+2021,21397.01,Canned mushrooms,2.0,0.5,1.0,0.5,2.0
+2021,21399.01,Paste of tomatoes,1370.0,0.4985401459854015,0.97007299270073,0.4310703820128936,9.0
+2021,21399.02,"Tomatoes, peeled (o/t vinegar)",32.0,0.5625,1.0,0.5078125,3.0
+2021,21399.03,"Sweet corn, prepared or preserved",11.0,1.0,1.0,1.0,2.0
+2021,21411,Raisins,4.0,0.5,1.0,0.5,3.0
+2021,21412,"Plums, dried",0.0,,,,3.0
+2021,21419.01,"Apricots, dried",0.0,,,,1.0
+2021,21419.99,"Other fruit n.e.c., dried",18.0,0.5,1.0,0.5,2.0
+2021,21421,"Groundnuts, shelled",8.0,0.875,1.0,0.78125,4.0
+2021,21422,"Almonds, shelled",0.0,,,,2.0
+2021,21431.01,Orange juice,3.0,0.3333333333333333,1.0,0.3333333333333333,3.0
+2021,21434,Grape juice,2.0,0.5,1.0,0.5,2.0
+2021,21435.01,Apple juice,1.0,1.0,1.0,1.0,1.0
+2021,21435.02,"Apple juice, concentrated",9.0,1.0,1.0,1.0,2.0
+2021,21439.05,"Citrus juice, concentrated n.e.c.",0.0,,,,1.0
+2021,21439.90,Juice of fruits n.e.c.,1610.0,0.2857142857142857,0.6571428571428571,0.17169167856178386,17.0
+2021,21495.01,Prepared groundnuts,12.0,0.75,1.0,0.625,3.0
+2021,21511.03,Fat of poultry,72.0,1.0,1.0,1.0,1.0
+2021,21512,"Cattle fat, unrendered",0.0,,,,1.0
+2021,21522,"Poultry fat, rendered",0.0,,,,1.0
+2021,21631.01,"Sunflower-seed oil, crude",131.0,0.5267175572519084,0.9541984732824428,0.37975642445078955,5.0
+2021,2165,Palm oil,221.0,0.5927601809954751,1.0,0.5172089023566266,3.0
+2021,2166,Coconut oil,3.0,1.0,1.0,1.0,3.0
+2021,2167,Olive oil,38.0,0.7105263157894737,1.0,0.5498614958448753,7.0
+2021,21673,Oil of olive residues,3.0,0.3333333333333333,1.0,0.3333333333333333,3.0
+2021,21691.04,Oil of castor beans,0.0,,,,1.0
+2021,21691.12,Oil of linseed,1.0,1.0,1.0,1.0,3.0
+2021,21691.14,Oil of palm kernel,0.0,,,,2.0
+2021,21691.90,"Other oil of vegetable origin, crude n.e.c.",1.0,1.0,1.0,1.0,2.0
+2021,21700.02,Margarine and shortening,347.0,0.9452449567723343,1.0,0.8961871620892127,3.0
+2021,21800,Cotton linters,0.0,,,,1.0
+2021,21910.16,Cake of  linseed,0.0,,,,1.0
+2021,21932.02,Residues of fatty substances,0.0,,,,1.0
+2021,22130.02,"Whey, dry",676.0,0.849112426035503,0.9718934911242604,0.7297144707818353,5.0
+2021,22211,Whole milk powder,567.0,0.400352733686067,0.6525573192239859,0.21454855376078186,12.0
+2021,22212,Skim milk and whey powder,1988.0,0.482897384305835,0.8063380281690141,0.2973914918079908,16.0
+2021,22221.01,"Whole milk, evaporated",1447.0,0.9993089149965446,1.0,0.9986187851900532,3.0
+2021,22222.01,"Whole milk, condensed",877.0,0.5210946408209807,0.7696693272519954,0.31544903390718604,12.0
+2021,22230.02,"Yoghurt, with additives",396.0,0.23232323232323232,0.6313131313131313,0.18023671053974083,9.0
+2021,22230.03,"Buttermilk, curdled and acidified milk",245.0,0.5714285714285714,0.9061224489795917,0.3970512286547272,6.0
+2021,22241.01,Butter of cow milk,68.0,0.7205882352941176,0.8676470588235293,0.5376297577854672,6.0
+2021,22251.01,Cheese from whole cow milk,358.0,0.5167597765363129,0.8128491620111732,0.32882868824318845,8.0
+2021,22270,Ice cream and other edible ice,105.0,1.0,1.0,1.0,1.0
+2021,22290,Dairy products n.e.c.,24.0,0.5416666666666666,0.9583333333333333,0.38541666666666663,4.0
+2021,23110,Wheat and meslin flour,6592.0,0.3537621359223301,0.8979065533980582,0.279699641445353,10.0
+2021,23120.03,Flour of maize,173.0,0.6011560693641619,0.9595375722543352,0.4364663035851515,6.0
+2021,23140.03,Breakfast cereals,50.0,0.7,0.98,0.5496,5.0
+2021,23140.07,"Oats, rolled",0.0,,,,1.0
+2021,23140.08,Cereal preparations,24.0,0.4166666666666667,1.0,0.37500000000000006,4.0
+2021,23161.02,"Rice, milled",6804.0,0.6884185773074663,0.9914756025867136,0.5567531945969467,7.0
+2021,23161.03,"Rice, broken",27254.0,0.9823512145006238,1.0,0.9653253882604536,3.0
+2021,23170.04,Flour of fruits,0.0,,,,2.0
+2021,23180,Mixes and doughs for the preparation of bakers' wares,17.0,0.7058823529411765,1.0,0.5570934256055364,3.0
+2021,23210.03,Other fructose and syrup,1.0,1.0,1.0,1.0,1.0
+2021,23210.04,Sugar and syrups n.e.c.,1.0,1.0,1.0,1.0,3.0
+2021,23210.05,Glucose and dextrose,3.0,0.6666666666666666,1.0,0.5555555555555556,2.0
+2021,23210.06,Lactose,2.0,1.0,1.0,1.0,2.0
+2021,23230.01,Tapioca of potatoes,1.0,1.0,1.0,1.0,1.0
+2021,23311,"Dog or cat food, put up for retail sale",28.0,1.0,1.0,1.0,2.0
+2021,23319.01,"Feed, compound, cattle",2603.0,0.4967345370726085,0.815597387629658,0.31231834658700053,8.0
+2021,2351f,Raw cane or beet sugar (centrifugal only),4552.0,0.23769771528998243,0.6441124780316344,0.16942484193587243,16.0
+2021,23520,Refined sugar,90.0,0.6333333333333333,0.9777777777777777,0.4607407407407407,5.0
+2021,23530,"Refined cane or beet sugar, in solid form, containing added flavouring or colouring matter; maple sugar and maple syrup",2.0,1.0,1.0,1.0,2.0
+2021,23540,Molasses,0.0,,,,3.0
+2021,23620,"Cocoa butter, fat and oil",0.0,,,,1.0
+2021,23670.01,Sugar confectionery,782.0,0.29923273657289,0.7289002557544757,0.20529038925700374,14.0
+2021,23670.02,"Fruit, nuts, peel, sugar preserved",2.0,1.0,1.0,1.0,2.0
+2021,23710,"Uncooked pasta, not stuffed or otherwise prepared",308.0,0.18181818181818182,0.5162337662337663,0.14355287569573283,9.0
+2021,23911,"Coffee, decaffeinated or roasted",78.0,0.6794871794871795,1.0,0.5565417488494412,5.0
+2021,23912.02,Coffee extracts,15.0,0.9333333333333333,1.0,0.8755555555555556,4.0
+2021,23991.01,Infant food,59.0,0.7796610169491526,1.0,0.6437805228382649,4.0
+2021,23991.02,Homogenized vegetable preparations,31.0,0.5161290322580645,1.0,0.42559833506763783,3.0
+2021,23991.03,"Homogenized cooked fruit, prepared",18.0,0.7222222222222222,1.0,0.5740740740740741,3.0
+2021,23991.04,Homogenized meat preparations,2.0,1.0,1.0,1.0,1.0
+2021,23993.02,"Eggs, liquid",176.0,0.6022727272727273,0.9943181818181819,0.4996771694214876,6.0
+2021,23995.01,Soya sauce,6.0,0.8333333333333334,1.0,0.7222222222222223,3.0
+2021,23995.03,Flour of mustard seed,23.0,0.9130434782608695,1.0,0.8412098298676747,2.0
+2021,23999.01,Malt extract,5.0,0.8,1.0,0.6800000000000002,4.0
+2021,2413,"Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80% vol; spirits, liqueurs and other spirituous beverages",176.0,0.5625,0.8238636363636364,0.36163481404958675,6.0
+2021,24212.02,Wine,48.0,0.75,1.0,0.625,2.0
+2021,24310.01,"Beer of barley, malted",364.0,0.6318681318681318,0.8214285714285714,0.4259147445960632,8.0
+2021,24320,"Malt, whether or not roasted",0.0,,,,1.0
+2021,24490,Other non-alcoholic caloric beverages,4659.0,0.5325177076625885,0.9139300279029835,0.362428598431947,14.0
+2021,25020.01,Cigarettes,232.0,1.0,1.0,1.0,3.0
+2021,25020.02,Cigars and cheroots,0.0,,,,1.0
+2021,25090,"Other manufactured tobacco and manufactured tobacco substitutes; homogenized"" or ""reconstituted"" tobacco; tobacco extracts and essences""",115.0,0.991304347826087,1.0,0.9827599243856333,3.0
+2021,26160,"Cotton, carded or combed",0.0,,,,2.0
+2021,26190.01,"Flax, processed but not spun",0.0,,,,1.0
+2021,34120,Industrial monocarboxylic fatty acids; acid oils from refining,2.0,1.0,1.0,1.0,1.0
+2021,35410.90,Essential oils n.e.c.,16.0,0.875,1.0,0.7734375,4.0
+2021,39120.04,Bran of maize,0.0,,,,1.0
+2021,39120.91,Vegetable products for feed n.e.c.,12.0,1.0,1.0,1.0,1.0
+2021,39130.04,Gluten feed and meal,1.0,1.0,1.0,1.0,2.0
+2021,39150.01,Coffee husks and skins,65.0,0.7692307692307693,0.9846153846153847,0.6227218934911243,6.0
+2021,F0020,Bread,33.0,0.7878787878787878,1.0,0.6657483930211203,2.0
+2021,F0022,Pastry,1832.0,0.4546943231441048,0.8193231441048034,0.2897917421483191,17.0
+2021,F0030,"Rice, paddy (rice milled equivalent)",34058.0,0.8435022608491397,0.9982970227259381,0.7345056495166965,8.0
+2021,F0235,Prepared nuts,0.0,,,,1.0
+2021,F0262,Olives preserved,34.0,0.8529411764705882,1.0,0.7387543252595156,5.0
+2021,F0472,Vegetables preserved nes (o/t vinegar),622.0,0.4855305466237942,0.7861736334405145,0.30409114876810617,11.0
+2021,F0473,Vegetables frozen,22.0,0.5,0.8636363636363636,0.33884297520661155,5.0
+2021,F0623,Fruit prepared n.e.c.,20.0,0.85,1.0,0.7449999999999999,5.0
+2021,F0665,Cocoa powder and cake,27.0,0.7037037037037037,1.0,0.5829903978052127,3.0
+2021,F0666,Chocolate products nes,625.0,0.3888,0.6992,0.22491392,9.0
+2021,F0769,Cotton waste,1.0,1.0,1.0,1.0,4.0
+2021,F0875,beef and veal preparations nes,14.0,1.0,1.0,1.0,1.0
+2021,F0994,Wool grease and lanolin,0.0,,,,1.0
+2021,F1009,"Wool, hair waste",0.0,,,,1.0
+2021,F1061,Poultry meat preparations,55.0,0.45454545454545453,1.0,0.38776859504132233,3.0
+2021,F1232,Food preparations n.e.c.,1543.0,0.5029163966299417,0.7595593000648089,0.2993045758046815,25.0
+2021,F1243,Fat preparations n.e.c.,1.0,1.0,1.0,1.0,1.0
+2021,F1275,hydrogenated oils and fats,3675.0,0.44789115646258504,0.8843537414965987,0.30985822573927524,13.0
+2021,F1293,Crude organic material n.e.c.,11.0,0.5454545454545454,0.9090909090909092,0.371900826446281,5.0
